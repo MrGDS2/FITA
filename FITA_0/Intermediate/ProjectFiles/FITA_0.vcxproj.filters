@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\FITA_0.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{426C9254-C4F3-4511-88E5-C73A0F558353}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FITA_0.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\FITA_0Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{C0A293EC-04A4-40F6-9A08-42285513BB39}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\FITA_0">
+			<UniqueIdentifier>{69CBABC8-FA69-48F8-B18A-A685D7D656D7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FITA_0\FITA_0.Build.cs">
+			<Filter>Source\FITA_0</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\FITA_0\FITA_0.cpp">
+			<Filter>Source\FITA_0</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FITA_0\FITA_0.h">
+			<Filter>Source\FITA_0</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FITA_0\FITA_0GameModeBase.cpp">
+			<Filter>Source\FITA_0</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FITA_0\FITA_0GameModeBase.h">
+			<Filter>Source\FITA_0</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FITA_0\PositionReport.cpp">
+			<Filter>Source\FITA_0</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FITA_0\PositionReport.h">
+			<Filter>Source\FITA_0</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
