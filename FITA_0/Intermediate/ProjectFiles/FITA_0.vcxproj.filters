@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\FITA_0.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{426C9254-C4F3-4511-88E5-C73A0F558353}</UniqueIdentifier>
+			<UniqueIdentifier>{AF55E779-C004-4145-89F5-FAB04916B8BD}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\FITA_0.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{C0A293EC-04A4-40F6-9A08-42285513BB39}</UniqueIdentifier>
+			<UniqueIdentifier>{4ACBA823-F22C-4F3C-BBB4-C3D724E1938B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -25,8 +25,14 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\FITA_0">
-			<UniqueIdentifier>{69CBABC8-FA69-48F8-B18A-A685D7D656D7}</UniqueIdentifier>
+			<UniqueIdentifier>{48329CA0-FDE6-4869-9F6C-6675E22FBEAE}</UniqueIdentifier>
 		</Filter>
+		<ClCompile Include="..\..\Source\FITA_0\DoorRotation.cpp">
+			<Filter>Source\FITA_0</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FITA_0\DoorRotation.h">
+			<Filter>Source\FITA_0</Filter>
+		</ClInclude >
 		<None Include="..\..\Source\FITA_0\FITA_0.Build.cs">
 			<Filter>Source\FITA_0</Filter>
 		</None >

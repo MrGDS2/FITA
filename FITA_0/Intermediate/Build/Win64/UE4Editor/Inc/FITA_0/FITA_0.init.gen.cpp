@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeFITA_0_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/FITA_0",
 				PKG_CompiledIn | 0x00000000,
-				0xDA079F1D,
-				0x4ACF812C,
+				0x936D0C8F,
+				0x9F5F3A58,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};
