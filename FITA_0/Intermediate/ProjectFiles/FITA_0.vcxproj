@@ -84,7 +84,7 @@
 		</ProjectConfiguration>
 	</ItemGroup>
 	<PropertyGroup Label="Globals">
-		<ProjectGuid>{02F1BA41-37EF-4E57-AD37-2EDAEC1E6933}</ProjectGuid>
+		<ProjectGuid>{E7096BD7-09C4-4F7E-A654-93B16E7E34FC}</ProjectGuid>
 		<Keyword>MakeFileProj</Keyword>
 		<RootNamespace>FITA_0</RootNamespace>
 		<PlatformToolset>v141</PlatformToolset>

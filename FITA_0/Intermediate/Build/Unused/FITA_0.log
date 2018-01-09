@@ -1,10 +1,24 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build.
-  Compiling game modules for hot reload
-  Performing 3 actions (3 in parallel)
+  Creating makefile for FITA_0 (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Parsing headers for FITA_0
+    Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0\DebugGame\FITA_0.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for FITA_0 in 7.4593034 seconds
+  Performing 13 actions (3 in parallel)
+  [3/13] Resource PCLaunch.rc
+  PCH.UELinkerFixups.cpp
+  SharedPCH.Engine.NonOptimized.cpp
+  UELinkerFixups.cpp
+  FITA_0GameModeBase.cpp
+  FITA_0.cpp
+  DoorRotation.cpp
   PositionReport.cpp
-  [2/3] Link UE4Editor-FITA_0-749.dll
-  [3/3] Link UE4Editor-FITA_0-749.lib
-     Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-749.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-749.exp
-     Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-749.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-749.suppressed.exp
-  Deploying FITA_0Editor Win64 Development...
-  Total build time: 5.03 seconds (Local executor: 3.33 seconds)
+  DoorRotation.gen.cpp
+  FITA_0.init.gen.cpp
+  FITA_0GameModeBase.gen.cpp
+  PositionReport.gen.cpp
+  [13/13] Link FITA_0-Win64-DebugGame.exe
+     Creating library E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\FITA_0-Win64-DebugGame.lib and object E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\FITA_0-Win64-DebugGame.exp
+  Deploying FITA_0 Win64 DebugGame...
+  Prepping UE4 for deployment to Win64
+  Total build time: 83.62 seconds (Local executor: 67.69 seconds)
