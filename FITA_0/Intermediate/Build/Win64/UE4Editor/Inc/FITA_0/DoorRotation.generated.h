@@ -61,7 +61,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDoorRotation); \
 
 #define FITA_0_Source_FITA_0_DoorRotation_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__OpenAngle() { return STRUCT_OFFSET(UDoorRotation, OpenAngle); } \
-	FORCEINLINE static uint32 __PPO__PressurePoint() { return STRUCT_OFFSET(UDoorRotation, PressurePoint); }
+	FORCEINLINE static uint32 __PPO__PressurePoint() { return STRUCT_OFFSET(UDoorRotation, PressurePoint); } \
+	FORCEINLINE static uint32 __PPO__DoorCloseDelay() { return STRUCT_OFFSET(UDoorRotation, DoorCloseDelay); }
 
 
 #define FITA_0_Source_FITA_0_DoorRotation_h_12_PROLOG
