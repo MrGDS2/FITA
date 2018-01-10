@@ -20,7 +20,7 @@ void UDoorRotation::BeginPlay()
 	Super::BeginPlay();
 	Owner = GetOwner();//finds the owner and the actor it opens
 	OpensDoorActor= GetWorld()->GetFirstPlayerController()->GetPawn();
-
+	//CloseDoor();
 }
 
 void UDoorRotation::OpenDoor()
@@ -36,7 +36,7 @@ void UDoorRotation::CloseDoor()
 	
 	//create a rotator
 
-	Owner->SetActorRotation(FRotator(0.0f, 0.0f, 0.0f));
+	Owner->SetActorRotation(FRotator(0.0f, 0.0f, 0.0f)); //my doors are lefthanded doors 
 }
 
 // Called every frame

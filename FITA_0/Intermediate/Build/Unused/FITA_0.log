@@ -1,24 +1,14 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build.
-  Creating makefile for FITA_0 (no existing makefile)
-  Performing full C++ include scan (no include cache file)
+﻿  Performing full C++ include scan (building a new target)
+  Using 'git status' to determine working set for adaptive non-unity build.
   Parsing headers for FITA_0
     Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0\DebugGame\FITA_0.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for FITA_0 in 7.4593034 seconds
-  Performing 13 actions (3 in parallel)
-  [3/13] Resource PCLaunch.rc
-  PCH.UELinkerFixups.cpp
-  SharedPCH.Engine.NonOptimized.cpp
-  UELinkerFixups.cpp
-  FITA_0GameModeBase.cpp
-  FITA_0.cpp
-  DoorRotation.cpp
-  PositionReport.cpp
-  DoorRotation.gen.cpp
+  Reflection code generated for FITA_0 in 32.0705526 seconds
+  Performing 4 actions (3 in parallel)
   FITA_0.init.gen.cpp
-  FITA_0GameModeBase.gen.cpp
-  PositionReport.gen.cpp
-  [13/13] Link FITA_0-Win64-DebugGame.exe
+  DoorRotation.gen.cpp
+  DoorRotation.cpp
+  [4/4] Link FITA_0-Win64-DebugGame.exe
      Creating library E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\FITA_0-Win64-DebugGame.lib and object E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\FITA_0-Win64-DebugGame.exp
   Deploying FITA_0 Win64 DebugGame...
   Prepping UE4 for deployment to Win64
-  Total build time: 83.62 seconds (Local executor: 67.69 seconds)
+  Total build time: 168.11 seconds (Local executor: 129.71 seconds)

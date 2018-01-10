@@ -17,6 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorRotation() {}
 	FITA_0_API UClass* Z_Construct_UClass_UDoorRotation();
 	ENGINE_API UClass* Z_Construct_UClass_UActorComponent();
 	UPackage* Z_Construct_UPackage__Script_FITA_0();
+	ENGINE_API UClass* Z_Construct_UClass_ATriggerVolume_NoRegister();
 // End Cross Module References
 	void UDoorRotation::StaticRegisterNativesUDoorRotation()
 	{
@@ -42,6 +43,32 @@ void EmptyLinkFunctionForGeneratedCodeDoorRotation() {}
 				{ "ModuleRelativePath", "DoorRotation.h" },
 			};
 #endif
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DoorCloseDelay_MetaData[] = {
+				{ "Category", "DoorRotation" },
+				{ "ModuleRelativePath", "DoorRotation.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_DoorCloseDelay = { UE4CodeGen_Private::EPropertyClass::Float, "DoorCloseDelay", RF_Public|RF_Transient|RF_MarkAsNative, 0x0040000000000001, 1, nullptr, STRUCT_OFFSET(UDoorRotation, DoorCloseDelay), METADATA_PARAMS(NewProp_DoorCloseDelay_MetaData, ARRAY_COUNT(NewProp_DoorCloseDelay_MetaData)) };
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_PressurePoint_MetaData[] = {
+				{ "Category", "DoorRotation" },
+				{ "ModuleRelativePath", "DoorRotation.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_PressurePoint = { UE4CodeGen_Private::EPropertyClass::Object, "PressurePoint", RF_Public|RF_Transient|RF_MarkAsNative, 0x0040000000000001, 1, nullptr, STRUCT_OFFSET(UDoorRotation, PressurePoint), Z_Construct_UClass_ATriggerVolume_NoRegister, METADATA_PARAMS(NewProp_PressurePoint_MetaData, ARRAY_COUNT(NewProp_PressurePoint_MetaData)) };
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_OpenAngle_MetaData[] = {
+				{ "Category", "DoorRotation" },
+				{ "ModuleRelativePath", "DoorRotation.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_OpenAngle = { UE4CodeGen_Private::EPropertyClass::Float, "OpenAngle", RF_Public|RF_Transient|RF_MarkAsNative, 0x0040000000000001, 1, nullptr, STRUCT_OFFSET(UDoorRotation, OpenAngle), METADATA_PARAMS(NewProp_OpenAngle_MetaData, ARRAY_COUNT(NewProp_OpenAngle_MetaData)) };
+			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_DoorCloseDelay,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_PressurePoint,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_OpenAngle,
+			};
 			static const FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 				TCppClassTypeTraits<UDoorRotation>::IsAbstract,
 			};
@@ -50,7 +77,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorRotation() {}
 				DependentSingletons, ARRAY_COUNT(DependentSingletons),
 				0x00B00080u,
 				nullptr, 0,
-				nullptr, 0,
+				PropPointers, ARRAY_COUNT(PropPointers),
 				nullptr,
 				&StaticCppClassTypeInfo,
 				nullptr, 0,
@@ -60,7 +87,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorRotation() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UDoorRotation, 4131034038);
+	IMPLEMENT_CLASS(UDoorRotation, 2500689699);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_UDoorRotation(Z_Construct_UClass_UDoorRotation, &UDoorRotation::StaticClass, TEXT("/Script/FITA_0"), TEXT("UDoorRotation"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UDoorRotation);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
