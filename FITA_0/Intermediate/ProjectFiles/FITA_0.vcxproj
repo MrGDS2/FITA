@@ -420,6 +420,8 @@
 		<ClInclude Include="..\..\Source\FITA_0\FITA_0.h" />
 		<ClCompile Include="..\..\Source\FITA_0\FITA_0GameModeBase.cpp" />
 		<ClInclude Include="..\..\Source\FITA_0\FITA_0GameModeBase.h" />
+		<ClCompile Include="..\..\Source\FITA_0\Grabber.cpp" />
+		<ClInclude Include="..\..\Source\FITA_0\Grabber.h" />
 		<ClCompile Include="..\..\Source\FITA_0\PositionReport.cpp" />
 		<ClInclude Include="..\..\Source\FITA_0\PositionReport.h" />
 	</ItemGroup>
