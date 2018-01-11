@@ -1,6 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "Grabber.h"
+
 #define OUT
 
 // Sets default values for this component's properties
@@ -39,8 +40,23 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 	);
 
 	//log player viewpoint everytick
-	UE_LOG(LogTemp, Warning, TEXT("Player Location: %s, Player Position: %s"),
+	/*UE_LOG(LogTemp, Warning, TEXT("Player Location: %s, Player Position: %s"),
 		*PlayerViewLocation.ToString(),
-		*PlayerViewPointRotation.ToString());
+		*PlayerViewPointRotation.ToString());*/
+
+
+	FVector LineEnd = PlayerViewLocation + PlayerViewPointRotation.Vector() * Reach;	//Draw  a red line in the world
+	DrawDebugLine(
+		GetWorld(),
+		PlayerViewLocation,
+		LineEnd,
+		FColor(255, 0, 0),
+		false,
+		0.0f,
+		0.0f,
+		10.0f
+
+
+	);
 }
 
