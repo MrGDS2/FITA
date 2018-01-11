@@ -15,7 +15,7 @@ UGrabber::UGrabber()
 }
 
 
-// Called when the game starts
+///Called when the game starts
 void UGrabber::BeginPlay()
 {
 	Super::BeginPlay();
@@ -26,7 +26,7 @@ void UGrabber::BeginPlay()
 }
 
 
-// Called every frame
+/// Called every frame
 void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
@@ -45,7 +45,10 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 		*PlayerViewPointRotation.ToString());*/
 
 
-	FVector LineEnd = PlayerViewLocation + PlayerViewPointRotation.Vector() * Reach;	//Draw  a red line in the world
+	FVector LineEnd = PlayerViewLocation + PlayerViewPointRotation.Vector() * Reach;	
+	
+	
+	///Draw  a red line in the world
 	DrawDebugLine(
 		GetWorld(),
 		PlayerViewLocation,
@@ -58,5 +61,30 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 
 
 	);
+
+
+	//Set a query parameters
+	FCollisionQueryParams TraceParams(FName(TEXT(" ")), false, GetOwner());
+
+
+	///Raycasting
+	FHitResult Hit;
+	GetWorld()->LineTraceSingleByObjectType(
+
+		OUT Hit,
+		PlayerViewLocation,
+		LineEnd,
+		FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),
+		TraceParams
+	);
+
+	AActor* ActorHit = Hit.GetActor();
+	if (ActorHit)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("Your looking at the: %s "), *ActorHit->GetName());
+	}
+	
+
+
 }
 
