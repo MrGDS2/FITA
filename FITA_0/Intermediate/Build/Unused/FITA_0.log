@@ -1,14 +1,30 @@
-﻿  Performing full C++ include scan (building a new target)
+﻿  Performing full C++ include scan (hot reloading a new target)
   Using 'git status' to determine working set for adaptive non-unity build.
-  Parsing headers for FITA_0
-    Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0\DebugGame\FITA_0.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for FITA_0 in 32.0705526 seconds
-  Performing 4 actions (3 in parallel)
-  FITA_0.init.gen.cpp
-  DoorRotation.gen.cpp
+  Creating makefile for hot reloading FITA_0Editor (no existing makefile)
+  Compiling game modules for hot reload
+  Parsing headers for FITA_0Editor
+    Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\DebugGame\FITA_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for FITA_0Editor in 20.2569236 seconds
+  Performing 14 actions (3 in parallel)
+  [2/14] Resource PCLaunch.rc
+  SharedPCH.Engine.NonOptimized.cpp
   DoorRotation.cpp
-  [4/4] Link FITA_0-Win64-DebugGame.exe
-     Creating library E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\FITA_0-Win64-DebugGame.lib and object E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\FITA_0-Win64-DebugGame.exp
-  Deploying FITA_0 Win64 DebugGame...
-  Prepping UE4 for deployment to Win64
-  Total build time: 168.11 seconds (Local executor: 129.71 seconds)
+  FITA_0.cpp
+  FITA_0GameModeBase.cpp
+  Grabber.cpp
+  PositionReport.cpp
+  DoorRotation.gen.cpp
+  FITA_0.init.gen.cpp
+  FITA_0GameModeBase.gen.cpp
+  Grabber.gen.cpp
+  PositionReport.gen.cpp
+E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\Grabber.cpp(45): error C2672: 'UInputComponent::BindAction': no matching overloaded function found
+E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\Grabber.cpp(45): error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,DelegateType::TUObjectMethodDelegate<UserClass>::FMethodPtr,VarTypes...)': expects 5 arguments - 3 provided
+  E:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(688): note: see declaration of 'UInputComponent::BindAction'
+E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\Grabber.cpp(45): error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void,FKey>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': expects 4 arguments - 3 provided
+  E:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(676): note: see declaration of 'UInputComponent::BindAction'
+E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\Grabber.cpp(45): error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': expects 4 arguments - 3 provided
+  E:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(664): note: see declaration of 'UInputComponent::BindAction'
+ERROR : UBT error : Failed to produce item: E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\UE4Editor-FITA_0-7824-Win64-DebugGame.dll
+  Total build time: 160.83 seconds (Local executor: 0.00 seconds)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""E:\Program Files\Epic Games\UE_4.18\Engine\Build\BatchFiles\Build.bat" FITA_0Editor Win64 DebugGame "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" -waitmutex" exited with code 5. Please verify that you have sufficient rights to run this command.

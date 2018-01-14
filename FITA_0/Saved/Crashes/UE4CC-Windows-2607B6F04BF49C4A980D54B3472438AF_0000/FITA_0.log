@@ -1,0 +1,1666 @@
+﻿Log file open, 01/13/18 14:08:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: ../../../../../../Documents/GitHub/FITA/FITA_0/FITA_0.uproject
+LogInit: Display: RandInit(1542724422) SRandInit(1542724423).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.194688
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Documents/GitHub/FITA/FITA_0/Binaries/Win64/UE4Editor-FITA_0-8643.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.13-19.08.28:111][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.13-19.08.28:111][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.13-19.08.28:204][  0]LogInit: Computer: PEARL
+[2018.01.13-19.08.28:204][  0]LogInit: User: Mrgds2
+[2018.01.13-19.08.28:205][  0]LogInit: CPU Page size=4096, Cores=3
+[2018.01.13-19.08.28:205][  0]LogInit: High frequency timer resolution =3.429443 MHz
+[2018.01.13-19.08.28:205][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.13-19.08.28:205][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.13-19.08.28:205][  0]LogMemory: Process Physical Memory: 271.54 MB used, 271.54 MB peak
+[2018.01.13-19.08.28:205][  0]LogMemory: Process Virtual Memory: 269.51 MB used, 269.51 MB peak
+[2018.01.13-19.08.28:205][  0]LogMemory: Physical Memory: 3790.46 MB used,  4302.41 MB free, 8092.87 MB total
+[2018.01.13-19.08.28:205][  0]LogMemory: Virtual Memory: 680.64 MB used,  4302.41 MB free, 134217728.00 MB total
+[2018.01.13-19.08.29:188][  0]LogInit: Using OS detected language (en-US).
+[2018.01.13-19.08.29:188][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.13-19.08.29:545][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.13-19.08.30:607][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.13-19.08.35:282][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.13-19.08.35:440][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.01.13-19.08.35:440][  0]LogD3D11RHI:       4058/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.13-19.08.35:444][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.13-19.08.35:444][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.13-19.08.35:444][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.13-19.08.35:453][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.13-19.08.35:453][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.13-19.08.35:453][  0]LogWindows: EnumDisplayDevices:
+[2018.01.13-19.08.35:454][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.01.13-19.08.35:454][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.01.13-19.08.35:454][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.13-19.08.35:454][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.13-19.08.35:454][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.13-19.08.35:454][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.01.13-19.08.35:454][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.13-19.08.35:454][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.13-19.08.35:455][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.01.13-19.08.35:501][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.13-19.08.35:613][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.13-19.08.35:713][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Documents/GitHub/FITA/FITA_0/Intermediate/Shaders/WorkingDirectory/6344/).
+[2018.01.13-19.08.35:713][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mrgds/AppData/Local/Temp/UnrealShaderWorkingDir/BB1AC512472EC3799E1F2B8750BBB93D/'.
+[2018.01.13-19.08.35:713][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.13-19.08.40:257][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.13-19.08.40:345][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.13-19.08.40:431][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.13-19.08.40:522][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.13-19.08.40:643][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.13-19.08.40:734][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.13-19.08.40:829][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.13-19.08.40:927][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.13-19.08.41:011][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.13-19.08.41:105][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.13-19.08.41:192][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.13-19.08.41:277][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.13-19.08.41:361][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.13-19.08.41:445][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.13-19.08.41:621][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.13-19.08.41:621][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.13-19.08.41:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.13-19.08.41:793][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.13-19.08.42:037][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.13-19.08.42:086][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.13-19.08.42:174][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.13-19.08.42:268][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.13-19.08.42:356][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.13-19.08.42:469][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.13-19.08.42:469][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.13-19.08.44:403][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.13-19.08.44:922][  0]LogDerivedDataCache: Loaded boot cache 0.52s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.13-19.08.44:922][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.13-19.08.44:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/GitHub/FITA/FITA_0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.13-19.08.44:922][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.13-19.08.44:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/GitHub/FITA/FITA_0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.13-19.08.44:922][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.13-19.08.45:035][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.13-19.08.45:055][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mrgds/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.13-19.08.45:076][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.13-19.08.45:077][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.13-19.08.45:138][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.13-19.08.45:139][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.13-19.08.52:185][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.13-19.08.53:708][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.13-19.08.53:818][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.13-19.08.53:831][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.13-19.08.53:853][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.13-19.08.53:853][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.13-19.08.53:853][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.13-19.08.54:053][  0]LogNetVersion: FITA_0 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2661453100)
+[2018.01.13-19.08.56:032][  0]LogAssetRegistry: FAssetRegistry took 0.0310 seconds to start up
+[2018.01.13-19.09.06:049][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.236135 seconds
+[2018.01.13-19.09.06:056][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.13-19.09.06:056][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.01.13-19.09.06:056][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.13-19.09.06:150][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.13-19.09.35:461][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.13-19.09.35:586][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.13-19.09.37:509][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.13-19.09.38:623][  0]SourceControl: Source control is disabled
+[2018.01.13-19.09.38:623][  0]SourceControl: Source control is disabled
+[2018.01.13-19.09.38:715][  0]SourceControl: Source control is disabled
+[2018.01.13-19.09.38:816][  0]SourceControl: Source control is disabled
+[2018.01.13-19.09.40:574][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.13-19.09.41:132][  0]LogOcInput: OculusInput pre-init called
+[2018.01.13-19.09.41:807][  0]LogEngine: Initializing Engine...
+[2018.01.13-19.09.41:917][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.01.13-19.09.43:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.13-19.09.43:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.13-19.09.43:339][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.13-19.09.43:377][  0]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-19.09.43:401][  0]LogInit: FAudioDevice initialized.
+[2018.01.13-19.09.43:512][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.13-19.09.43:539][  0]LogInit: Texture streaming: Enabled
+[2018.01.13-19.09.43:727][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.13-19.09.44:058][  0]LogInit: Transaction tracking system initialized
+[2018.01.13-19.09.44:888][  0]BlueprintLog: New page: Editor Load
+[2018.01.13-19.09.49:398][  0]LocalizationService: Localization service is disabled
+[2018.01.13-19.09.54:107][  0]LogConsoleResponse: Display: 
+[2018.01.13-19.09.58:682][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.13-19.09.58:682][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.13-19.09.58:683][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.13-19.09.59:745][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/' took 0.02s
+[2018.01.13-19.10.05:842][  0]SourceControl: Source control is disabled
+[2018.01.13-19.10.05:842][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.13-19.10.05:843][  0]LightingResults: New page: Lighting Build
+[2018.01.13-19.10.05:922][  0]MapCheck: New page: Map Check
+[2018.01.13-19.10.05:922][  0]LightingResults: New page: Lighting Build
+[2018.01.13-19.10.13:551][  0]LogAIModule: Creating AISystem for world Level_0
+[2018.01.13-19.10.13:607][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.13-19.10.13:632][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.13-19.10.13:722][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 90.139ms to complete.
+[2018.01.13-19.10.13:722][  0]LogFileHelpers: Loading map 'Level_0' took 7.880
+[2018.01.13-19.10.14:838][  0]LogCollectionManager: Loaded 0 collections in 0.066331 seconds
+[2018.01.13-19.10.15:037][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Saved/Collections/' took 0.01s
+[2018.01.13-19.10.15:037][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/Developers/Mrgds2/Collections/' took 0.01s
+[2018.01.13-19.10.15:037][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/Collections/' took 0.01s
+[2018.01.13-19.10.15:037][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.13-19.10.15:055][  0]LogContentBrowser: Native class hierarchy populated in 0.0178 seconds. Added 2368 classes and 523 folders.
+[2018.01.13-19.10.15:179][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.01.13-19.10.22:154][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.01.13-19.10.22:350][  0]LogSlate: Took 0.110915 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.13-19.10.22:400][  0]LogSlate: Took 0.044401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.13-19.10.22:422][  0]LogSlate: Took 0.016960 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.13-19.10.22:438][  0]LogSlate: Took 0.016009 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.01.13-19.10.23:059][  0]LogRenderer: Reallocating scene render targets to support 1200x688 Format 10 NumSamples 1 (Frame:1).
+[2018.01.13-19.10.23:383][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.01.13-19.10.23:383][  0]LogLoad: (Engine Initialization) Total time: 155.62 seconds
+[2018.01.13-19.10.23:383][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.13-19.10.23:384][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.13-19.10.23:384][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.13-19.10.23:746][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.13-19.10.24:076][  1]LogAssetRegistry: Asset discovery search completed in 88.0653 seconds
+[2018.01.13-19.10.24:080][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.13-19.10.24:080][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000332 seconds (updated 0 objects)
+[2018.01.13-19.11.51:674][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.13-19.11.51:777][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.13-19.11.51:778][ 86]PIE: New page: PIE session: Level_0 (Jan 13, 2018, 9:11:51 AM)
+[2018.01.13-19.11.51:778][ 86]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.13-19.11.51:786][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008578s)
+[2018.01.13-19.11.51:787][ 86]LogAIModule: Creating AISystem for world Level_0
+[2018.01.13-19.11.51:788][ 86]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2018.01.13-19.11.51:788][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.010443s)
+[2018.01.13-19.11.51:826][ 86]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-19.11.51:832][ 86]LogInit: FAudioDevice initialized.
+[2018.01.13-19.11.51:981][ 86]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.13-19.11.51:985][ 86]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.13-14.11.51
+[2018.01.13-19.11.51:986][ 86]LogWorld: Bringing up level for play took: 0.002202
+[2018.01.13-19.11.52:061][ 86]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2018.01.13-19.11.52:063][ 86]LogTemp: Warning: Grabber has spawned
+[2018.01.13-19.11.52:063][ 86]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.13-19.11.52:063][ 86]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.047
+[2018.01.13-19.11.59:622][982]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:630][983]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:638][984]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:647][985]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:655][986]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:663][987]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:672][988]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:680][989]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:688][990]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:697][991]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:705][992]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:713][993]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:722][994]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:730][995]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:738][996]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:747][997]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:755][998]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:763][999]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:772][  0]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:780][  1]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:788][  2]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:797][  3]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:805][  4]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:813][  5]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:822][  6]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:830][  7]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:838][  8]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:846][  9]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:855][ 10]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:863][ 11]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:871][ 12]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:880][ 13]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:888][ 14]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:896][ 15]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:905][ 16]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:913][ 17]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:921][ 18]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:930][ 19]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:938][ 20]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:947][ 21]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:955][ 22]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:963][ 23]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:971][ 24]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:980][ 25]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:988][ 26]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.11.59:997][ 27]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:006][ 28]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:015][ 29]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:023][ 30]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:032][ 31]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:040][ 32]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:048][ 33]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:057][ 34]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:065][ 35]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:074][ 36]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:082][ 37]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:090][ 38]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:098][ 39]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:107][ 40]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:115][ 41]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:124][ 42]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:132][ 43]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:140][ 44]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:148][ 45]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:157][ 46]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:165][ 47]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:173][ 48]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:182][ 49]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:190][ 50]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:198][ 51]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:207][ 52]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:215][ 53]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:223][ 54]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:232][ 55]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:240][ 56]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:248][ 57]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:257][ 58]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:265][ 59]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:273][ 60]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:282][ 61]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:290][ 62]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:298][ 63]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:307][ 64]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:315][ 65]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:323][ 66]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:332][ 67]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:340][ 68]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:348][ 69]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:357][ 70]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:365][ 71]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:373][ 72]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:382][ 73]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:390][ 74]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:398][ 75]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:407][ 76]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:415][ 77]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:423][ 78]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:432][ 79]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:440][ 80]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:448][ 81]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:456][ 82]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:465][ 83]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:473][ 84]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:482][ 85]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:490][ 86]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:498][ 87]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:507][ 88]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:515][ 89]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:523][ 90]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:531][ 91]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:540][ 92]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:548][ 93]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:557][ 94]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:565][ 95]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:573][ 96]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:581][ 97]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:590][ 98]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:598][ 99]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:607][100]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:615][101]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:623][102]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:632][103]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:640][104]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:648][105]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:657][106]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:665][107]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:673][108]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:681][109]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:690][110]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:698][111]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:707][112]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:715][113]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:723][114]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:732][115]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:740][116]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:748][117]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:757][118]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:765][119]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:773][120]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:782][121]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:790][122]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:798][123]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:807][124]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:815][125]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:823][126]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:831][127]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:840][128]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:848][129]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:856][130]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:865][131]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:873][132]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:881][133]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:890][134]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:898][135]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:907][136]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:916][137]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:924][138]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:932][139]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:941][140]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:949][141]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:958][142]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:966][143]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:974][144]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:982][145]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:991][146]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.00:999][147]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:008][148]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:016][149]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:024][150]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:033][151]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:041][152]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:049][153]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:058][154]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:066][155]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:074][156]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:083][157]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:091][158]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:100][159]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:109][160]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:117][161]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:125][162]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:134][163]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:142][164]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:150][165]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:159][166]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:167][167]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:175][168]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:184][169]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.01:317][185]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:325][186]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:334][187]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:342][188]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:350][189]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:359][190]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:367][191]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:375][192]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:383][193]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:392][194]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:400][195]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:409][196]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:417][197]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:425][198]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:433][199]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:442][200]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:450][201]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:458][202]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:467][203]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:475][204]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:483][205]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:492][206]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:500][207]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:509][208]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:517][209]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:526][210]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:534][211]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:542][212]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:550][213]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:559][214]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:567][215]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:575][216]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:584][217]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:592][218]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:601][219]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:609][220]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:617][221]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:626][222]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:634][223]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:643][224]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:651][225]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:659][226]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:667][227]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:676][228]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:684][229]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:692][230]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:701][231]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:709][232]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:717][233]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:725][234]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:734][235]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:742][236]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:751][237]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:759][238]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:767][239]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:775][240]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:784][241]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:792][242]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:800][243]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:809][244]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:817][245]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:825][246]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:834][247]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:842][248]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:850][249]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:859][250]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:867][251]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:875][252]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:884][253]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:892][254]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:900][255]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:909][256]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:917][257]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:925][258]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:934][259]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:942][260]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:950][261]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:959][262]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:967][263]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:975][264]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:984][265]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.01:992][266]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:001][267]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:009][268]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:017][269]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:026][270]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:034][271]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:042][272]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:051][273]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:059][274]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:067][275]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:076][276]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:084][277]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:092][278]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:101][279]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:109][280]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:117][281]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:126][282]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:134][283]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:142][284]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:151][285]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:159][286]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:167][287]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:176][288]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:184][289]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:192][290]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:201][291]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:209][292]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:218][293]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:226][294]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:234][295]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:242][296]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:251][297]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:259][298]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:267][299]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:276][300]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:284][301]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:292][302]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:300][303]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:309][304]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:317][305]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:325][306]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:334][307]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:342][308]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:350][309]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:358][310]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:367][311]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:375][312]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:383][313]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:392][314]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:400][315]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:408][316]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:417][317]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:425][318]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:433][319]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:442][320]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:450][321]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:459][322]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:467][323]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:475][324]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:484][325]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:492][326]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:501][327]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:509][328]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:517][329]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:526][330]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:534][331]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:542][332]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:550][333]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:559][334]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:567][335]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:576][336]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:584][337]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:592][338]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:600][339]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:609][340]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:617][341]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:626][342]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:634][343]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:642][344]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:650][345]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:659][346]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:667][347]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:676][348]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:684][349]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:692][350]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:700][351]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:709][352]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:717][353]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:725][354]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:734][355]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:742][356]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:750][357]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:759][358]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:767][359]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:776][360]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:784][361]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:792][362]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:801][363]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:809][364]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:817][365]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:826][366]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:834][367]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:842][368]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:851][369]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:859][370]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:867][371]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:875][372]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:883][373]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:892][374]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:900][375]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:908][376]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:917][377]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:925][378]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:933][379]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:942][380]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:950][381]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:958][382]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:967][383]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:975][384]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:983][385]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.02:992][386]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:000][387]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:009][388]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:017][389]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:026][390]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:035][391]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:043][392]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:053][393]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:061][394]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:070][395]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:078][396]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:086][397]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:095][398]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:103][399]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:111][400]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:119][401]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:128][402]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:136][403]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:145][404]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:153][405]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:161][406]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:169][407]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:178][408]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:186][409]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:194][410]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:203][411]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:211][412]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:219][413]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:227][414]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:236][415]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:244][416]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:253][417]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:261][418]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:270][419]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:278][420]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:286][421]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:295][422]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:303][423]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:311][424]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:320][425]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:328][426]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:336][427]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:345][428]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:353][429]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:361][430]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:370][431]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:378][432]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:386][433]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:395][434]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:403][435]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:411][436]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:420][437]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:428][438]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:436][439]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:445][440]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:453][441]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:461][442]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:470][443]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:478][444]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:486][445]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:495][446]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.03:503][447]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.05:847][728]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:855][729]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:864][730]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:872][731]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:880][732]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:889][733]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:897][734]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:906][735]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:915][736]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:924][737]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:933][738]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:942][739]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:950][740]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:959][741]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:967][742]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:975][743]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:983][744]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.05:992][745]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:000][746]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:009][747]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:017][748]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:025][749]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:033][750]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:042][751]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:050][752]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:058][753]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:067][754]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:075][755]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:084][756]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:092][757]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:101][758]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:109][759]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:118][760]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:126][761]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:134][762]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:142][763]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:151][764]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:159][765]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:167][766]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:176][767]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:184][768]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:192][769]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:201][770]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:209][771]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:217][772]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:226][773]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:234][774]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:243][775]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:251][776]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:260][777]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:268][778]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:276][779]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:284][780]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:293][781]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:301][782]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:309][783]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:318][784]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:326][785]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:335][786]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:343][787]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:351][788]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:359][789]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:368][790]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:376][791]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:385][792]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:393][793]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:401][794]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:410][795]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:418][796]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:426][797]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:435][798]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:443][799]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:451][800]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:459][801]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:468][802]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:476][803]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:485][804]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:493][805]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:501][806]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:510][807]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:518][808]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:527][809]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:535][810]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:543][811]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:552][812]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:560][813]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:568][814]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:577][815]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:585][816]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:593][817]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:602][818]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.06:627][821]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.06:635][822]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.06:643][823]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.06:652][824]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.06:660][825]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.06:668][826]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.06:677][827]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.06:685][828]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.06:693][829]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:077][875]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:085][876]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:093][877]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:102][878]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:110][879]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:118][880]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:127][881]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:135][882]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:143][883]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:152][884]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:160][885]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:168][886]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:176][887]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:185][888]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:193][889]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:201][890]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:210][891]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:218][892]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:226][893]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:235][894]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:243][895]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:252][896]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:260][897]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:268][898]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:276][899]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:285][900]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:293][901]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:302][902]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:310][903]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:318][904]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:326][905]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:335][906]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:343][907]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:352][908]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:360][909]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:368][910]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:376][911]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:385][912]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:393][913]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:401][914]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:410][915]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:418][916]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:426][917]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:435][918]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:443][919]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:451][920]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:460][921]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:468][922]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:476][923]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:485][924]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:493][925]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:501][926]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:510][927]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:518][928]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:526][929]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:535][930]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:543][931]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:551][932]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:560][933]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:568][934]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:576][935]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:585][936]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:593][937]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:601][938]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:610][939]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:618][940]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:626][941]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:635][942]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:643][943]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:651][944]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:660][945]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:668][946]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:677][947]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:685][948]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:693][949]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:702][950]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:710][951]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:718][952]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:727][953]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:735][954]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:743][955]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:752][956]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:760][957]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:768][958]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:776][959]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:785][960]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:793][961]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:801][962]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:810][963]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:818][964]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:826][965]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-19.12.07:851][968]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.07:860][969]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.07:868][970]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.07:877][971]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.07:885][972]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.07:893][973]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.07:901][974]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.07:926][977]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.07:935][978]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.07:943][979]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.07:952][980]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.07:960][981]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.07:968][982]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.07:976][983]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.07:985][984]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.07:993][985]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:002][986]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:010][987]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:019][988]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:027][989]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:035][990]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:044][991]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:052][992]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:061][993]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:069][994]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:536][ 50]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:544][ 51]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:553][ 52]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:561][ 53]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:569][ 54]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:577][ 55]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:586][ 56]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:594][ 57]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:603][ 58]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:611][ 59]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:619][ 60]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:627][ 61]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:636][ 62]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:644][ 63]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:653][ 64]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:661][ 65]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:669][ 66]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:677][ 67]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:686][ 68]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:694][ 69]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:703][ 70]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:711][ 71]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:719][ 72]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:727][ 73]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:736][ 74]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:744][ 75]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:753][ 76]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:761][ 77]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:769][ 78]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:777][ 79]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:786][ 80]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:794][ 81]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:802][ 82]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:811][ 83]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:819][ 84]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:828][ 85]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:836][ 86]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:844][ 87]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:853][ 88]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.08:861][ 89]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.12.10:879][331]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.10:887][332]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.10:896][333]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.10:904][334]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.10:913][335]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.10:922][336]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.10:931][337]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.10:939][338]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.10:948][339]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.10:956][340]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.10:965][341]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.10:973][342]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.10:981][343]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:382][391]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:390][392]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:399][393]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:407][394]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:415][395]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:423][396]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:432][397]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:440][398]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:448][399]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:457][400]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:465][401]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:474][402]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:482][403]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:490][404]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:499][405]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:507][406]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:515][407]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:524][408]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.11:532][409]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.12:191][488]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:200][489]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:208][490]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:216][491]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:225][492]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:233][493]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:242][494]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:250][495]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:258][496]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:267][497]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:275][498]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:283][499]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:292][500]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:300][501]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:308][502]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:316][503]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:325][504]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:333][505]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:342][506]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:350][507]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:358][508]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:366][509]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:375][510]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:383][511]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:391][512]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:399][513]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:407][514]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:416][515]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:424][516]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:432][517]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:441][518]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:449][519]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:458][520]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:466][521]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:474][522]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:483][523]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:491][524]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:499][525]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:508][526]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:516][527]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:524][528]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:533][529]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:541][530]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:550][531]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:558][532]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:566][533]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:574][534]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:583][535]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:591][536]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:599][537]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:608][538]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:616][539]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:624][540]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:633][541]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:641][542]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:649][543]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:658][544]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:666][545]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:674][546]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:683][547]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:691][548]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:699][549]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:708][550]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:716][551]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:724][552]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:733][553]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:741][554]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:749][555]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:758][556]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:766][557]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:774][558]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:783][559]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:791][560]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:799][561]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:808][562]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:816][563]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:824][564]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:833][565]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:841][566]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:849][567]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:858][568]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:866][569]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:875][570]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:883][571]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:892][572]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:900][573]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:908][574]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:917][575]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:925][576]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:933][577]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:942][578]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:950][579]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:958][580]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:966][581]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:975][582]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:983][583]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.12:992][584]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:000][585]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:008][586]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:016][587]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:025][588]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:033][589]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:042][590]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:050][591]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:059][592]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:067][593]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:076][594]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:084][595]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:092][596]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:101][597]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:109][598]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:117][599]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:126][600]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:134][601]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:142][602]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:151][603]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:159][604]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:168][605]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:176][606]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:185][607]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:193][608]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:201][609]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:210][610]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:218][611]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:226][612]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:235][613]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:243][614]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:252][615]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:260][616]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:268][617]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:276][618]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:285][619]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:293][620]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:301][621]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:309][622]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:318][623]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:326][624]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:335][625]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:343][626]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:352][627]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:360][628]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:368][629]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:376][630]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:385][631]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:393][632]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:402][633]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:410][634]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:418][635]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:426][636]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:435][637]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:443][638]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:452][639]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:460][640]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:468][641]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:476][642]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:485][643]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:493][644]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:502][645]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:510][646]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:518][647]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:527][648]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:535][649]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:544][650]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:552][651]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:561][652]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:569][653]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:577][654]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:586][655]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:594][656]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:602][657]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:610][658]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:619][659]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:627][660]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:636][661]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:644][662]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:652][663]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:660][664]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:669][665]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:677][666]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:685][667]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:694][668]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:702][669]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:710][670]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:718][671]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:727][672]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:735][673]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:744][674]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:752][675]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:760][676]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:769][677]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:777][678]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:785][679]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:794][680]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:802][681]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:810][682]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:819][683]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:827][684]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:835][685]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:843][686]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:852][687]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:860][688]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:868][689]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:877][690]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:885][691]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:893][692]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:902][693]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:910][694]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:919][695]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:927][696]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:936][697]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:944][698]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:952][699]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:961][700]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:970][701]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:978][702]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:986][703]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.13:994][704]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:003][705]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:011][706]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:019][707]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:027][708]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:036][709]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:044][710]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:052][711]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:061][712]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:069][713]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:077][714]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:086][715]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:094][716]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:102][717]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:111][718]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:119][719]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:127][720]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:136][721]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:144][722]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:153][723]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:161][724]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:169][725]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:178][726]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:186][727]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:194][728]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:202][729]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:211][730]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:219][731]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:228][732]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:236][733]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:244][734]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:253][735]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:261][736]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:269][737]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:277][738]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:286][739]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:294][740]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:302][741]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:310][742]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:319][743]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:327][744]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:336][745]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:344][746]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:352][747]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:361][748]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:369][749]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:378][750]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:386][751]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:394][752]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:402][753]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:411][754]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:419][755]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:427][756]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:436][757]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:444][758]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:453][759]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:461][760]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:469][761]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:477][762]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:486][763]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:494][764]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:502][765]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:511][766]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:519][767]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:527][768]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:536][769]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:544][770]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:552][771]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:561][772]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:569][773]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:577][774]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:586][775]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:594][776]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:602][777]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:611][778]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:619][779]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:627][780]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:636][781]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:644][782]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:652][783]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:661][784]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.14:669][785]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.13-19.12.15:045][830]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:054][831]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:063][832]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:071][833]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:079][834]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:088][835]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:096][836]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:104][837]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:113][838]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:121][839]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:129][840]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:138][841]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:146][842]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:154][843]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.15:163][844]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-19.12.16:797][ 40]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:806][ 41]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:814][ 42]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:823][ 43]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:831][ 44]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:839][ 45]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:847][ 46]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:856][ 47]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:864][ 48]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:873][ 49]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:881][ 50]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:889][ 51]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:897][ 52]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:906][ 53]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:914][ 54]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:922][ 55]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:931][ 56]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:939][ 57]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:947][ 58]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:956][ 59]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:965][ 60]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:973][ 61]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:981][ 62]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:990][ 63]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.16:998][ 64]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:006][ 65]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:015][ 66]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:023][ 67]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:031][ 68]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:040][ 69]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:048][ 70]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:056][ 71]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:065][ 72]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:073][ 73]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:081][ 74]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:090][ 75]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:098][ 76]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:106][ 77]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:115][ 78]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:123][ 79]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:131][ 80]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:140][ 81]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:148][ 82]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:157][ 83]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:165][ 84]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:173][ 85]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:182][ 86]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:190][ 87]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:198][ 88]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:207][ 89]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:215][ 90]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:223][ 91]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:232][ 92]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:240][ 93]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:248][ 94]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:257][ 95]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:265][ 96]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:273][ 97]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:282][ 98]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:290][ 99]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.17:298][100]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.12.24:664][955]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Chair2)
+[2018.01.13-19.12.27:377][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x401)
+[2018.01.13-19.12.32:380][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair2)
+[2018.01.13-19.12.35:527][896]LogSlate: Took 0.014473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.13-19.12.39:297][155]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.13-19.12.56:054][222]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.13-19.13.02:197][230]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.13-19.17.40:253][ 63]LogWindows: LaunchFileInExternalEditor E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/Grabber.h 
+[2018.01.13-19.17.40:703][ 63]LogWindows: Launch application code for E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/Grabber.h : 42
+[2018.01.13-19.17.40:703][ 63]LogWindows: LaunchFileInExternalEditor E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/Grabber.cpp 
+[2018.01.13-19.17.40:955][ 63]LogWindows: Launch application code for E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/Grabber.cpp : 42
+[2018.01.13-19.17.40:955][ 63]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.13-19.17.40:963][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:963][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:963][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:964][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:964][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:964][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:965][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:965][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:965][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:965][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:966][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:966][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:966][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:967][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:967][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:967][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:967][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:968][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:968][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:968][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:968][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:968][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:968][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:969][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:969][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:969][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:969][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:969][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:970][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:970][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:970][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:970][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:970][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:970][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:971][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:971][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:971][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:971][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:971][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:971][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:972][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:972][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:972][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:972][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:972][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:972][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:973][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:973][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:973][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:973][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:973][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:973][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:974][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:974][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:974][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:974][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:974][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:975][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:975][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:975][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:975][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:976][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:976][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:976][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:976][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:976][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:977][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:977][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:977][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:977][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:977][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:978][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:978][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:978][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:978][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:979][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:979][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:979][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:979][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:979][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:980][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:980][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:980][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:980][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:981][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:981][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:981][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:981][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:981][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:982][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:982][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:986][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:986][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:987][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:987][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:987][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.40:987][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:040][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:064][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:064][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:067][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:068][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:068][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:069][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:078][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:079][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:079][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:079][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:079][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:080][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.17.41:086][ 63]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.13-19.19.44:278][896]LogSlate: Took 0.015979 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.13-19.19.46:009][896]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0030 seconds. Added 116 classes and 0 folders.
+[2018.01.13-19.19.48:710][896]LogSlate: Took 0.038146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.13-19.19.55:330][176]LogSlate: Took 0.011186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.13-19.20.07:814][520]BlueprintLog: New page: Compile DefaultPawn_BP
+[2018.01.13-19.21.02:520][672]LogSlate: Took 0.019994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.13-19.21.11:001][698]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.032
+[2018.01.13-19.21.11:038][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DefaultPawn_BP] ([1] browsable assets)...
+[2018.01.13-19.21.11:083][698]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DefaultPawn_BP.DefaultPawn_BP]
+[2018.01.13-19.21.11:083][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/DefaultPawn_BP]
+[2018.01.13-19.21.11:084][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultPawn_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/DefaultPawn_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.01.13-19.21.11:428][698]LogSavePackage: Save=127.61ms
+[2018.01.13-19.21.11:428][698]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/DefaultPawn_BP_Auto1365D0D7C41A8B13A9B79C99531AA71C3.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/DefaultPawn_BP_Auto1.uasset'
+[2018.01.13-19.21.11:452][698]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/DefaultPawn_BP_Auto1.uasset
+[2018.01.13-19.21.11:452][698]LogFileHelpers: Auto-saving content packages took 0.449
+[2018.01.13-19.35.26:180][557]BlueprintLog: New page: Compile DefaultPawn_BP
+[2018.01.13-19.35.31:766][839]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.13-19.35.31:851][839]Candidate modules for hot reload:
+[2018.01.13-19.35.31:851][839]  FITA_0
+[2018.01.13-19.35.31:893][839]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 2589 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.13-19.35.32:133][839]Warning: Starting HotReload took  0.4s.
+[2018.01.13-19.36.09:254][122]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.057
+[2018.01.13-19.36.09:257][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DefaultPawn_BP] ([1] browsable assets)...
+[2018.01.13-19.36.09:325][122]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DefaultPawn_BP.DefaultPawn_BP]
+[2018.01.13-19.36.09:325][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/DefaultPawn_BP]
+[2018.01.13-19.36.09:325][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultPawn_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/DefaultPawn_BP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.13-19.36.09:771][122]LogSavePackage: Save=43.87ms
+[2018.01.13-19.36.09:771][122]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/DefaultPawn_BP_Auto27E1E49E4490A2679A705768007E8CDBE.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/DefaultPawn_BP_Auto2.uasset'
+[2018.01.13-19.36.09:787][122]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/DefaultPawn_BP_Auto2.uasset
+[2018.01.13-19.36.09:787][122]LogFileHelpers: Auto-saving content packages took 0.531
+[2018.01.13-19.42.50:725][741]CompilerResultsLog: New page: Compilation - Jan 13, 2018, 9:42:50 AM
+[2018.01.13-19.42.50:770][741]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.13-19.42.50:770][741]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.13-19.42.50:770][741]CompilerResultsLog: Parsing headers for FITA_0Editor
+[2018.01.13-19.42.50:770][741]CompilerResultsLog:   Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\Development\FITA_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.01.13-19.42.50:771][741]CompilerResultsLog: Reflection code generated for FITA_0Editor in 42.5078017 seconds
+[2018.01.13-19.42.50:771][741]CompilerResultsLog: Performing 4 actions (3 in parallel)
+[2018.01.13-19.42.50:771][741]CompilerResultsLog: Grabber.gen.cpp
+[2018.01.13-19.42.50:772][741]CompilerResultsLog: Grabber.cpp
+[2018.01.13-19.42.50:772][741]CompilerResultsLog: [3/4] Link UE4Editor-FITA_0-2589.dll
+[2018.01.13-19.42.50:772][741]CompilerResultsLog: [4/4] Link UE4Editor-FITA_0-2589.lib
+[2018.01.13-19.42.50:772][741]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-2589.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-2589.exp
+[2018.01.13-19.42.50:772][741]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-2589.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-2589.suppressed.exp
+[2018.01.13-19.42.50:773][741]CompilerResultsLog: Total build time: 437.42 seconds (Local executor: 381.72 seconds)
+[2018.01.13-19.42.50:774][741]LogMainFrame: MainFrame: Module compiling took 438.994 seconds
+[2018.01.13-19.42.52:520][741]LogClass: Could not find existing class Grabber in package /Script/FITA_0 for HotReload, assuming new class
+[2018.01.13-19.42.52:546][741]LogHotReload: Re-instancing Grabber after hot-reload.
+[2018.01.13-19.42.52:734][741]LogContentBrowser: Native class hierarchy updated for 'FITA_0' in 0.0013 seconds. Added 4 classes and 2 folders.
+[2018.01.13-19.42.52:739][741]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.01.13-19.42.53:513][741]LogContentBrowser: Native class hierarchy populated in 0.0283 seconds. Added 2369 classes and 525 folders.
+[2018.01.13-19.42.53:556][741]Display: HotReload took 441.8s.
+[2018.01.13-19.44.52:943][212]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.13-19.44.53:484][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.13-19.44.53:485][212]PIE: New page: PIE session: Level_0 (Jan 13, 2018, 9:44:53 AM)
+[2018.01.13-19.44.53:485][212]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.13-19.44.53:520][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035137s)
+[2018.01.13-19.44.53:522][212]LogAIModule: Creating AISystem for world Level_0
+[2018.01.13-19.44.53:522][212]LogPlayLevel: PIE: World Init took: (0.001861s)
+[2018.01.13-19.44.53:523][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.037878s)
+[2018.01.13-19.44.53:655][212]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-19.44.53:664][212]LogInit: FAudioDevice initialized.
+[2018.01.13-19.44.53:736][212]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.13-19.44.53:740][212]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.13-14.44.53
+[2018.01.13-19.44.53:741][212]LogWorld: Bringing up level for play took: 0.002066
+[2018.01.13-19.44.53:742][212]LogTemp: Warning: Grabber has spawned

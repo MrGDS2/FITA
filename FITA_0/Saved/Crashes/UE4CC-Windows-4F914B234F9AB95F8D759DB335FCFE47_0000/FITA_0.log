@@ -1,0 +1,1147 @@
+﻿Log file open, 01/13/18 14:53:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: ../../../../../../Documents/GitHub/FITA/FITA_0/FITA_0.uproject
+LogInit: Display: RandInit(-2050641502) SRandInit(-2050641502).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.216101
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Warning: Module file ../../../../../../Documents/GitHub/FITA/FITA_0/Binaries/Win64/UE4Editor-FITA_0-5194.dll is missing. This is likely a stale module that must be recompiled.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Warning: Incompatible or missing module: UE4Editor-FITA_0.dll
+Running E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 Development Win64 -project="E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build.
+@progress push 5%
+Parsing headers for FITA_0Editor
+  Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\Development\FITA_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for FITA_0Editor in 31.0024566 seconds
+@progress pop
+Performing 4 actions (3 in parallel)
+Grabber.gen.cpp
+Grabber.cpp
+[3/4] Link UE4Editor-FITA_0.dll
+[4/4] Link UE4Editor-FITA_0.lib
+   Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0.exp
+   Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0.suppressed.exp
+Total build time: 115.60 seconds (Local executor: 82.32 seconds)
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Documents/GitHub/FITA/FITA_0/Binaries/Win64/UE4Editor-FITA_0.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.13-19.55.07:191][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.13-19.55.07:191][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.13-19.55.07:284][  0]LogInit: Computer: PEARL
+[2018.01.13-19.55.07:284][  0]LogInit: User: Mrgds2
+[2018.01.13-19.55.07:284][  0]LogInit: CPU Page size=4096, Cores=3
+[2018.01.13-19.55.07:284][  0]LogInit: High frequency timer resolution =3.429443 MHz
+[2018.01.13-19.55.07:285][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.13-19.55.07:285][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.13-19.55.07:285][  0]LogMemory: Process Physical Memory: 276.11 MB used, 276.11 MB peak
+[2018.01.13-19.55.07:285][  0]LogMemory: Process Virtual Memory: 270.15 MB used, 270.15 MB peak
+[2018.01.13-19.55.07:285][  0]LogMemory: Physical Memory: 5284.92 MB used,  2807.95 MB free, 8092.87 MB total
+[2018.01.13-19.55.07:285][  0]LogMemory: Virtual Memory: 721.33 MB used,  2807.95 MB free, 134217728.00 MB total
+[2018.01.13-19.55.08:178][  0]LogInit: Using OS detected language (en-US).
+[2018.01.13-19.55.08:178][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.13-19.55.08:191][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.13-19.55.08:998][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.13-19.55.13:329][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.13-19.55.13:408][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.01.13-19.55.13:408][  0]LogD3D11RHI:       4058/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.13-19.55.13:413][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.13-19.55.13:413][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.13-19.55.13:413][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.13-19.55.13:422][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.13-19.55.13:422][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.13-19.55.13:422][  0]LogWindows: EnumDisplayDevices:
+[2018.01.13-19.55.13:423][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.01.13-19.55.13:423][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.01.13-19.55.13:423][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.13-19.55.13:423][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.13-19.55.13:423][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.13-19.55.13:423][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.01.13-19.55.13:423][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.13-19.55.13:423][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.13-19.55.13:423][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.01.13-19.55.13:468][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.13-19.55.13:874][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.13-19.55.14:052][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Documents/GitHub/FITA/FITA_0/Intermediate/Shaders/WorkingDirectory/10304/).
+[2018.01.13-19.55.14:053][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mrgds/AppData/Local/Temp/UnrealShaderWorkingDir/FC18A6504A705C9012354698FE54EE96/'.
+[2018.01.13-19.55.14:053][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.13-19.55.18:400][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.13-19.55.18:489][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.13-19.55.18:582][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.13-19.55.18:675][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.13-19.55.18:801][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.13-19.55.18:901][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.13-19.55.19:014][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.13-19.55.19:111][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.13-19.55.19:196][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.13-19.55.19:285][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.13-19.55.19:382][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.13-19.55.19:468][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.13-19.55.19:557][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.13-19.55.19:654][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.13-19.55.19:834][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.13-19.55.19:834][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.13-19.55.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.13-19.55.20:024][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.13-19.55.20:270][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.13-19.55.20:321][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.13-19.55.20:419][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.13-19.55.20:509][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.13-19.55.20:605][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.13-19.55.20:704][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.13-19.55.20:704][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.13-19.55.22:493][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.13-19.55.22:984][  0]LogDerivedDataCache: Loaded boot cache 0.49s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.13-19.55.22:984][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.13-19.55.22:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/GitHub/FITA/FITA_0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.13-19.55.22:984][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.13-19.55.22:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/GitHub/FITA/FITA_0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.13-19.55.22:984][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.13-19.55.23:009][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.13-19.55.23:021][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mrgds/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.13-19.55.23:082][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.13-19.55.23:096][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.13-19.55.23:142][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.13-19.55.23:142][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.13-19.55.30:042][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.13-19.55.31:083][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.13-19.55.31:175][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.13-19.55.31:176][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.13-19.55.31:176][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.13-19.55.31:176][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.13-19.55.31:176][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.13-19.55.31:362][  0]LogNetVersion: FITA_0 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2661453100)
+[2018.01.13-19.55.32:015][  0]LogAssetRegistry: FAssetRegistry took 0.0303 seconds to start up
+[2018.01.13-19.55.35:134][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.089078 seconds
+[2018.01.13-19.55.35:143][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.13-19.55.35:143][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.01.13-19.55.35:143][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.13-19.55.35:253][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.13-19.56.02:679][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.13-19.56.02:755][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.13-19.56.04:812][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.13-19.56.05:943][  0]SourceControl: Source control is disabled
+[2018.01.13-19.56.05:960][  0]SourceControl: Source control is disabled
+[2018.01.13-19.56.06:123][  0]SourceControl: Source control is disabled
+[2018.01.13-19.56.06:281][  0]SourceControl: Source control is disabled
+[2018.01.13-19.56.08:726][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.13-19.56.09:387][  0]LogOcInput: OculusInput pre-init called
+[2018.01.13-19.56.10:232][  0]LogEngine: Initializing Engine...
+[2018.01.13-19.56.10:405][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.01.13-19.56.10:963][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.13-19.56.10:963][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.13-19.56.11:820][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.13-19.56.12:045][  0]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-19.56.12:061][  0]LogInit: FAudioDevice initialized.
+[2018.01.13-19.56.12:191][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.13-19.56.12:224][  0]LogInit: Texture streaming: Enabled
+[2018.01.13-19.56.12:538][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.13-19.56.12:538][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={3A85C5D2-49C2-2012-E48B-37A0F23B6AAE}
+[2018.01.13-19.56.13:042][  0]LogInit: Transaction tracking system initialized
+[2018.01.13-19.56.13:872][  0]BlueprintLog: New page: Editor Load
+[2018.01.13-19.56.17:113][  0]LocalizationService: Localization service is disabled
+[2018.01.13-19.56.19:377][  0]LogConsoleResponse: Display: 
+[2018.01.13-19.56.22:003][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/' took 0.04s
+[2018.01.13-19.56.22:003][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.13-19.56.22:004][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.13-19.56.22:016][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.13-19.56.25:646][  0]SourceControl: Source control is disabled
+[2018.01.13-19.56.25:683][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.13-19.56.25:748][  0]LightingResults: New page: Lighting Build
+[2018.01.13-19.56.25:965][  0]MapCheck: New page: Map Check
+[2018.01.13-19.56.25:965][  0]LightingResults: New page: Lighting Build
+[2018.01.13-19.56.30:474][  0]LogAIModule: Creating AISystem for world Level_0
+[2018.01.13-19.56.31:311][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.13-19.56.31:504][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.13-19.56.31:621][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 108.551ms to complete.
+[2018.01.13-19.56.31:621][  0]LogFileHelpers: Loading map 'Level_0' took 5.958
+[2018.01.13-19.56.34:001][  0]LogCollectionManager: Loaded 0 collections in 0.003288 seconds
+[2018.01.13-19.56.34:256][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Saved/Collections/' took 0.01s
+[2018.01.13-19.56.34:256][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/Developers/Mrgds2/Collections/' took 0.01s
+[2018.01.13-19.56.34:256][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/Collections/' took 0.01s
+[2018.01.13-19.56.34:256][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.13-19.56.34:274][  0]LogContentBrowser: Native class hierarchy populated in 0.0160 seconds. Added 2368 classes and 523 folders.
+[2018.01.13-19.56.34:526][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.01.13-19.56.36:512][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2018.01.13-19.56.37:509][  0]LogSlate: Took 0.021818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.13-19.56.37:571][  0]LogSlate: Took 0.007892 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.13-19.56.37:611][  0]LogSlate: Took 0.022911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.13-19.56.37:630][  0]LogSlate: Took 0.017819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.01.13-19.56.38:503][  0]LogRenderer: Reallocating scene render targets to support 1200x688 Format 10 NumSamples 1 (Frame:1).
+[2018.01.13-19.56.39:532][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.01.13-19.56.39:533][  0]LogLoad: (Engine Initialization) Total time: 218.47 seconds
+[2018.01.13-19.56.39:533][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.13-19.56.39:552][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.13-19.56.39:552][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.13-19.56.39:629][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.13-19.56.39:980][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.13-19.56.40:478][  4]LogAssetRegistry: Asset discovery search completed in 68.4849 seconds
+[2018.01.13-19.56.40:506][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.13-19.56.40:507][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.019072 seconds (updated 0 objects)
+[2018.01.13-19.56.44:146][327]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.13-19.56.44:228][327]Candidate modules for hot reload:
+[2018.01.13-19.56.44:228][327]  FITA_0
+[2018.01.13-19.56.44:228][327]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 1334 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.13-19.56.44:364][327]Warning: Starting HotReload took  0.3s.
+[2018.01.13-19.56.46:617][392]CompilerResultsLog: New page: Compilation - Jan 13, 2018, 9:56:46 AM
+[2018.01.13-19.56.46:617][392]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.13-19.56.46:617][392]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.13-19.56.46:618][392]CompilerResultsLog: Target is up to date
+[2018.01.13-19.56.46:618][392]CompilerResultsLog: Total build time: 1.85 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.13-19.56.46:618][392]LogMainFrame: MainFrame: Module compiling took 2.471 seconds
+[2018.01.13-19.56.46:682][392]LogContentBrowser: Native class hierarchy populated in 0.0240 seconds. Added 2369 classes and 525 folders.
+[2018.01.13-19.56.46:727][392]Display: HotReload took  2.6s.
+[2018.01.13-19.56.48:313][449]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.13-19.56.48:421][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.13-19.56.48:466][449]PIE: New page: PIE session: Level_0 (Jan 13, 2018, 9:56:48 AM)
+[2018.01.13-19.56.48:492][449]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.13-19.56.48:546][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054284s)
+[2018.01.13-19.56.48:547][449]LogAIModule: Creating AISystem for world Level_0
+[2018.01.13-19.56.48:567][449]LogPlayLevel: PIE: World Init took: (0.020722s)
+[2018.01.13-19.56.48:584][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.092263s)
+[2018.01.13-19.56.48:636][449]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-19.56.48:643][449]LogInit: FAudioDevice initialized.
+[2018.01.13-19.56.48:784][449]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.13-19.56.48:925][449]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.13-14.56.48
+[2018.01.13-19.56.49:011][449]LogWorld: Bringing up level for play took: 0.088355
+[2018.01.13-19.56.49:169][449]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.01.13-19.56.49:221][449]LogTemp: Warning: Grabber has spawned
+[2018.01.13-19.56.49:222][449]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.13-19.56.49:231][449]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 1.216
+[2018.01.13-19.56.54:070][703]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:079][704]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:088][705]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:096][706]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:104][707]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:113][708]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:121][709]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:130][710]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:138][711]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:146][712]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:155][713]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:163][714]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:174][715]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:182][716]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:191][717]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:199][718]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:208][719]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:216][720]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:225][721]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:233][722]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:242][723]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:250][724]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:259][725]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:268][726]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:277][727]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:285][728]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:294][729]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:302][730]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:310][731]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:319][732]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:327][733]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:336][734]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:345][735]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:354][736]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:362][737]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:371][738]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:379][739]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:388][740]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:397][741]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:407][742]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:416][743]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:428][744]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:437][745]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:446][746]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:455][747]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:464][748]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:473][749]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:483][750]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:493][751]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:501][752]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:511][753]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:521][754]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.54:529][755]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.55:188][833]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:196][834]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:205][835]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:213][836]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:222][837]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:230][838]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:238][839]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:246][840]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:255][841]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:263][842]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:271][843]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:280][844]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:288][845]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:296][846]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:305][847]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:313][848]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:321][849]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:330][850]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:338][851]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:346][852]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:355][853]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:364][854]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:373][855]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:382][856]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:391][857]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:400][858]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:408][859]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:416][860]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:425][861]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:433][862]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:442][863]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:450][864]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:458][865]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:467][866]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:475][867]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:484][868]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:492][869]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:500][870]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:508][871]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:517][872]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:525][873]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:533][874]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:542][875]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:551][876]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:559][877]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:568][878]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:576][879]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:585][880]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:593][881]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:602][882]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:610][883]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:618][884]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:626][885]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:635][886]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:644][887]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:652][888]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.55:661][889]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.56:346][969]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.56:354][970]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.56:365][971]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.56:375][972]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.56:384][973]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.56:395][974]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.56:404][975]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.56:414][976]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-19.56.56:434][978]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:444][979]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:453][980]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:461][981]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:470][982]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:478][983]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:486][984]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:495][985]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:503][986]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:511][987]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:520][988]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:528][989]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:536][990]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:545][991]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:553][992]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:562][993]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:571][994]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:580][995]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:588][996]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:597][997]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:606][998]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:615][999]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:625][  0]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:633][  1]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:642][  2]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:650][  3]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:659][  4]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:667][  5]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:675][  6]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:684][  7]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:692][  8]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:701][  9]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:709][ 10]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:717][ 11]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:725][ 12]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-19.56.56:734][ 13]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.00.38:830][339]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.13-20.00.38:855][339]Candidate modules for hot reload:
+[2018.01.13-20.00.38:855][339]  FITA_0
+[2018.01.13-20.00.38:855][339]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 2663 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.13-20.00.39:019][339]Warning: Starting HotReload took  0.2s.
+[2018.01.13-20.07.33:741][983]CompilerResultsLog: New page: Compilation - Jan 13, 2018, 10:07:33 AM
+[2018.01.13-20.07.33:741][983]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.13-20.07.33:742][983]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.13-20.07.33:742][983]CompilerResultsLog: Parsing headers for FITA_0Editor
+[2018.01.13-20.07.33:743][983]CompilerResultsLog:   Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\Development\FITA_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.01.13-20.07.33:744][983]CompilerResultsLog: Reflection code generated for FITA_0Editor in 15.1419157 seconds
+[2018.01.13-20.07.33:745][983]CompilerResultsLog: Performing 4 actions (3 in parallel)
+[2018.01.13-20.07.33:745][983]CompilerResultsLog: Grabber.gen.cpp
+[2018.01.13-20.07.33:745][983]CompilerResultsLog: Grabber.cpp
+[2018.01.13-20.07.33:746][983]CompilerResultsLog: [3/4] Link UE4Editor-FITA_0-2663.dll
+[2018.01.13-20.07.33:746][983]CompilerResultsLog: [4/4] Link UE4Editor-FITA_0-2663.lib
+[2018.01.13-20.07.33:746][983]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-2663.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-2663.exp
+[2018.01.13-20.07.33:747][983]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-2663.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-2663.suppressed.exp
+[2018.01.13-20.07.33:748][983]CompilerResultsLog: Total build time: 414.07 seconds (Local executor: 396.71 seconds)
+[2018.01.13-20.07.33:748][983]LogMainFrame: MainFrame: Module compiling took 414.918 seconds
+[2018.01.13-20.07.35:485][983]LogClass: Could not find existing class Grabber in package /Script/FITA_0 for HotReload, assuming new class
+[2018.01.13-20.07.35:501][983]LogHotReload: Re-instancing Grabber after hot-reload.
+[2018.01.13-20.07.36:150][983]LogContentBrowser: Native class hierarchy updated for 'FITA_0' in 0.0010 seconds. Added 4 classes and 2 folders.
+[2018.01.13-20.07.36:153][983]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.01.13-20.07.36:267][983]LogContentBrowser: Native class hierarchy populated in 0.0157 seconds. Added 2369 classes and 525 folders.
+[2018.01.13-20.07.36:267][983]Display: HotReload took 417.4s.
+[2018.01.13-20.08.33:225][416]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.13-20.08.33:250][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.13-20.08.33:250][416]PIE: New page: PIE session: Level_0 (Jan 13, 2018, 10:08:33 AM)
+[2018.01.13-20.08.33:250][416]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.13-20.08.33:278][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027604s)
+[2018.01.13-20.08.33:279][416]LogAIModule: Creating AISystem for world Level_0
+[2018.01.13-20.08.33:280][416]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2018.01.13-20.08.33:280][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.030061s)
+[2018.01.13-20.08.33:327][416]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-20.08.33:333][416]LogInit: FAudioDevice initialized.
+[2018.01.13-20.08.33:931][416]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.13-20.08.33:933][416]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.13-15.08.33
+[2018.01.13-20.08.33:934][416]LogWorld: Bringing up level for play took: 0.001777
+[2018.01.13-20.08.33:935][416]LogTemp: Warning: Grabber has spawned
+[2018.01.13-20.08.33:935][416]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.13-20.08.33:935][416]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.08
+[2018.01.13-20.08.39:482][ 61]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:490][ 62]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:499][ 63]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:507][ 64]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:515][ 65]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:524][ 66]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:532][ 67]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:540][ 68]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:549][ 69]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:557][ 70]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:566][ 71]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:574][ 72]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:582][ 73]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:590][ 74]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:599][ 75]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:607][ 76]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:615][ 77]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:624][ 78]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:632][ 79]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:640][ 80]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:649][ 81]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:657][ 82]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:665][ 83]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:674][ 84]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:682][ 85]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:690][ 86]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:699][ 87]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:707][ 88]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:716][ 89]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:724][ 90]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:732][ 91]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:740][ 92]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:749][ 93]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:757][ 94]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:765][ 95]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:774][ 96]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:782][ 97]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:790][ 98]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:798][ 99]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:807][100]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:815][101]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:823][102]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:832][103]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:840][104]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:849][105]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:857][106]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:866][107]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:874][108]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:882][109]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:891][110]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:899][111]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:907][112]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:916][113]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:924][114]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:932][115]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:941][116]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:949][117]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:957][118]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:966][119]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:974][120]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:982][121]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:991][122]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.39:999][123]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:008][124]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:016][125]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:024][126]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:033][127]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:041][128]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:049][129]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:057][130]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:066][131]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:074][132]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:083][133]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:091][134]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:100][135]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:108][136]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:116][137]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:125][138]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:133][139]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:141][140]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:150][141]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:158][142]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:166][143]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.40:833][223]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:842][224]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:850][225]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:858][226]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:867][227]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:875][228]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:883][229]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:892][230]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:900][231]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:908][232]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:917][233]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:925][234]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:933][235]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:941][236]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:950][237]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:958][238]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:967][239]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:975][240]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:983][241]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.40:992][242]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:000][243]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:008][244]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:017][245]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:025][246]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:033][247]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:042][248]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:050][249]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:058][250]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:067][251]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:075][252]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:084][253]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:092][254]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:100][255]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:108][256]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:117][257]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:125][258]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:134][259]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:142][260]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:150][261]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:158][262]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:167][263]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:175][264]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:184][265]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:192][266]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:200][267]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:209][268]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:217][269]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:225][270]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:234][271]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:242][272]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:250][273]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:258][274]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:267][275]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:276][276]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:285][277]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:294][278]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:302][279]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:310][280]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:318][281]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:327][282]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:335][283]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:343][284]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:352][285]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:360][286]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:369][287]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:377][288]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:386][289]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:394][290]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:402][291]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:411][292]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:419][293]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.13-20.08.41:436][295]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:444][296]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:452][297]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:461][298]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:469][299]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:477][300]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:486][301]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:494][302]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:502][303]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:511][304]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:519][305]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:527][306]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:535][307]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:544][308]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:552][309]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:560][310]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:569][311]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:577][312]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:585][313]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:593][314]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:602][315]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:610][316]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:618][317]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:627][318]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:635][319]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:644][320]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:652][321]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:660][322]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:669][323]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:677][324]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:686][325]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:694][326]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:702][327]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:710][328]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:719][329]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:727][330]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:736][331]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:744][332]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:752][333]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:761][334]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:769][335]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:777][336]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:786][337]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:794][338]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:802][339]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:810][340]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:819][341]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:827][342]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:836][343]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:844][344]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:852][345]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:860][346]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:869][347]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:877][348]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:886][349]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:894][350]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:902][351]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:911][352]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:919][353]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:927][354]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:935][355]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:944][356]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:952][357]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:960][358]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:969][359]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:977][360]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:985][361]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.41:994][362]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:002][363]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:010][364]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:019][365]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:027][366]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:036][367]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:044][368]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:052][369]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:060][370]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:069][371]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:077][372]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:085][373]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:094][374]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:102][375]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:110][376]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:119][377]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:127][378]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:136][379]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:144][380]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:153][381]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:161][382]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:169][383]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:177][384]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:186][385]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:194][386]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:202][387]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:211][388]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:219][389]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:227][390]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:236][391]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:244][392]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:252][393]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.13-20.08.42:270][395]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:278][396]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:286][397]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:296][398]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:305][399]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:313][400]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:322][401]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:330][402]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:338][403]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:347][404]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:355][405]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:363][406]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:372][407]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:380][408]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:389][409]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:397][410]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:405][411]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:414][412]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:422][413]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:430][414]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:438][415]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:447][416]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:455][417]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:464][418]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:472][419]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:480][420]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:489][421]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:497][422]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:505][423]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:514][424]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:522][425]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:530][426]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:539][427]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.42:547][428]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.13-20.08.44:149][620]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:158][621]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:166][622]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:175][623]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:183][624]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:191][625]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:200][626]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:208][627]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:216][628]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:224][629]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:233][630]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:241][631]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:250][632]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:258][633]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:266][634]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:275][635]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:283][636]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:292][637]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:301][638]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:310][639]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:318][640]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:327][641]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:335][642]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:343][643]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:352][644]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:360][645]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:368][646]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:377][647]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:385][648]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:393][649]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:402][650]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:410][651]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:418][652]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:427][653]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:435][654]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:443][655]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:452][656]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:460][657]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:468][658]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:476][659]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:485][660]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:493][661]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:502][662]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:510][663]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:518][664]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:526][665]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:535][666]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:543][667]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:551][668]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:560][669]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:568][670]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:577][671]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:585][672]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:593][673]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:602][674]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:610][675]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:618][676]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:627][677]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:635][678]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:643][679]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:652][680]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:660][681]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:668][682]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:677][683]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:685][684]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:693][685]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:702][686]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:710][687]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:718][688]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:727][689]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:735][690]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:743][691]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:752][692]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:760][693]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:768][694]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:777][695]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:785][696]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:794][697]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:802][698]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:810][699]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:819][700]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:827][701]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:835][702]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:844][703]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:852][704]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:860][705]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:869][706]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:877][707]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:885][708]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:894][709]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:902][710]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:910][711]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:919][712]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:927][713]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:935][714]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:944][715]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.44:952][716]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.13-20.08.59:827][250]MapCheck: New page: Map Check
+[2018.01.13-20.08.59:973][250]LightingResults: New page: Lighting Build - Jan 13, 2018, 10:08:59 AM
+[2018.01.13-20.09.00:461][250]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.13-20.09.00:733][250]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.13-20.09.00:768][250]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.13-20.09.01:811][250]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.13-20.09.01:812][250]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10304
+[2018.01.13-20.09.04:913][250]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.13-20.09.04:915][250]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.13-20.09.04:916][250]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.13-20.09.04:916][250]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.13-20.09.04:916][250]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.13-20.09.04:917][250]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.13-20.09.05:258][250]LogEditorBuildUtils: Build time 0:05
+[2018.01.13-20.09.14:357][281]Job is a success!
+[2018.01.13-20.09.14:775][282]LogSlate: Took 0.013718 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.13-20.09.14:917][282]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.025s
+[2018.01.13-20.09.14:917][282]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.13-20.09.14:917][282]LogVolumetricLightmapImport:      BrickData 100x5x5 = 0.1Mb
+[2018.01.13-20.09.14:917][282]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.13-20.09.14:918][282]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2018.01.13-20.09.14:918][282]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2018.01.13-20.09.14:918][282]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2018.01.13-20.09.15:508][282]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.01.13-20.09.15:508][282]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.01.13-20.09.15:509][282]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.01.13-20.09.15:509][282]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.01.13-20.09.15:509][282]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.01.13-20.09.15:509][282]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.01.13-20.09.15:640][282]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.01.13-20.09.15:640][282]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2018.01.13-20.09.15:640][282]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X256)
+[2018.01.13-20.09.15:705][282]Lightmass on PEARL: 8.68 sec total, 281 ms importing, 29 ms setup, 659 ms photons, 7.57 sec processing, 0 ms extra exporting [15/15 mappings]. Threads: 37.7 sec total, 20.1 sec processing.
+[2018.01.13-20.09.15:788][282]LogStaticLightingSystem: Illumination: 15.4 sec (510 ms encoding lightmaps, 128 ms encoding shadowmaps)
+[2018.01.13-20.09.15:788][282]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.01.13-20.09.15:789][282]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.01.13-20.09.15:945][282]DumpUnbuiltLightIteractions
+[2018.01.13-20.09.15:945][282]Lights with unbuilt interactions: 0
+[2018.01.13-20.09.15:945][282]
+[2018.01.13-20.09.15:945][282]Primitives with unbuilt interactions: 0
+[2018.01.13-20.09.15:972][283]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.13-20.09.15:972][283]MapCheck: New page: Level_0 - Jan 13, 2018, 10:09:15 AM
+[2018.01.13-20.09.16:135][283]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 162.761ms to complete.
+[2018.01.13-20.09.17:520][287]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.13-20.09.26:643][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.13-20.09.27:194][314]LogSavePackage: Save=333.21ms
+[2018.01.13-20.09.27:194][314]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto1C0872592436954159790B48EE2722126.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto1.umap'
+[2018.01.13-20.09.27:239][314]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto1.umap
+[2018.01.13-20.09.27:267][314]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.726
+[2018.01.13-20.09.27:268][314]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.726
+[2018.01.13-20.09.27:287][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_0_BuiltData] ([1] browsable assets)...
+[2018.01.13-20.09.27:287][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_0_BuiltData]
+[2018.01.13-20.09.27:287][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0_BuiltData" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_BuiltData_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.01.13-20.09.27:377][314]LogSavePackage: Save=47.59ms
+[2018.01.13-20.09.27:378][314]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_BuiltData_Auto11882EC6F4EDE5C9923661DAC3B5A4EE1.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_BuiltData_Auto1.uasset'
+[2018.01.13-20.09.27:399][314]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_BuiltData_Auto1.uasset
+[2018.01.13-20.09.27:399][314]LogFileHelpers: Auto-saving content packages took 0.114
+[2018.01.13-20.23.08:577][929]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.13-20.23.08:591][929]Candidate modules for hot reload:
+[2018.01.13-20.23.08:592][929]  FITA_0
+[2018.01.13-20.23.08:592][929]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 3547 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.13-20.23.08:730][929]Warning: Starting HotReload took  0.2s.
+[2018.01.13-20.29.42:219][108]CompilerResultsLog: New page: Compilation - Jan 13, 2018, 10:29:42 AM
+[2018.01.13-20.29.42:219][108]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.13-20.29.42:219][108]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.13-20.29.42:220][108]CompilerResultsLog: Parsing headers for FITA_0Editor
+[2018.01.13-20.29.42:220][108]CompilerResultsLog:   Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\Development\FITA_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.01.13-20.29.42:220][108]CompilerResultsLog: Reflection code generated for FITA_0Editor in 39.7187117 seconds
+[2018.01.13-20.29.42:220][108]CompilerResultsLog: Performing 4 actions (3 in parallel)
+[2018.01.13-20.29.42:220][108]CompilerResultsLog: Grabber.gen.cpp
+[2018.01.13-20.29.42:220][108]CompilerResultsLog: Grabber.cpp
+[2018.01.13-20.29.42:221][108]CompilerResultsLog: [3/4] Link UE4Editor-FITA_0-3547.dll
+[2018.01.13-20.29.42:221][108]CompilerResultsLog: [4/4] Link UE4Editor-FITA_0-3547.lib
+[2018.01.13-20.29.42:221][108]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-3547.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-3547.exp
+[2018.01.13-20.29.42:221][108]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-3547.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-3547.suppressed.exp
+[2018.01.13-20.29.42:222][108]CompilerResultsLog: Total build time: 392.07 seconds (Local executor: 342.51 seconds)
+[2018.01.13-20.29.42:222][108]LogMainFrame: MainFrame: Module compiling took 393.645 seconds
+[2018.01.13-20.29.44:892][108]LogClass: Could not find existing class Grabber in package /Script/FITA_0 for HotReload, assuming new class
+[2018.01.13-20.29.44:896][108]LogHotReload: Re-instancing Grabber after hot-reload.
+[2018.01.13-20.29.44:973][108]LogContentBrowser: Native class hierarchy updated for 'FITA_0' in 0.0010 seconds. Added 4 classes and 2 folders.
+[2018.01.13-20.29.44:975][108]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.01.13-20.29.45:063][108]LogContentBrowser: Native class hierarchy populated in 0.0160 seconds. Added 2369 classes and 525 folders.
+[2018.01.13-20.29.45:063][108]Display: HotReload took 396.5s.
+[2018.01.13-20.29.55:306][270]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.13-20.29.55:333][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.13-20.29.55:333][270]PIE: New page: PIE session: Level_0 (Jan 13, 2018, 10:29:55 AM)
+[2018.01.13-20.29.55:333][270]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.13-20.29.55:372][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038141s)
+[2018.01.13-20.29.55:374][270]LogAIModule: Creating AISystem for world Level_0
+[2018.01.13-20.29.55:374][270]LogPlayLevel: PIE: World Init took: (0.001657s)
+[2018.01.13-20.29.55:375][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.040967s)
+[2018.01.13-20.29.55:422][270]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.13-20.29.55:429][270]LogInit: FAudioDevice initialized.
+[2018.01.13-20.29.55:493][270]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.13-20.29.55:495][270]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.13-15.29.55
+[2018.01.13-20.29.55:511][270]LogWorld: Bringing up level for play took: 0.017043
+[2018.01.13-20.29.55:513][270]LogTemp: Warning: Grabber has spawned
