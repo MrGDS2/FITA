@@ -1,0 +1,32 @@
+/**Get player view point this tick
+	FVector PlayerViewLocation;
+	FRotator PlayerViewPointRotation;
+	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(
+		OUT PlayerViewLocation,
+		OUT PlayerViewPointRotation
+	);
+
+	//log player viewpoint everytick
+	/*UE_LOG(LogTemp, Warning, TEXT("Player Location: %s, Player Position: %s"),
+	*PlayerViewLocation.ToString(),
+	*PlayerViewPointRotation.ToString());
+
+
+	FVector LineEnd = PlayerViewLocation + PlayerViewPointRotation.Vector() * Reach;
+*/
+
+	///Draw  a red line in the world
+	/**DrawDebugLine(
+	GetWorld(),
+	PlayerViewLocation,
+	LineEnd,
+	FColor(255, 0, 0),
+	false,
+	0.0f,
+	0.0f,
+	10.0f
+
+
+	);**/
+
+

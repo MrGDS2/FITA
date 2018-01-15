@@ -47,4 +47,12 @@ private:
 	void SetInputComponent();
 
 	const FHitResult GetFirstPhysicBodyReach();
+	
+	//return reach line start
+	FVector GetLineReachStart();
+
+	//returns ending reach line
+	FVector GetLineReachEnd();
 };
+
+
