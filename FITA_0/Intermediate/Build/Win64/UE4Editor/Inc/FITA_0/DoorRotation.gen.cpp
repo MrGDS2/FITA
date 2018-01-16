@@ -44,6 +44,13 @@ void EmptyLinkFunctionForGeneratedCodeDoorRotation() {}
 			};
 #endif
 #if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_TotalMassAllowedToOpen_MetaData[] = {
+				{ "Category", "DoorRotation" },
+				{ "ModuleRelativePath", "DoorRotation.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_TotalMassAllowedToOpen = { UE4CodeGen_Private::EPropertyClass::Float, "TotalMassAllowedToOpen", RF_Public|RF_Transient|RF_MarkAsNative, 0x0040000000000001, 1, nullptr, STRUCT_OFFSET(UDoorRotation, TotalMassAllowedToOpen), METADATA_PARAMS(NewProp_TotalMassAllowedToOpen_MetaData, ARRAY_COUNT(NewProp_TotalMassAllowedToOpen_MetaData)) };
+#if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DoorCloseDelay_MetaData[] = {
 				{ "Category", "DoorRotation" },
 				{ "ModuleRelativePath", "DoorRotation.h" },
@@ -65,6 +72,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorRotation() {}
 #endif
 			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_OpenAngle = { UE4CodeGen_Private::EPropertyClass::Float, "OpenAngle", RF_Public|RF_Transient|RF_MarkAsNative, 0x0040000000000001, 1, nullptr, STRUCT_OFFSET(UDoorRotation, OpenAngle), METADATA_PARAMS(NewProp_OpenAngle_MetaData, ARRAY_COUNT(NewProp_OpenAngle_MetaData)) };
 			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_TotalMassAllowedToOpen,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_DoorCloseDelay,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_PressurePoint,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_OpenAngle,
@@ -87,7 +95,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorRotation() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UDoorRotation, 2500689699);
+	IMPLEMENT_CLASS(UDoorRotation, 1578804614);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_UDoorRotation(Z_Construct_UClass_UDoorRotation, &UDoorRotation::StaticClass, TEXT("/Script/FITA_0"), TEXT("UDoorRotation"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UDoorRotation);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -29,4 +29,4 @@
 
 	);**/
 
-
+	PressurePoint->IsOverlappingActor(OpensDoorActor) //pressure plate and doors

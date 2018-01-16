@@ -46,7 +46,7 @@ void UDoorRotation::TickComponent(float DeltaTime, ELevelTick TickType, FActorCo
 
 	//poll the trigger volume
 	//if the actor that opens is in the volume
-	if (PressurePoint->IsOverlappingActor(OpensDoorActor)) {
+	if (GetMassOnPlate() > TotalMassAllowedToOpen) {
 		OpenDoor();
 
 		DoorLastOpened=GetWorld()->GetTimeSeconds(); //open time for the door
@@ -59,3 +59,16 @@ void UDoorRotation::TickComponent(float DeltaTime, ELevelTick TickType, FActorCo
 	}
 }
 
+float UDoorRotation::GetMassOnPlate()
+{
+	float TotalMass = 0.0f;
+	//find overlapping actors 
+	TArray<AActor*> OverlappingActors;
+	PressurePoint->GetOverlappingActors(OUT OverlappingActors);
+	//Interate through them and add their mass
+	for (auto* Actor : OverlappingActors)
+	{
+		TotalMass+= Actor->FindComponentByClass<UPrimitiveComponent>()->GetMass();
+	}
+	return TotalMass;
+}
