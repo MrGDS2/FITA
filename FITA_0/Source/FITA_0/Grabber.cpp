@@ -72,6 +72,7 @@ const FHitResult UGrabber::GetFirstPhysicBodyReach()
 
 void UGrabber::FindPhysicsHandlerComponent()
 {
+
 	//look for attached Physics handle
 	PH = GetOwner()->FindComponentByClass<UPhysicsHandleComponent>();
 	//hits the actor => then looks for a component of type PHandler
@@ -94,6 +95,7 @@ void UGrabber::Grab()
 	auto ComponentToGrab = HitResult.GetComponent();
 	auto ActorHit = HitResult.GetActor();
 	//Check to see if an actor was hit
+	if (!PH) { return; }
 	if (ActorHit) {
 		PH->GrabComponent(
 			ComponentToGrab,
@@ -113,8 +115,8 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	
-
+	//protects pointers
+	if (!PH) { return; }
 	//if PH is attached move object
 	if (PH->GrabbedComponent)
 	{

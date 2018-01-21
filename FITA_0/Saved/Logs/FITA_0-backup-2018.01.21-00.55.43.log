@@ -1,0 +1,1368 @@
+﻿Log file open, 01/20/18 21:06:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: ../../../../../../Documents/GitHub/FITA/FITA_0/FITA_0.uproject
+LogInit: Display: RandInit(553220210) SRandInit(553220210).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.225854
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Warning: Module file ../../../../../../Documents/GitHub/FITA/FITA_0/Binaries/Win64/UE4Editor-FITA_0-7954.dll is missing. This is likely a stale module that must be recompiled.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Warning: Incompatible or missing module: UE4Editor-FITA_0.dll
+Running E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 Development Win64 -project="E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build.
+Creating makefile for FITA_0 (ini files are newer than UBTMakefile)
+@progress push 5%
+@progress pop
+Target is up to date
+Total build time: 70.76 seconds (NoActionsToExecute executor: 0.00 seconds)
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Documents/GitHub/FITA/FITA_0/Binaries/Win64/UE4Editor-FITA_0.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.21-02.08.43:556][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.21-02.08.43:556][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.21-02.08.43:658][  0]LogInit: Computer: PEARL
+[2018.01.21-02.08.43:658][  0]LogInit: User: Mrgds2
+[2018.01.21-02.08.43:658][  0]LogInit: CPU Page size=4096, Cores=3
+[2018.01.21-02.08.43:658][  0]LogInit: High frequency timer resolution =3.429437 MHz
+[2018.01.21-02.08.43:658][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.21-02.08.43:658][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-02.08.43:658][  0]LogMemory: Process Physical Memory: 275.99 MB used, 275.99 MB peak
+[2018.01.21-02.08.43:659][  0]LogMemory: Process Virtual Memory: 270.18 MB used, 270.18 MB peak
+[2018.01.21-02.08.43:659][  0]LogMemory: Physical Memory: 3231.38 MB used,  4861.49 MB free, 8092.87 MB total
+[2018.01.21-02.08.43:659][  0]LogMemory: Virtual Memory: 721.33 MB used,  4861.49 MB free, 134217728.00 MB total
+[2018.01.21-02.08.44:840][  0]LogInit: Using OS detected language (en-US).
+[2018.01.21-02.08.44:840][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.21-02.08.45:176][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.21-02.08.46:379][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.21-02.08.50:835][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.21-02.08.50:910][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.01.21-02.08.50:910][  0]LogD3D11RHI:       4058/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.21-02.08.50:914][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.21-02.08.50:914][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.21-02.08.50:914][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.21-02.08.50:923][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.21-02.08.50:923][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.21-02.08.50:923][  0]LogWindows: EnumDisplayDevices:
+[2018.01.21-02.08.50:923][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.01.21-02.08.50:923][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.01.21-02.08.50:924][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.21-02.08.50:924][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.21-02.08.50:924][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.21-02.08.50:924][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.01.21-02.08.50:924][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.21-02.08.50:924][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.21-02.08.50:924][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.01.21-02.08.50:982][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.21-02.08.51:098][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.21-02.08.51:198][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Documents/GitHub/FITA/FITA_0/Intermediate/Shaders/WorkingDirectory/1324/).
+[2018.01.21-02.08.51:198][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mrgds/AppData/Local/Temp/UnrealShaderWorkingDir/BB171E5A4B05AC9995014EB24A8DE42B/'.
+[2018.01.21-02.08.51:198][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.21-02.08.54:964][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.21-02.08.55:060][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.21-02.08.55:153][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.21-02.08.55:250][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.21-02.08.55:385][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.21-02.08.55:487][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.21-02.08.55:589][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.21-02.08.55:693][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.21-02.08.55:783][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.21-02.08.55:885][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.21-02.08.55:981][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.21-02.08.56:091][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.21-02.08.56:185][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.21-02.08.56:282][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.21-02.08.56:485][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.21-02.08.56:485][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.21-02.08.56:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.21-02.08.56:674][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.21-02.08.56:909][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.21-02.08.56:973][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.21-02.08.57:072][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.21-02.08.57:166][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.21-02.08.57:261][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.21-02.08.57:377][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.21-02.08.57:377][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.21-02.08.59:274][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.21-02.08.59:774][  0]LogDerivedDataCache: Loaded boot cache 0.50s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.21-02.08.59:774][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.21-02.08.59:774][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/GitHub/FITA/FITA_0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.21-02.08.59:774][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.21-02.08.59:774][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/GitHub/FITA/FITA_0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.21-02.08.59:774][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.21-02.08.59:872][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.21-02.08.59:885][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mrgds/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.21-02.08.59:902][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.21-02.08.59:903][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.21-02.08.59:979][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.21-02.08.59:979][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.21-02.09.06:602][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.21-02.09.08:170][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.21-02.09.08:270][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.21-02.09.08:271][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.21-02.09.08:271][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.21-02.09.08:271][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.21-02.09.08:271][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.21-02.09.08:405][  0]LogNetVersion: FITA_0 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2661453100)
+[2018.01.21-02.09.09:821][  0]LogAssetRegistry: FAssetRegistry took 0.0283 seconds to start up
+[2018.01.21-02.09.18:891][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.251679 seconds
+[2018.01.21-02.09.18:900][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.21-02.09.18:900][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.21-02.09.18:900][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.21-02.09.19:010][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.21-02.09.45:980][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.21-02.09.46:067][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.21-02.09.47:950][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.21-02.09.49:066][  0]SourceControl: Source control is disabled
+[2018.01.21-02.09.49:067][  0]SourceControl: Source control is disabled
+[2018.01.21-02.09.49:170][  0]SourceControl: Source control is disabled
+[2018.01.21-02.09.49:276][  0]SourceControl: Source control is disabled
+[2018.01.21-02.09.51:019][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.21-02.09.51:555][  0]LogOcInput: OculusInput pre-init called
+[2018.01.21-02.09.52:238][  0]LogEngine: Initializing Engine...
+[2018.01.21-02.09.52:363][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.01.21-02.09.53:386][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.21-02.09.53:386][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.21-02.09.53:656][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.21-02.09.53:697][  0]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-02.09.53:725][  0]LogInit: FAudioDevice initialized.
+[2018.01.21-02.09.53:840][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.21-02.09.53:862][  0]LogInit: Texture streaming: Enabled
+[2018.01.21-02.09.54:082][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.21-02.09.54:405][  0]LogInit: Transaction tracking system initialized
+[2018.01.21-02.09.55:259][  0]BlueprintLog: New page: Editor Load
+[2018.01.21-02.09.59:297][  0]LocalizationService: Localization service is disabled
+[2018.01.21-02.10.03:796][  0]LogConsoleResponse: Display: 
+[2018.01.21-02.10.08:512][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.21-02.10.08:512][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.21-02.10.08:512][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.21-02.10.09:274][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/' took 0.02s
+[2018.01.21-02.10.12:725][  0]SourceControl: Source control is disabled
+[2018.01.21-02.10.12:726][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.21-02.10.12:897][  0]LightingResults: New page: Lighting Build
+[2018.01.21-02.10.12:987][  0]MapCheck: New page: Map Check
+[2018.01.21-02.10.12:987][  0]LightingResults: New page: Lighting Build
+[2018.01.21-02.10.24:842][  0]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-02.10.24:928][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.21-02.10.24:957][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.21-02.10.25:057][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 99.808ms to complete.
+[2018.01.21-02.10.25:057][  0]LogFileHelpers: Loading map 'Level_0' took 12.332
+[2018.01.21-02.10.26:601][  0]LogCollectionManager: Loaded 0 collections in 0.065705 seconds
+[2018.01.21-02.10.26:718][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Saved/Collections/' took 0.01s
+[2018.01.21-02.10.26:718][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/Developers/Mrgds2/Collections/' took 0.01s
+[2018.01.21-02.10.26:718][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/Collections/' took 0.01s
+[2018.01.21-02.10.26:718][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.21-02.10.26:733][  0]LogContentBrowser: Native class hierarchy populated in 0.0141 seconds. Added 2368 classes and 523 folders.
+[2018.01.21-02.10.26:843][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.01.21-02.10.33:473][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.01.21-02.10.33:539][  0]LogSlate: Took 0.024856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.21-02.10.33:563][  0]LogSlate: Took 0.018465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.21-02.10.33:584][  0]LogSlate: Took 0.017399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.21-02.10.34:158][  0]LogRenderer: Reallocating scene render targets to support 1200x688 Format 10 NumSamples 1 (Frame:1).
+[2018.01.21-02.10.34:275][  0]LogSlate: Took 0.036690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-02.10.34:624][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.01.21-02.10.34:624][  0]LogLoad: (Engine Initialization) Total time: 272.44 seconds
+[2018.01.21-02.10.34:624][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.21-02.10.34:625][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.21-02.10.34:625][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.21-02.10.34:657][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.21-02.10.34:801][  1]LogAssetRegistry: Asset discovery search completed in 85.0027 seconds
+[2018.01.21-02.10.34:805][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.21-02.10.34:805][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000120 seconds (updated 0 objects)
+[2018.01.21-02.14.31:432][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x408)
+[2018.01.21-02.14.51:527][539]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.01.21-02.14.53:497][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400)
+[2018.01.21-02.14.54:391][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-02.15.30:284][557]Cmd: TRANSACTION UNDO
+[2018.01.21-02.15.30:284][557]LogEditorTransaction: Undo Move Actors
+[2018.01.21-02.15.30:416][557]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-02.15.36:182][894]Cmd: TRANSACTION UNDO
+[2018.01.21-02.15.36:182][894]LogEditorTransaction: Undo Move Actors
+[2018.01.21-02.15.45:880][552]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.21-02.15.50:273][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2018.01.21-02.16.12:566][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2018.01.21-02.16.14:594][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x402)
+[2018.01.21-02.16.35:369][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x401)
+[2018.01.21-02.17.01:270][193]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-02.17.01:394][193]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0014 seconds. Added 1 classes and 0 folders.
+[2018.01.21-02.17.01:437][193]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.01.21-02.17.02:798][193]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.01.21-02.17.02:838][193]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.01.21-02.17.02:914][193]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.21-02.17.02:971][193]LogSlate: Took 0.024802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.21-02.17.04:711][197]LogSlate: Took 0.021290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.21-02.17.40:917][735]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2018.01.21-02.18.00:760][768]Cmd: TRANSACTION UNDO
+[2018.01.21-02.18.00:760][768]LogEditorTransaction: Undo Create Actors
+[2018.01.21-02.18.13:016][322]LogMaterial: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2018.01.21-02.18.13:024][322]LogMaterial: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2018.01.21-02.18.28:689][822]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2018.01.21-02.19.58:856][879]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2018.01.21-02.19.58:995][879]LogMaterial: Warning: Material /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV needed to have new flag set bUsedWithStaticLighting !
+[2018.01.21-02.19.59:000][879]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2018.01.21-02.21.07:921][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.21-02.21.08:544][828]LogSavePackage: Save=244.88ms
+[2018.01.21-02.21.08:544][828]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto1460723D7493943CD2D8AE4ADB3A3F074.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto1.umap'
+[2018.01.21-02.21.08:550][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto1.umap
+[2018.01.21-02.21.08:586][828]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.842
+[2018.01.21-02.21.08:587][828]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.842
+[2018.01.21-02.21.08:589][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/Materials/M_smoke_subUV] ([1] browsable assets)...
+[2018.01.21-02.21.08:621][828]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV]
+[2018.01.21-02.21.08:621][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/Materials/M_smoke_subUV]
+[2018.01.21-02.21.08:698][828]LogSavePackage: Save=58.89ms
+[2018.01.21-02.21.08:698][828]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/M_smoke_subUV_Auto1C4CE4F9A474A63F691F96A87C0782212.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/StarterContent/Particles/Materials/M_smoke_subUV_Auto1.uasset'
+[2018.01.21-02.21.08:699][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/StarterContent/Particles/Materials/M_smoke_subUV_Auto1.uasset
+[2018.01.21-02.21.08:699][828]LogFileHelpers: Auto-saving content packages took 0.111
+[2018.01.21-02.21.24:579][690]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile_2, compiling. 
+[2018.01.21-02.21.39:904][ 99]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2018.01.21-02.22.06:046][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/mytile" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/mytile.uasset" SILENT=true
+[2018.01.21-02.22.06:091][ 66]LogSavePackage: Save=43.39ms
+[2018.01.21-02.22.06:091][ 66]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/mytile7F05B3AB4DFF3BFF5A08ACBC45FC1C3C.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/mytile.uasset'
+[2018.01.21-02.22.06:094][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/mytile.uasset
+[2018.01.21-02.22.10:968][298]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.22.11:099][298]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.22.11:139][298]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.22.11:197][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2018.01.21-02.22.11:205][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_3, compiling. 
+[2018.01.21-02.22.11:212][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.01.21-02.22.11:220][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.21-02.22.11:227][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.21-02.22.11:233][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_7, compiling. 
+[2018.01.21-02.22.11:241][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_26, compiling. 
+[2018.01.21-02.22.16:141][375]MaterialEditorStats: Base pass shader: 136 instructions
+[2018.01.21-02.22.16:141][375]MaterialEditorStats: Base pass shader with Surface Lightmap: 153 instructions
+[2018.01.21-02.22.16:141][375]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2018.01.21-02.22.16:141][375]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-02.22.16:141][375]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.21-02.22.16:141][375]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-02.23.34:553][763]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.23.36:746][812]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.23.38:358][850]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.23.43:043][957]MaterialEditorStats: Base pass shader: 136 instructions
+[2018.01.21-02.23.43:043][957]MaterialEditorStats: Base pass shader with Surface Lightmap: 153 instructions
+[2018.01.21-02.23.43:043][957]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2018.01.21-02.23.43:043][957]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-02.23.43:043][957]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.21-02.23.43:043][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-02.23.54:095][145]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.23.57:819][242]MaterialEditorStats: Base pass shader: 136 instructions
+[2018.01.21-02.23.57:819][242]MaterialEditorStats: Base pass shader with Surface Lightmap: 153 instructions
+[2018.01.21-02.23.57:819][242]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2018.01.21-02.23.57:819][242]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-02.23.57:819][242]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.21-02.23.57:819][242]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-02.24.01:388][343]LogMaterialEditor: Saving and Compiling material mytile
+[2018.01.21-02.24.02:256][343]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.24.02:357][343]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.24.02:436][343]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.24.02:520][343]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mytile, compiling. 
+[2018.01.21-02.24.05:299][343]TextureStreamingBuild: Display: Compiling optional shaders took 2.789 seconds.
+[2018.01.21-02.24.09:838][343]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.21-02.24.09:886][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/mytile" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/mytile.uasset" SILENT=true
+[2018.01.21-02.24.09:968][343]LogSavePackage: Save=64.51ms
+[2018.01.21-02.24.09:968][343]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/mytile226360CF4A39707DD9E75786E2909323.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/mytile.uasset'
+[2018.01.21-02.24.09:971][343]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/mytile.uasset
+[2018.01.21-02.24.19:908][642]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.24.23:464][719]MaterialEditorStats: Base pass shader: 136 instructions
+[2018.01.21-02.24.23:464][719]MaterialEditorStats: Base pass shader with Surface Lightmap: 153 instructions
+[2018.01.21-02.24.23:464][719]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2018.01.21-02.24.23:464][719]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-02.24.23:464][719]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.21-02.24.23:464][719]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-02.24.25:431][775]LogMaterialEditor: Saving and Compiling material mytile
+[2018.01.21-02.24.26:279][775]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.24.26:372][775]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.24.26:457][775]LogMaterial: Missing cached shader map for material mytile, compiling. 
+[2018.01.21-02.24.26:546][775]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mytile, compiling. 
+[2018.01.21-02.24.29:354][775]TextureStreamingBuild: Display: Compiling optional shaders took 2.817 seconds.
+[2018.01.21-02.24.33:905][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/mytile" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/mytile.uasset" SILENT=true
+[2018.01.21-02.24.33:955][775]LogSavePackage: Save=36.02ms
+[2018.01.21-02.24.33:955][775]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/mytile8122A20C4E45DDC27EBCC5BD1FA3F6A2.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/mytile.uasset'
+[2018.01.21-02.24.33:958][775]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/mytile.uasset
+[2018.01.21-02.24.52:995][955]Cmd: TRANSACTION UNDO
+[2018.01.21-02.24.52:995][955]LogEditorTransaction: Undo Create Actors
+[2018.01.21-02.24.58:707][221]Cmd: TRANSACTION UNDO
+[2018.01.21-02.24.58:707][221]LogEditorTransaction: Undo Create Actors
+[2018.01.21-02.25.01:286][328]Cmd: TRANSACTION UNDO
+[2018.01.21-02.25.01:286][328]LogEditorTransaction: Undo Create Actors
+[2018.01.21-02.25.07:623][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x407)
+[2018.01.21-02.25.21:090][492]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-02.25.21:216][492]Candidate modules for hot reload:
+[2018.01.21-02.25.21:216][492]  FITA_0
+[2018.01.21-02.25.21:216][492]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 599 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-02.25.21:398][492]Warning: Starting HotReload took  0.4s.
+[2018.01.21-02.25.26:393][647]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 4:25:26 PM
+[2018.01.21-02.25.26:394][647]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-02.25.26:394][647]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-02.25.26:394][647]CompilerResultsLog: Target is up to date
+[2018.01.21-02.25.26:394][647]CompilerResultsLog: Total build time: 4.57 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.21-02.25.26:412][647]LogMainFrame: MainFrame: Module compiling took 5.311 seconds
+[2018.01.21-02.25.26:483][647]LogContentBrowser: Native class hierarchy populated in 0.0155 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-02.25.26:525][647]Display: HotReload took  5.5s.
+[2018.01.21-02.25.28:258][705]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-02.25.28:431][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-02.25.28:493][705]PIE: New page: PIE session: Level_0 (Jan 20, 2018, 4:25:28 PM)
+[2018.01.21-02.25.28:501][705]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-02.25.28:527][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025864s)
+[2018.01.21-02.25.28:529][705]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-02.25.28:546][705]LogPlayLevel: PIE: World Init took: (0.018462s)
+[2018.01.21-02.25.28:560][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.058997s)
+[2018.01.21-02.25.28:608][705]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-02.25.28:615][705]LogInit: FAudioDevice initialized.
+[2018.01.21-02.25.28:858][705]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-02.25.28:990][705]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.20-21.25.28
+[2018.01.21-02.25.29:044][705]LogWorld: Bringing up level for play took: 0.055904
+[2018.01.21-02.25.29:229][705]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2018.01.21-02.25.29:309][705]LogTemp: Warning: Input component found 
+[2018.01.21-02.25.29:309][705]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-02.25.29:319][705]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 1.304
+[2018.01.21-02.26.03:025][747]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.01.21-02.26.49:403][194]Cmd: DELETE
+[2018.01.21-02.26.49:404][194]Cmd: ACTOR DELETE
+[2018.01.21-02.26.49:655][194]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2018.01.21-02.26.49:655][194]LogEditorActor: Actor Light Source is referenced by Sky Sphere2.
+[2018.01.21-02.27.00:682][194]LogEditorActor: Deleted 0 Actors (11.058 secs)
+[2018.01.21-02.27.04:859][470]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.21-02.27.05:507][514]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2018.01.21-02.27.06:382][570]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.21-02.27.07:561][655]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.21-02.27.08:077][692]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.01.21-02.27.20:320][587]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.01.21-02.27.29:373][264]Cmd: TRANSACTION UNDO
+[2018.01.21-02.27.29:373][264]LogEditorTransaction: Undo Move Actors
+[2018.01.21-02.27.55:547][893]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-02.27.55:572][893]Candidate modules for hot reload:
+[2018.01.21-02.27.55:572][893]  FITA_0
+[2018.01.21-02.27.55:572][893]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 1118 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-02.27.55:711][893]Warning: Starting HotReload took  0.2s.
+[2018.01.21-02.27.58:160][965]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 4:27:58 PM
+[2018.01.21-02.27.58:160][965]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-02.27.58:160][965]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-02.27.58:160][965]CompilerResultsLog: Target is up to date
+[2018.01.21-02.27.58:160][965]CompilerResultsLog: Total build time: 2.12 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.21-02.27.58:160][965]LogMainFrame: MainFrame: Module compiling took 2.614 seconds
+[2018.01.21-02.27.58:204][965]LogContentBrowser: Native class hierarchy populated in 0.0173 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-02.27.58:204][965]Display: HotReload took  2.7s.
+[2018.01.21-02.28.01:003][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-02.28.01:030][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-02.28.01:030][ 48]PIE: New page: PIE session: Level_0 (Jan 20, 2018, 4:28:01 PM)
+[2018.01.21-02.28.01:030][ 48]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-02.28.01:043][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012228s)
+[2018.01.21-02.28.01:044][ 48]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-02.28.01:044][ 48]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2018.01.21-02.28.01:044][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.013895s)
+[2018.01.21-02.28.01:083][ 48]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-02.28.01:089][ 48]LogInit: FAudioDevice initialized.
+[2018.01.21-02.28.01:121][ 48]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-02.28.01:125][ 48]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.20-21.28.01
+[2018.01.21-02.28.01:125][ 48]LogWorld: Bringing up level for play took: 0.003373
+[2018.01.21-02.28.01:127][ 48]LogTemp: Warning: Input component found 
+[2018.01.21-02.28.01:127][ 48]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-02.28.01:127][ 48]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.888
+[2018.01.21-02.28.23:402][ 33]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-02.28.23:402][ 33]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-02.28.27:343][428]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.21-02.28.27:343][428]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.21-02.28.33:673][ 71]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.21-02.28.33:673][ 71]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.21-02.28.38:110][518]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.21-02.28.38:110][518]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.21-02.28.43:895][100]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.21-02.28.43:895][100]LogTemp: Warning: Your looking at the: SM_Chair2_8 
+[2018.01.21-02.28.53:381][ 44]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.21-02.28.53:381][ 44]LogTemp: Warning: Your looking at the: SM_Chair_2 
+[2018.01.21-02.29.00:112][713]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-02.29.00:112][713]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-02.29.46:607][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2018.01.21-02.30.16:456][557]Cmd: DELETE
+[2018.01.21-02.30.16:456][557]Cmd: ACTOR DELETE
+[2018.01.21-02.30.16:459][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.21-02.30.16:499][557]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.01.21-02.30.28:532][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2018.01.21-02.31.29:452][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2018.01.21-02.31.34:232][221]Cmd: DELETE
+[2018.01.21-02.31.34:232][221]Cmd: ACTOR DELETE
+[2018.01.21-02.31.34:235][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.21-02.31.34:256][221]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.01.21-02.31.35:424][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2018.01.21-02.31.36:082][383]Cmd: DELETE
+[2018.01.21-02.31.36:082][383]Cmd: ACTOR DELETE
+[2018.01.21-02.31.36:085][383]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.21-02.31.36:108][383]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.21-02.31.38:196][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2018.01.21-02.33.19:412][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2018.01.21-02.34.01:716][194]Cmd: DELETE
+[2018.01.21-02.34.01:716][194]Cmd: ACTOR DELETE
+[2018.01.21-02.34.01:719][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.21-02.34.01:740][194]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.01.21-02.34.03:947][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof2)
+[2018.01.21-02.34.41:603][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-02.34.45:020][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-02.34.46:044][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-02.34.50:668][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-02.34.52:497][938]LogEditorViewport: Clicking on Component (SHIFT LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.21-02.34.53:675][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x404)
+[2018.01.21-02.34.54:708][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-02.34.58:023][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-02.34.59:775][339]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Roof4)
+[2018.01.21-02.35.01:174][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-02.35.04:708][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-02.35.05:922][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-02.35.06:377][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2018.01.21-02.35.07:116][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-02.39.14:679][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.21-02.39.15:593][745]LogSavePackage: Save=269.13ms
+[2018.01.21-02.39.15:593][745]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto28474B0A043CB6C0DAF0821A3A57E67DA.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto2.umap'
+[2018.01.21-02.39.15:611][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto2.umap
+[2018.01.21-02.39.15:617][745]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.957
+[2018.01.21-02.39.15:617][745]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.957
+[2018.01.21-02.42.50:828][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-02.43.02:197][426]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Worn_2, compiling. 
+[2018.01.21-02.49.15:817][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.21-02.49.16:096][ 95]LogSavePackage: Save=258.38ms
+[2018.01.21-02.49.16:096][ 95]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto36EED66644D190A951005B9B03EABD027.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto3.umap'
+[2018.01.21-02.49.16:734][ 95]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto3.umap
+[2018.01.21-02.49.16:799][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 1.007
+[2018.01.21-02.49.16:799][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.007
+[2018.01.21-02.49.16:834][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn_2] ([1] browsable assets)...
+[2018.01.21-02.49.16:875][ 95]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn_2.M_Wood_Floor_Walnut_Worn_2]
+[2018.01.21-02.49.16:875][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn_2]
+[2018.01.21-02.49.16:923][ 95]LogSavePackage: Save=32.20ms
+[2018.01.21-02.49.16:923][ 95]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/M_Wood_Floor_Walnut_Worn_2_Auto345F1C8DF4F45D3097A562E96A534A697.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn_2_Auto3.uasset'
+[2018.01.21-02.49.16:924][ 95]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn_2_Auto3.uasset
+[2018.01.21-02.49.16:924][ 95]LogFileHelpers: Auto-saving content packages took 0.092
+[2018.01.21-03.03.54:785][882]LogInit: XAudio2 using 'VX238-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.21-04.28.50:449][438]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Roof4)
+[2018.01.21-04.29.05:568][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/my_wood" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/my_wood.uasset" SILENT=true
+[2018.01.21-04.29.05:606][155]LogSavePackage: Save=36.03ms
+[2018.01.21-04.29.05:606][155]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/my_woodB84BE27340C0F4D6A8C93DB7E3584D0A.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/my_wood.uasset'
+[2018.01.21-04.29.05:614][155]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/my_wood.uasset
+[2018.01.21-04.29.17:497][657]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.29.17:649][657]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.29.17:682][657]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.29.17:745][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.21-04.29.17:753][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.21-04.29.17:762][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.21-04.29.17:769][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2018.01.21-04.29.17:778][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_33, compiling. 
+[2018.01.21-04.29.17:788][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_34, compiling. 
+[2018.01.21-04.29.21:713][738]MaterialEditorStats: Base pass shader: 128 instructions
+[2018.01.21-04.29.21:713][738]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2018.01.21-04.29.21:713][738]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2018.01.21-04.29.21:713][738]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-04.29.21:713][738]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.21-04.29.21:713][738]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-04.29.35:507][ 53]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.29.37:773][ 97]LogMaterialEditor: Applying material my_wood
+[2018.01.21-04.29.38:938][ 97]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.29.39:041][ 97]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.29.39:120][ 97]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.29.39:204][ 97]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy my_wood, compiling. 
+[2018.01.21-04.29.41:849][ 97]TextureStreamingBuild: Display: Compiling optional shaders took 2.653 seconds.
+[2018.01.21-04.29.43:982][133]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.29.45:728][166]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.29.49:771][252]MaterialEditorStats: Base pass shader: 128 instructions
+[2018.01.21-04.29.49:771][252]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2018.01.21-04.29.49:771][252]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2018.01.21-04.29.49:771][252]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-04.29.49:771][252]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.21-04.29.49:772][252]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-04.29.54:371][351]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.29.57:541][409]MaterialEditorStats: Base pass shader: 128 instructions
+[2018.01.21-04.29.57:542][409]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2018.01.21-04.29.57:542][409]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2018.01.21-04.29.57:542][409]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-04.29.57:542][409]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.21-04.29.57:542][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-04.30.00:016][466]LogMaterialEditor: Saving and Compiling material my_wood
+[2018.01.21-04.30.00:845][466]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.30.00:942][466]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.30.01:023][466]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.30.01:111][466]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy my_wood, compiling. 
+[2018.01.21-04.30.03:758][466]TextureStreamingBuild: Display: Compiling optional shaders took 2.656 seconds.
+[2018.01.21-04.30.08:003][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/my_wood" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/my_wood.uasset" SILENT=true
+[2018.01.21-04.30.08:068][466]LogSavePackage: Save=46.77ms
+[2018.01.21-04.30.08:068][466]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/my_wood348A125548C8BC0F4B0BD58120D19B2B.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/my_wood.uasset'
+[2018.01.21-04.30.08:071][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/my_wood.uasset
+[2018.01.21-04.30.18:370][810]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.30.21:780][912]MaterialEditorStats: Base pass shader: 128 instructions
+[2018.01.21-04.30.21:780][912]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2018.01.21-04.30.21:780][912]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2018.01.21-04.30.21:780][912]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-04.30.21:780][912]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.21-04.30.21:780][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-04.30.26:088][ 78]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.30.28:885][154]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.30.29:314][164]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.30.32:764][264]MaterialEditorStats: Base pass shader: 128 instructions
+[2018.01.21-04.30.32:764][264]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2018.01.21-04.30.32:764][264]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2018.01.21-04.30.32:764][264]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-04.30.32:764][264]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.21-04.30.32:764][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-04.30.44:936][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-04.30.58:961][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-04.31.03:968][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-04.31.08:003][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-04.31.36:464][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.21-04.31.36:750][802]LogSavePackage: Save=249.13ms
+[2018.01.21-04.31.36:750][802]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto4585C09CE4F974BC71FCEF796A8FD5641.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto4.umap'
+[2018.01.21-04.31.36:751][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto4.umap
+[2018.01.21-04.31.36:756][802]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.312
+[2018.01.21-04.31.36:756][802]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.312
+[2018.01.21-04.31.39:901][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof5)
+[2018.01.21-04.31.47:551][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-04.32.27:632][392]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.32.31:815][522]MaterialEditorStats: Base pass shader: 128 instructions
+[2018.01.21-04.32.31:815][522]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2018.01.21-04.32.31:815][522]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2018.01.21-04.32.31:815][522]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-04.32.31:815][522]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.21-04.32.31:815][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-04.32.34:658][600]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.32.37:904][657]MaterialEditorStats: Base pass shader: 128 instructions
+[2018.01.21-04.32.37:904][657]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2018.01.21-04.32.37:904][657]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2018.01.21-04.32.37:904][657]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-04.32.37:904][657]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.21-04.32.37:905][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-04.32.38:221][662]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.32.41:427][711]MaterialEditorStats: Base pass shader: 128 instructions
+[2018.01.21-04.32.41:427][711]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2018.01.21-04.32.41:427][711]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2018.01.21-04.32.41:427][711]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-04.32.41:427][711]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.21-04.32.41:427][711]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-04.32.42:431][730]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.32.42:472][731]LogMaterialEditor: Saving and Compiling material my_wood
+[2018.01.21-04.32.43:625][731]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.32.43:730][731]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.32.43:809][731]LogMaterial: Missing cached shader map for material my_wood, compiling. 
+[2018.01.21-04.32.43:892][731]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy my_wood, compiling. 
+[2018.01.21-04.32.46:606][731]TextureStreamingBuild: Display: Compiling optional shaders took 2.722 seconds.
+[2018.01.21-04.32.50:930][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/my_wood" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/my_wood.uasset" SILENT=true
+[2018.01.21-04.32.51:005][731]LogSavePackage: Save=47.26ms
+[2018.01.21-04.32.51:005][731]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/my_wood33D678784BD3B2D58CBF80BBDEBB4B5F.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/my_wood.uasset'
+[2018.01.21-04.32.51:008][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/StarterContent/Materials/my_wood.uasset
+[2018.01.21-04.32.51:046][731]MaterialEditorStats: Base pass shader: 128 instructions
+[2018.01.21-04.32.51:046][731]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2018.01.21-04.32.51:046][731]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2018.01.21-04.32.51:046][731]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.21-04.32.51:046][731]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.21-04.32.51:046][731]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.21-04.33.09:593][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof5)
+[2018.01.21-04.33.10:200][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x409)
+[2018.01.21-04.34.49:005][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-04.35.24:409][627]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x403)
+[2018.01.21-04.35.28:275][917]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x404)
+[2018.01.21-04.35.28:841][956]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x405)
+[2018.01.21-04.35.36:232][502]Cmd: TRANSACTION UNDO
+[2018.01.21-04.35.36:232][502]LogEditorTransaction: Undo Move Actors
+[2018.01.21-04.35.40:341][667]Cmd: TRANSACTION UNDO
+[2018.01.21-04.35.40:341][667]LogEditorTransaction: Undo Move Actors
+[2018.01.21-04.35.40:979][686]Cmd: TRANSACTION UNDO
+[2018.01.21-04.35.40:979][686]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.21-04.35.41:488][698]Cmd: TRANSACTION UNDO
+[2018.01.21-04.35.41:488][698]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.21-04.35.41:997][721]Cmd: TRANSACTION UNDO
+[2018.01.21-04.35.41:997][721]LogEditorTransaction: Undo Move Actors
+[2018.01.21-04.36.00:474][ 15]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-04.36.00:510][ 15]Candidate modules for hot reload:
+[2018.01.21-04.36.00:510][ 15]  FITA_0
+[2018.01.21-04.36.00:510][ 15]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 8655 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-04.36.00:680][ 15]Warning: Starting HotReload took  0.2s.
+[2018.01.21-04.36.03:176][ 80]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 6:36:03 PM
+[2018.01.21-04.36.03:176][ 80]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-04.36.03:176][ 80]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-04.36.03:176][ 80]CompilerResultsLog: Target is up to date
+[2018.01.21-04.36.03:176][ 80]CompilerResultsLog: Total build time: 1.96 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.21-04.36.03:176][ 80]LogMainFrame: MainFrame: Module compiling took 2.702 seconds
+[2018.01.21-04.36.03:242][ 80]LogContentBrowser: Native class hierarchy populated in 0.0249 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-04.36.03:242][ 80]Display: HotReload took  2.8s.
+[2018.01.21-04.36.04:445][117]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-04.36.04:473][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-04.36.04:473][117]PIE: New page: PIE session: Level_0 (Jan 20, 2018, 6:36:04 PM)
+[2018.01.21-04.36.04:473][117]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-04.36.04:485][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012159s)
+[2018.01.21-04.36.04:486][117]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-04.36.04:487][117]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2018.01.21-04.36.04:487][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.014180s)
+[2018.01.21-04.36.04:529][117]LogInit: XAudio2 using 'VX238-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.21-04.36.04:539][117]LogInit: FAudioDevice initialized.
+[2018.01.21-04.36.04:577][117]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-04.36.04:581][117]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.20-23.36.04
+[2018.01.21-04.36.04:581][117]LogWorld: Bringing up level for play took: 0.002931
+[2018.01.21-04.36.04:583][117]LogTemp: Warning: Input component found 
+[2018.01.21-04.36.04:583][117]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-04.36.04:583][117]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.568
+[2018.01.21-04.36.11:403][314]MapCheck: New page: Map Check
+[2018.01.21-04.36.11:466][314]LightingResults: New page: Lighting Build - Jan 20, 2018, 6:36:11 PM
+[2018.01.21-04.36.11:762][314]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.21-04.36.11:941][314]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.21-04.36.11:956][314]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.21-04.36.12:995][314]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.21-04.36.12:996][314]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1324
+[2018.01.21-04.36.16:190][314]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.21-04.36.16:191][314]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.21-04.36.16:191][314]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.21-04.36.16:191][314]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.21-04.36.16:191][314]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.21-04.36.16:191][314]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.21-04.36.16:456][314]LogEditorBuildUtils: Build time 0:05
+[2018.01.21-04.36.16:536][315]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer mytile, compiling. 
+[2018.01.21-04.36.16:545][315]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer mytile, compiling. 
+[2018.01.21-04.36.16:583][316]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2018.01.21-04.36.16:595][316]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2018.01.21-04.36.16:639][317]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_MaterialSphere, compiling. 
+[2018.01.21-04.36.16:650][317]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_MaterialSphere, compiling. 
+[2018.01.21-04.36.16:692][318]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer my_wood, compiling. 
+[2018.01.21-04.36.16:702][318]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer my_wood, compiling. 
+[2018.01.21-04.36.24:573][344]Job has failed! Job is closed while Tasks are still PENDING
+[2018.01.21-04.36.24:575][344]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build failed.
+[2018.01.21-04.36.25:156][344]DumpUnbuiltLightIteractions
+[2018.01.21-04.36.25:157][344]Lights with unbuilt interactions: 4
+[2018.01.21-04.36.25:157][344]    Light SpotLight_1
+[2018.01.21-04.36.25:157][344]    Light PointLight_1
+[2018.01.21-04.36.25:157][344]    Light LightSource
+[2018.01.21-04.36.25:157][344]    Light PointLight_0
+[2018.01.21-04.36.25:157][344]
+[2018.01.21-04.36.25:157][344]Primitives with unbuilt interactions: 35
+[2018.01.21-04.36.25:157][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Roof3.StaticMeshComponent0
+[2018.01.21-04.36.25:157][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Roof5.StaticMeshComponent0
+[2018.01.21-04.36.25:157][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Roof4.StaticMeshComponent0
+[2018.01.21-04.36.25:157][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Roof2.StaticMeshComponent0
+[2018.01.21-04.36.25:158][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x409.StaticMeshComponent0
+[2018.01.21-04.36.25:158][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.SM_MatPreviewMesh_02_14.StaticMeshComponent0
+[2018.01.21-04.36.25:158][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Roof.StaticMeshComponent0
+[2018.01.21-04.36.25:158][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x403.StaticMeshComponent0
+[2018.01.21-04.36.25:158][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x404.StaticMeshComponent0
+[2018.01.21-04.36.25:158][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x405.StaticMeshComponent0
+[2018.01.21-04.36.25:158][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_Door_400x406.StaticMeshComponent0
+[2018.01.21-04.36.25:158][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_Door_400x405.StaticMeshComponent0
+[2018.01.21-04.36.25:158][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_Door_400x404.StaticMeshComponent0
+[2018.01.21-04.36.25:158][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_Door_400x403.StaticMeshComponent0
+[2018.01.21-04.36.25:159][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_Door_400x402_5.StaticMeshComponent0
+[2018.01.21-04.36.25:159][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_Door_400x401.StaticMeshComponent0
+[2018.01.21-04.36.25:159][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_Door_400x400_5.StaticMeshComponent0
+[2018.01.21-04.36.25:159][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x414.StaticMeshComponent0
+[2018.01.21-04.36.25:159][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x413.StaticMeshComponent0
+[2018.01.21-04.36.25:159][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x412.StaticMeshComponent0
+[2018.01.21-04.36.25:159][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x411.StaticMeshComponent0
+[2018.01.21-04.36.25:159][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x410.StaticMeshComponent0
+[2018.01.21-04.36.25:159][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x408.StaticMeshComponent0
+[2018.01.21-04.36.25:159][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x407.StaticMeshComponent0
+[2018.01.21-04.36.25:159][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x406.StaticMeshComponent0
+[2018.01.21-04.36.25:160][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x402.StaticMeshComponent0
+[2018.01.21-04.36.25:160][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x401.StaticMeshComponent0
+[2018.01.21-04.36.25:160][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Wall_400x400_2.StaticMeshComponent0
+[2018.01.21-04.36.25:160][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.SM_Lamp_Wall_19.StaticMeshComponent0
+[2018.01.21-04.36.25:160][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.SM_DoorFrame_2.StaticMeshComponent0
+[2018.01.21-04.36.25:160][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.SM_DoorFrame4.StaticMeshComponent0
+[2018.01.21-04.36.25:160][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.SM_DoorFrame3.StaticMeshComponent0
+[2018.01.21-04.36.25:160][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.SM_DoorFrame2.StaticMeshComponent0
+[2018.01.21-04.36.25:160][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Floor6.StaticMeshComponent0
+[2018.01.21-04.36.25:161][344]    Primitive StaticMeshComponent /Game/Level_0.Level_0:PersistentLevel.Floor.StaticMeshComponent0
+[2018.01.21-04.36.25:268][345]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.21-04.36.25:269][345]MapCheck: New page: Level_0 - Jan 20, 2018, 6:36:25 PM
+[2018.01.21-04.36.25:301][345]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.01.21-04.36.25:415][345]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 146.465ms to complete.
+[2018.01.21-04.36.57:474][441]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-04.37.08:604][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-04.37.08:628][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-04.37.08:629][ 10]PIE: New page: PIE session: Level_0 (Jan 20, 2018, 6:37:08 PM)
+[2018.01.21-04.37.08:629][ 10]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-04.37.08:637][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008014s)
+[2018.01.21-04.37.08:638][ 10]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-04.37.08:639][ 10]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2018.01.21-04.37.08:639][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.009888s)
+[2018.01.21-04.37.08:679][ 10]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-04.37.08:685][ 10]LogInit: FAudioDevice initialized.
+[2018.01.21-04.37.08:721][ 10]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-04.37.08:724][ 10]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.20-23.37.08
+[2018.01.21-04.37.08:725][ 10]LogWorld: Bringing up level for play took: 0.002759
+[2018.01.21-04.37.08:726][ 10]LogTemp: Warning: Input component found 
+[2018.01.21-04.37.08:726][ 10]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-04.37.08:726][ 10]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.711
+[2018.01.21-04.37.15:689][632]MapCheck: New page: Map Check
+[2018.01.21-04.37.15:757][632]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.21-04.37.15:759][632]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.21-04.37.15:919][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.21-04.37.15:929][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.01.21-04.37.15:935][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.01.21-04.37.15:944][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.01.21-04.37.15:954][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Steel, compiling. 
+[2018.01.21-04.37.15:964][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.01.21-04.37.15:972][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.01.21-04.37.15:993][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.01.21-04.37.16:004][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_CobbleStone_Smooth, compiling. 
+[2018.01.21-04.37.16:021][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_New, compiling. 
+[2018.01.21-04.37.16:032][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mytile, compiling. 
+[2018.01.21-04.37.16:044][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.01.21-04.37.16:055][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.01.21-04.37.16:065][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue, compiling. 
+[2018.01.21-04.37.16:075][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2018.01.21-04.37.16:084][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_MaterialSphere, compiling. 
+[2018.01.21-04.37.16:094][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy my_wood, compiling. 
+[2018.01.21-04.37.19:842][632]TextureStreamingBuild: Display: Compiling optional shaders took 3.966 seconds.
+[2018.01.21-04.37.20:036][632]LogLevel: Display: Export Material TexCoord Scales took 0.194 seconds.
+[2018.01.21-04.37.20:061][632]TextureStreamingBuild: Display: Build Texture Streaming took 0.024 seconds.
+[2018.01.21-04.37.20:084][632]LightingResults: New page: Lighting Build - Jan 20, 2018, 6:37:20 PM
+[2018.01.21-04.37.20:094][632]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.21-04.37.20:208][632]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.21-04.37.20:208][632]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.21-04.37.20:716][632]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.21-04.37.20:716][632]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1324
+[2018.01.21-04.37.23:497][632]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.21-04.37.23:498][632]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.21-04.37.23:498][632]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.21-04.37.23:498][632]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.21-04.37.23:498][632]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.21-04.37.23:498][632]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.21-04.37.23:660][632]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.21-04.37.23:660][632]MapCheck: New page: Level_0 - Jan 20, 2018, 6:37:23 PM
+[2018.01.21-04.37.23:661][632]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.01.21-04.37.23:757][632]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 96.567ms to complete.
+[2018.01.21-04.37.23:779][632]LogEditorBuildUtils: Build time 0:08
+[2018.01.21-04.37.36:710][841]Job is a success!
+[2018.01.21-04.37.36:938][842]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2018.01.21-04.37.36:938][842]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.21-04.37.36:938][842]LogVolumetricLightmapImport:      BrickData 205x5x5 = 0.1Mb
+[2018.01.21-04.37.36:938][842]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.21-04.37.36:938][842]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2018.01.21-04.37.36:938][842]LogVolumetricLightmapImport:          1: 4.9% covering 3.1% of volume
+[2018.01.21-04.37.36:938][842]LogVolumetricLightmapImport:          2: 92.7% covering 0.9% of volume
+[2018.01.21-04.37.38:219][842]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.01.21-04.37.38:219][842]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.01.21-04.37.38:219][842]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.01.21-04.37.38:219][842]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.01.21-04.37.38:219][842]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.01.21-04.37.38:220][842]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.01.21-04.37.38:419][842]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.01.21-04.37.38:420][842]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2018.01.21-04.37.38:490][842]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2018.01.21-04.37.38:551][842]Lightmass on PEARL: 13.5 sec total, 227 ms importing, 51 ms setup, 1.28 sec photons, 11.9 sec processing, 0 ms extra exporting [37/37 mappings]. Threads: 59.6 sec total, 36.9 sec processing.
+[2018.01.21-04.37.38:676][842]LogStaticLightingSystem: Illumination: 18.4 sec (1.13 sec encoding lightmaps, 240 ms encoding shadowmaps)
+[2018.01.21-04.37.38:676][842]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.01.21-04.37.38:676][842]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.01.21-04.37.39:509][842]DumpUnbuiltLightIteractions
+[2018.01.21-04.37.39:509][842]Lights with unbuilt interactions: 0
+[2018.01.21-04.37.39:509][842]
+[2018.01.21-04.37.39:509][842]Primitives with unbuilt interactions: 0
+[2018.01.21-04.37.39:521][843]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.21-04.37.39:521][843]MapCheck: New page: Level_0 - Jan 20, 2018, 6:37:39 PM
+[2018.01.21-04.37.39:625][843]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 103.99ms to complete.
+[2018.01.21-04.37.50:249][187]MapCheck: New page: Map Check
+[2018.01.21-04.37.50:316][187]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.21-04.37.50:316][187]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.21-04.37.50:368][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.21-04.37.50:377][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.01.21-04.37.50:383][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_4, compiling. 
+[2018.01.21-04.37.50:393][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.01.21-04.37.50:401][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Steel, compiling. 
+[2018.01.21-04.37.50:410][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.01.21-04.37.50:418][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.01.21-04.37.50:429][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.01.21-04.37.50:439][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_CobbleStone_Smooth, compiling. 
+[2018.01.21-04.37.50:455][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_New, compiling. 
+[2018.01.21-04.37.50:467][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mytile, compiling. 
+[2018.01.21-04.37.50:479][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.01.21-04.37.50:491][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.01.21-04.37.50:502][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue, compiling. 
+[2018.01.21-04.37.50:513][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2018.01.21-04.37.50:523][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_MaterialSphere, compiling. 
+[2018.01.21-04.37.50:533][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy my_wood, compiling. 
+[2018.01.21-04.37.54:469][187]TextureStreamingBuild: Display: Compiling optional shaders took 4.107 seconds.
+[2018.01.21-04.37.54:488][187]LogLevel: Display: Export Material TexCoord Scales took 0.018 seconds.
+[2018.01.21-04.37.54:501][187]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2018.01.21-04.37.54:527][187]LightingResults: New page: Lighting Build - Jan 20, 2018, 6:37:54 PM
+[2018.01.21-04.37.54:536][187]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.21-04.37.54:540][187]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.21-04.37.54:540][187]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.21-04.37.54:541][187]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.21-04.37.54:541][187]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1324
+[2018.01.21-04.37.59:085][187]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.21-04.37.59:085][187]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.21-04.37.59:086][187]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.21-04.37.59:086][187]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.21-04.37.59:086][187]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.21-04.37.59:086][187]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.21-04.37.59:197][187]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.21-04.37.59:198][187]MapCheck: New page: Level_0 - Jan 20, 2018, 6:37:59 PM
+[2018.01.21-04.37.59:292][187]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.215ms to complete.
+[2018.01.21-04.37.59:315][187]LogEditorBuildUtils: Build time 0:09
+[2018.01.21-04.38.12:821][422]Job is a success!
+[2018.01.21-04.38.13:319][423]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2018.01.21-04.38.13:319][423]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.21-04.38.13:319][423]LogVolumetricLightmapImport:      BrickData 205x5x5 = 0.1Mb
+[2018.01.21-04.38.13:320][423]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.21-04.38.13:320][423]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2018.01.21-04.38.13:320][423]LogVolumetricLightmapImport:          1: 4.9% covering 3.1% of volume
+[2018.01.21-04.38.13:320][423]LogVolumetricLightmapImport:          2: 92.7% covering 0.9% of volume
+[2018.01.21-04.38.14:477][423]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.01.21-04.38.14:477][423]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.01.21-04.38.14:477][423]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.01.21-04.38.14:477][423]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.01.21-04.38.14:477][423]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.01.21-04.38.14:477][423]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.01.21-04.38.14:677][423]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2018.01.21-04.38.14:677][423]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.01.21-04.38.14:745][423]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2018.01.21-04.38.14:792][423]Lightmass on PEARL: 14.4 sec total, 229 ms importing, 50 ms setup, 1.26 sec photons, 12.8 sec processing, 0 ms extra exporting [37/37 mappings]. Threads: 1:04 min total, 38.4 sec processing.
+[2018.01.21-04.38.14:913][423]LogStaticLightingSystem: Illumination: 20.0 sec (1.05 sec encoding lightmaps, 265 ms encoding shadowmaps)
+[2018.01.21-04.38.14:913][423]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.01.21-04.38.14:913][423]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.01.21-04.38.15:097][423]DumpUnbuiltLightIteractions
+[2018.01.21-04.38.15:097][423]Lights with unbuilt interactions: 0
+[2018.01.21-04.38.15:097][423]
+[2018.01.21-04.38.15:097][423]Primitives with unbuilt interactions: 0
+[2018.01.21-04.38.15:110][424]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.21-04.38.15:110][424]MapCheck: New page: Level_0 - Jan 20, 2018, 6:38:15 PM
+[2018.01.21-04.38.15:241][424]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 130.665ms to complete.
+[2018.01.21-04.38.39:298][498]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-04.38.39:332][498]Candidate modules for hot reload:
+[2018.01.21-04.38.39:333][498]  FITA_0
+[2018.01.21-04.38.39:333][498]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 4228 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-04.38.39:491][498]Warning: Starting HotReload took  0.2s.
+[2018.01.21-04.38.42:049][569]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 6:38:42 PM
+[2018.01.21-04.38.42:049][569]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-04.38.42:049][569]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-04.38.42:050][569]CompilerResultsLog: Target is up to date
+[2018.01.21-04.38.42:050][569]CompilerResultsLog: Total build time: 2.24 seconds (NoActionsToExecute executor: 0.01 seconds)
+[2018.01.21-04.38.42:050][569]LogMainFrame: MainFrame: Module compiling took 2.751 seconds
+[2018.01.21-04.38.42:109][569]LogContentBrowser: Native class hierarchy populated in 0.0162 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-04.38.42:109][569]Display: HotReload took  2.8s.
+[2018.01.21-04.38.43:695][616]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-04.38.43:722][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-04.38.43:722][616]PIE: New page: PIE session: Level_0 (Jan 20, 2018, 6:38:43 PM)
+[2018.01.21-04.38.43:722][616]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-04.38.43:730][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007526s)
+[2018.01.21-04.38.43:731][616]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-04.38.43:731][616]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2018.01.21-04.38.43:731][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.008780s)
+[2018.01.21-04.38.43:770][616]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-04.38.43:776][616]LogInit: FAudioDevice initialized.
+[2018.01.21-04.38.43:813][616]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-04.38.43:816][616]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.20-23.38.43
+[2018.01.21-04.38.43:816][616]LogWorld: Bringing up level for play took: 0.003006
+[2018.01.21-04.38.43:818][616]LogTemp: Warning: Input component found 
+[2018.01.21-04.38.43:818][616]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-04.38.43:818][616]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.197
+[2018.01.21-04.38.55:041][ 36]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.01.21-04.38.56:392][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-04.39.04:375][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-04.39.06:073][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-04.39.13:668][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-04.39.16:078][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-04.39.19:477][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-04.39.24:794][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-04.39.33:596][336]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2018.01.21-04.39.34:957][379]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.21-04.42.53:946][649]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.21-04.43.01:268][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-04.43.04:833][429]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.01.21-04.43.26:089][963]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.21-04.43.37:019][743]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.01.21-04.43.46:999][461]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.21-04.44.42:617][449]MapCheck: New page: Map Check
+[2018.01.21-04.44.42:666][449]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.21-04.44.42:667][449]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.21-04.44.42:719][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.21-04.44.42:728][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.01.21-04.44.42:735][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_6, compiling. 
+[2018.01.21-04.44.42:745][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.01.21-04.44.42:755][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Steel, compiling. 
+[2018.01.21-04.44.42:763][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.01.21-04.44.42:772][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.01.21-04.44.42:782][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.01.21-04.44.42:791][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_CobbleStone_Smooth, compiling. 
+[2018.01.21-04.44.42:807][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_New, compiling. 
+[2018.01.21-04.44.42:818][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mytile, compiling. 
+[2018.01.21-04.44.42:830][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.01.21-04.44.42:842][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.01.21-04.44.42:853][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue, compiling. 
+[2018.01.21-04.44.42:863][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2018.01.21-04.44.42:874][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_MaterialSphere, compiling. 
+[2018.01.21-04.44.42:885][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy my_wood, compiling. 
+[2018.01.21-04.44.46:808][449]TextureStreamingBuild: Display: Compiling optional shaders took 4.096 seconds.
+[2018.01.21-04.44.46:826][449]LogLevel: Display: Export Material TexCoord Scales took 0.018 seconds.
+[2018.01.21-04.44.46:841][449]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2018.01.21-04.44.46:868][449]LightingResults: New page: Lighting Build - Jan 20, 2018, 6:44:46 PM
+[2018.01.21-04.44.46:878][449]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.21-04.44.46:881][449]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.21-04.44.46:882][449]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.21-04.44.46:883][449]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.21-04.44.46:883][449]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1324
+[2018.01.21-04.44.51:398][449]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.21-04.44.51:398][449]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.21-04.44.51:398][449]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.21-04.44.51:398][449]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.21-04.44.51:398][449]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.21-04.44.51:398][449]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.21-04.44.51:561][449]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.21-04.44.51:561][449]MapCheck: New page: Level_0 - Jan 20, 2018, 6:44:51 PM
+[2018.01.21-04.44.51:562][449]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.01.21-04.44.51:657][449]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 96.227ms to complete.
+[2018.01.21-04.44.51:680][449]LogEditorBuildUtils: Build time 0:09
+[2018.01.21-04.45.11:753][962]Job is a success!
+[2018.01.21-04.45.11:907][963]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2018.01.21-04.45.11:907][963]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.21-04.45.11:907][963]LogVolumetricLightmapImport:      BrickData 205x5x5 = 0.1Mb
+[2018.01.21-04.45.11:907][963]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.21-04.45.11:907][963]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2018.01.21-04.45.11:907][963]LogVolumetricLightmapImport:          1: 4.9% covering 3.1% of volume
+[2018.01.21-04.45.11:908][963]LogVolumetricLightmapImport:          2: 92.7% covering 0.9% of volume
+[2018.01.21-04.45.11:972][963]LightingResults: Error: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.01.21-04.45.13:160][963]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.01.21-04.45.13:160][963]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.01.21-04.45.13:161][963]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.01.21-04.45.13:161][963]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.01.21-04.45.13:161][963]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.01.21-04.45.13:161][963]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.01.21-04.45.13:361][963]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2018.01.21-04.45.13:361][963]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2018.01.21-04.45.13:425][963]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X512)
+[2018.01.21-04.45.13:477][963]Lightmass on PEARL: 20.6 sec total, 253 ms importing, 53 ms setup, 1.58 sec photons, 18.7 sec processing, 0 ms extra exporting [37/37 mappings]. Threads: 1:33 min total, 1:01 min processing.
+[2018.01.21-04.45.13:605][963]LogStaticLightingSystem: Illumination: 26.6 sec (1.15 sec encoding lightmaps, 237 ms encoding shadowmaps)
+[2018.01.21-04.45.13:605][963]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.01.21-04.45.13:605][963]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.01.21-04.45.14:409][963]DumpUnbuiltLightIteractions
+[2018.01.21-04.45.14:410][963]Lights with unbuilt interactions: 0
+[2018.01.21-04.45.14:410][963]
+[2018.01.21-04.45.14:410][963]Primitives with unbuilt interactions: 0
+[2018.01.21-04.45.14:426][964]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.21-04.45.14:426][964]MapCheck: New page: Level_0 - Jan 20, 2018, 6:45:14 PM
+[2018.01.21-04.45.14:539][964]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 113.291ms to complete.
+[2018.01.21-04.45.18:192][132]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-04.45.18:220][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-04.45.18:220][132]PIE: New page: PIE session: Level_0 (Jan 20, 2018, 6:45:18 PM)
+[2018.01.21-04.45.18:220][132]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-04.45.18:228][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007386s)
+[2018.01.21-04.45.18:229][132]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-04.45.18:229][132]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2018.01.21-04.45.18:229][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.008917s)
+[2018.01.21-04.45.18:272][132]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-04.45.18:277][132]LogInit: FAudioDevice initialized.
+[2018.01.21-04.45.18:318][132]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-04.45.18:321][132]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.20-23.45.18
+[2018.01.21-04.45.18:322][132]LogWorld: Bringing up level for play took: 0.002865
+[2018.01.21-04.45.18:323][132]LogTemp: Warning: Input component found 
+[2018.01.21-04.45.18:323][132]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-04.45.18:323][132]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.308
+[2018.01.21-04.45.39:558][201]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-04.45.39:558][201]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-04.46.12:405][399]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-04.46.12:406][399]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-04.46.19:075][ 41]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.21-04.46.19:075][ 41]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.21-04.46.24:400][560]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.21-04.46.24:400][560]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.21-04.47.07:375][750]LogTemp: Warning: Your looking at the: SM_TableRound2_5 
+[2018.01.21-04.47.07:375][750]LogTemp: Warning: Your looking at the: SM_TableRound2_5 
+[2018.01.21-04.47.29:005][861]LogTemp: Warning: Your looking at the: SM_Statue_8 
+[2018.01.21-04.47.29:005][861]LogTemp: Warning: Your looking at the: SM_Statue_8 
+[2018.01.21-04.47.35:740][510]LogTemp: Warning: Your looking at the: SM_Statue_8 
+[2018.01.21-04.47.35:740][510]LogTemp: Warning: Your looking at the: SM_Statue_8 
+[2018.01.21-04.48.25:343][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.21-04.48.25:668][  3]LogSavePackage: Save=283.37ms
+[2018.01.21-04.48.25:668][  3]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto517D4F75E4A589E0B936E0B9C65603782.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto5.umap'
+[2018.01.21-04.48.25:669][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto5.umap
+[2018.01.21-04.48.25:675][  3]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.353
+[2018.01.21-04.48.25:675][  3]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.353
+[2018.01.21-04.48.25:694][  3]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_0_BuiltData] ([1] browsable assets)...
+[2018.01.21-04.48.25:694][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_0_BuiltData]
+[2018.01.21-04.48.25:694][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0_BuiltData" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_BuiltData_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.01.21-04.48.25:840][  3]LogSavePackage: Save=48.02ms
+[2018.01.21-04.48.25:840][  3]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_BuiltData_Auto5FC0AC0A3493152D04213349E5CFBE46C.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_BuiltData_Auto5.uasset'
+[2018.01.21-04.48.25:841][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_BuiltData_Auto5.uasset
+[2018.01.21-04.48.25:841][  3]LogFileHelpers: Auto-saving content packages took 0.149
+[2018.01.21-04.54.11:280][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-04.54.11:402][ 43]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.21-04.55.40:219][848]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Mrgds\Downloads\door-lock.wav)
+[2018.01.21-04.55.40:279][848]LogAudioDerivedData: Display: Building compressed audio format OGG wave door-lock...
+[2018.01.21-04.55.40:424][848]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/door-lock.door-lock.
+[2018.01.21-04.58.19:511][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x405)
+[2018.01.21-04.58.20:904][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.01.21-04.58.26:612][819]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.040
+[2018.01.21-04.58.26:614][819]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/door-lock] ([1] browsable assets)...
+[2018.01.21-04.58.26:641][819]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/door-lock.door-lock]
+[2018.01.21-04.58.26:641][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/door-lock]
+[2018.01.21-04.58.26:641][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/door-lock" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Audio/door-lock_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.01.21-04.58.26:680][819]LogSavePackage: Save=25.59ms
+[2018.01.21-04.58.26:680][819]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/door-lock_Auto6198E056145B99E48ADE492B49E42AE0B.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Audio/door-lock_Auto6.uasset'
+[2018.01.21-04.58.26:681][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Audio/door-lock_Auto6.uasset
+[2018.01.21-04.58.26:681][819]LogFileHelpers: Auto-saving content packages took 0.067
+[2018.01.21-05.48.51:323][798]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0152 seconds. Added 116 classes and 0 folders.
+[2018.01.21-05.49.31:071][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.21-05.49.31:795][379]LogSavePackage: Save=304.96ms
+[2018.01.21-05.49.31:795][379]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto7722A1E774E34DF7DC211CE8DDE026348.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto7.umap'
+[2018.01.21-05.49.31:796][379]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto7.umap
+[2018.01.21-05.49.31:802][379]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.822
+[2018.01.21-05.49.31:802][379]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.822
+[2018.01.21-05.49.31:822][379]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_Door_Blueprint] ([1] browsable assets)...
+[2018.01.21-05.49.31:864][379]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SM_Door_Blueprint.SM_Door_Blueprint]
+[2018.01.21-05.49.31:864][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_Door_Blueprint]
+[2018.01.21-05.49.31:864][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_Door_Blueprint" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/SM_Door_Blueprint_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.01.21-05.49.31:907][379]LogSavePackage: Save=41.27ms
+[2018.01.21-05.49.31:907][379]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/SM_Door_Blueprint_Auto73F7236004209D350B554BB959A048D98.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/SM_Door_Blueprint_Auto7.uasset'
+[2018.01.21-05.49.31:908][379]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/SM_Door_Blueprint_Auto7.uasset
+[2018.01.21-05.49.31:908][379]LogFileHelpers: Auto-saving content packages took 0.087
+[2018.01.21-05.50.05:561][ 56]LogMetaData: Removing '/Game/Open_door_BP.Open_door_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/SM_Door_Blueprint.PackageMetaData'
+[2018.01.21-05.50.05:561][ 56]LogMetaData: Removing '/Game/Open_door_BP.SKEL_Open_door_BP_C' ref from Metadata '/Game/SM_Door_Blueprint.PackageMetaData'
+[2018.01.21-05.50.05:561][ 56]LogMetaData: Removing '/Game/Open_door_BP.Open_door_BP_C' ref from Metadata '/Game/SM_Door_Blueprint.PackageMetaData'
+[2018.01.21-05.50.05:561][ 56]LogMetaData: Removing '/Game/Open_door_BP.Open_door_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SM_Door_Blueprint.PackageMetaData'
+[2018.01.21-05.50.05:562][ 56]LogMetaData: Removing '/Game/Open_door_BP.Open_door_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SM_Door_Blueprint.PackageMetaData'
+[2018.01.21-05.50.05:562][ 56]LogMetaData: Removing '/Game/Open_door_BP.Open_door_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SM_Door_Blueprint.PackageMetaData'
+[2018.01.21-05.50.05:630][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-05.50.05:664][ 56]LogSavePackage: Save=30.76ms
+[2018.01.21-05.50.05:664][ 56]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BP54A8F67641B655A25C2B2AA46EB2829D.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-05.50.05:667][ 56]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-05.52.23:184][483]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-05.52.29:970][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-05.52.31:228][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x404)
+[2018.01.21-05.52.32:421][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.01.21-05.52.34:839][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x405)
+[2018.01.21-05.52.35:724][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.01.21-05.52.48:064][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x414)
+[2018.01.21-05.52.48:653][339]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (SM_Door_Blueprint)
+[2018.01.21-05.52.49:829][428]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (SM_Door_Blueprint)
+[2018.01.21-05.52.52:902][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.01.21-05.52.55:844][918]Cmd: DELETE
+[2018.01.21-05.52.55:844][918]Cmd: ACTOR DELETE
+[2018.01.21-05.52.55:849][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.21-05.52.55:883][918]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.01.21-05.53.14:615][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-05.53.18:130][676]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP)
+[2018.01.21-05.53.22:182][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-05.53.43:021][666]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP)
+[2018.01.21-05.53.46:224][925]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (SM_Door_Blueprint)
+[2018.01.21-05.53.54:653][580]Cmd: DELETE
+[2018.01.21-05.53.54:653][580]Cmd: ACTOR DELETE
+[2018.01.21-05.53.54:656][580]LogEditorActor: Deleted Actor: Open_door_BP_C
+[2018.01.21-05.53.54:689][580]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.01.21-05.54.43:954][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-05.54.44:897][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x405)
+[2018.01.21-05.54.45:513][596]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP)
+[2018.01.21-05.54.48:848][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-05.54.50:537][952]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-05.54.50:551][952]Candidate modules for hot reload:
+[2018.01.21-05.54.50:551][952]  FITA_0
+[2018.01.21-05.54.50:551][952]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 8862 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-05.54.50:732][952]Warning: Starting HotReload took  0.2s.
+[2018.01.21-05.54.55:543][ 83]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP)
+[2018.01.21-05.55.02:982][284]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 7:55:02 PM
+[2018.01.21-05.55.02:982][284]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-05.55.02:983][284]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-05.55.02:983][284]CompilerResultsLog: Target is up to date
+[2018.01.21-05.55.02:983][284]CompilerResultsLog: Total build time: 9.69 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.21-05.55.02:983][284]LogMainFrame: MainFrame: Module compiling took 12.446 seconds
+[2018.01.21-05.55.03:456][284]LogContentBrowser: Native class hierarchy populated in 0.0189 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-05.55.03:456][284]Display: HotReload took 13.0s.
+[2018.01.21-05.55.05:452][342]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-05.55.05:484][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-05.55.05:485][342]PIE: New page: PIE session: Level_0 (Jan 20, 2018, 7:55:05 PM)
+[2018.01.21-05.55.05:485][342]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-05.55.05:532][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047271s)
+[2018.01.21-05.55.05:534][342]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-05.55.05:535][342]LogPlayLevel: PIE: World Init took: (0.002818s)
+[2018.01.21-05.55.05:535][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.050623s)
+[2018.01.21-05.55.05:641][342]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-05.55.05:651][342]LogInit: FAudioDevice initialized.
+[2018.01.21-05.55.05:686][342]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-05.55.05:691][342]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-00.55.05
+[2018.01.21-05.55.05:692][342]LogWorld: Bringing up level for play took: 0.004321
+[2018.01.21-05.55.05:693][342]LogTemp: Warning: Input component found 
+[2018.01.21-05.55.05:694][342]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-05.55.05:694][342]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.321
+[2018.01.21-05.55.14:534][342]LogWindows: Error: === Critical error: ===
+[2018.01.21-05.55.14:534][342]LogWindows: Error: 
+[2018.01.21-05.55.14:534][342]LogWindows: Error: Fatal error!
+[2018.01.21-05.55.14:534][342]LogWindows: Error: 
+[2018.01.21-05.55.14:534][342]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000338
+[2018.01.21-05.55.14:534][342]LogWindows: Error: 
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x00000000159CAB3D UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x00000000159CA4CC UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x00000000F2E11BE9 UE4Editor-FITA_0.dll!UDoorRotation::GetMassOnPlate() [e:\documents\github\fita\fita_0\source\fita_0\doorrotation.cpp:70]
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x00000000F2E11D6C UE4Editor-FITA_0.dll!UDoorRotation::TickComponent() [e:\documents\github\fita\fita_0\source\fita_0\doorrotation.cpp:49]
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x0000000015DA4BC7 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x0000000015DD12D4 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x0000000016A09BDB UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x0000000016A0DD0B UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x0000000018874845 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x0000000018874B40 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x0000000016A27BB1 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x0000000016A2C632 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x000000001631D104 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x00000000163266F8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x0000000002F26BA6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x00000000037D4AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x00000000C1BC5A26 UE4Editor.exe!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x00000000C1BD5430 UE4Editor.exe!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x00000000C1BD54AA UE4Editor.exe!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x00000000C1BE2379 UE4Editor.exe!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x00000000C1BE3D57 UE4Editor.exe!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x0000000045681FE4 KERNEL32.DLL!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x0000000045FDEF91 ntdll.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: [Callstack] 0x0000000045FDEF91 ntdll.dll!UnknownFunction []
+[2018.01.21-05.55.14:534][342]LogWindows: Error: 
+[2018.01.21-05.55.14:558][342]LogExit: Executing StaticShutdownAfterError
+[2018.01.21-05.55.14:701][342]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.01.21-05.55.14:723][342]Log file closed, 01/21/18 00:55:14

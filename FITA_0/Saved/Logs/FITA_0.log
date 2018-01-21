@@ -1,4 +1,4 @@
-﻿Log file open, 01/15/18 19:35:18
+﻿Log file open, 01/21/18 01:15:17
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -8,12 +8,12 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine without a game
 LogPlatformFile: Not using cached read wrapper
 LogInit: Display: Loading recent project file: ../../../../../../Documents/GitHub/FITA/FITA_0/FITA_0.uproject
-LogInit: Display: RandInit(-329065304) SRandInit(-329065304).
+LogInit: Display: RandInit(247195950) SRandInit(247195950).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 2.900723
+LogStats: Stats thread started at 0.344458
 LogD3D11RHI: Aftermath initialized
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -76,7 +76,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogModuleManager: Display: Found up-to-date module file ../../../../../../Documents/GitHub/FITA/FITA_0/Binaries/Win64/UE4Editor-FITA_0-3704.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Documents/GitHub/FITA/FITA_0/Binaries/Win64/UE4Editor-FITA_0-2222.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
@@ -196,747 +196,878 @@ LogInit: Base directory: E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.01.16-00.35.24:761][  0]LogInit: Selected Device Profile: [Windows]
-[2018.01.16-00.35.24:761][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.01.16-00.35.24:895][  0]LogInit: Computer: PEARL
-[2018.01.16-00.35.24:895][  0]LogInit: User: Mrgds2
-[2018.01.16-00.35.24:895][  0]LogInit: CPU Page size=4096, Cores=3
-[2018.01.16-00.35.24:895][  0]LogInit: High frequency timer resolution =3.429443 MHz
-[2018.01.16-00.35.24:895][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2018.01.16-00.35.24:895][  0]LogMemory: Platform Memory Stats for Windows
-[2018.01.16-00.35.24:895][  0]LogMemory: Process Physical Memory: 271.66 MB used, 271.66 MB peak
-[2018.01.16-00.35.24:895][  0]LogMemory: Process Virtual Memory: 269.48 MB used, 269.48 MB peak
-[2018.01.16-00.35.24:895][  0]LogMemory: Physical Memory: 3551.88 MB used,  4540.99 MB free, 8092.87 MB total
-[2018.01.16-00.35.24:895][  0]LogMemory: Virtual Memory: 680.64 MB used,  4540.99 MB free, 134217728.00 MB total
-[2018.01.16-00.35.25:794][  0]LogInit: Using OS detected language (en-US).
-[2018.01.16-00.35.25:794][  0]LogInit: Using OS detected locale (en-US).
-[2018.01.16-00.35.26:147][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.01.16-00.35.27:117][  0]LogInit: Setting process to per monitor DPI aware
-[2018.01.16-00.35.31:372][  0]LogD3D11RHI: D3D11 adapters:
-[2018.01.16-00.35.31:445][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
-[2018.01.16-00.35.31:445][  0]LogD3D11RHI:       4058/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.01.16-00.35.31:448][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.01.16-00.35.31:448][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.01.16-00.35.31:448][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.01.16-00.35.31:456][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.01.16-00.35.31:456][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
-[2018.01.16-00.35.31:456][  0]LogWindows: EnumDisplayDevices:
-[2018.01.16-00.35.31:457][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
-[2018.01.16-00.35.31:457][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
-[2018.01.16-00.35.31:457][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
-[2018.01.16-00.35.31:457][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
-[2018.01.16-00.35.31:457][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.01.16-00.35.31:457][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
-[2018.01.16-00.35.31:457][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.01.16-00.35.31:457][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.01.16-00.35.31:457][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
-[2018.01.16-00.35.31:500][  0]LogD3D11RHI: Async texture creation enabled
-[2018.01.16-00.35.31:574][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.01.16-00.35.31:680][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Documents/GitHub/FITA/FITA_0/Intermediate/Shaders/WorkingDirectory/3712/).
-[2018.01.16-00.35.31:680][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mrgds/AppData/Local/Temp/UnrealShaderWorkingDir/EF0B5C5A4E2E6D8FAF6DC0BF8EBB477D/'.
-[2018.01.16-00.35.31:681][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.01.16-00.35.35:721][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.01.16-00.35.35:803][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.01.16-00.35.35:885][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.01.16-00.35.35:969][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.01.16-00.35.36:090][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.01.16-00.35.36:182][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.01.16-00.35.36:266][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.01.16-00.35.36:352][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.01.16-00.35.36:431][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.01.16-00.35.36:519][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.01.16-00.35.36:600][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.01.16-00.35.36:680][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.01.16-00.35.36:764][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.01.16-00.35.36:844][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.01.16-00.35.37:009][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.01.16-00.35.37:009][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.01.16-00.35.37:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.01.16-00.35.37:193][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.01.16-00.35.37:424][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.01.16-00.35.37:477][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.01.16-00.35.37:557][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.01.16-00.35.37:640][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.01.16-00.35.37:723][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.01.16-00.35.37:826][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.01.16-00.35.37:826][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.01.16-00.35.39:871][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.01.16-00.35.40:347][  0]LogDerivedDataCache: Loaded boot cache 0.48s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.01.16-00.35.40:347][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.01.16-00.35.40:348][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/GitHub/FITA/FITA_0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.01.16-00.35.40:348][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.01.16-00.35.40:348][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/GitHub/FITA/FITA_0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.01.16-00.35.40:348][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.01.16-00.35.40:442][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.01.16-00.35.40:455][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mrgds/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.01.16-00.35.40:472][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.01.16-00.35.40:473][  0]LogSlate: Using Freetype 2.6.0
-[2018.01.16-00.35.40:588][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.01.16-00.35.40:588][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.01.16-00.35.47:542][  0]LogInit: Selected Device Profile: [Windows]
-[2018.01.16-00.35.49:031][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.01.16-00.35.49:120][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.01.16-00.35.49:133][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.01.16-00.35.49:155][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.01.16-00.35.49:155][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.01.16-00.35.49:155][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.01.16-00.35.49:376][  0]LogNetVersion: FITA_0 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2661453100)
-[2018.01.16-00.35.50:783][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
-[2018.01.16-00.36.00:717][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.314769 seconds
-[2018.01.16-00.36.00:724][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2018.01.16-00.36.00:724][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
-[2018.01.16-00.36.00:724][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.01.16-00.36.00:837][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.01.16-00.36.28:529][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.01.16-00.36.28:599][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.01.16-00.36.30:621][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.01.16-00.36.31:885][  0]SourceControl: Source control is disabled
-[2018.01.16-00.36.31:885][  0]SourceControl: Source control is disabled
-[2018.01.16-00.36.31:978][  0]SourceControl: Source control is disabled
-[2018.01.16-00.36.32:091][  0]SourceControl: Source control is disabled
-[2018.01.16-00.36.33:878][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.01.16-00.36.34:343][  0]LogOcInput: OculusInput pre-init called
-[2018.01.16-00.36.35:042][  0]LogEngine: Initializing Engine...
-[2018.01.16-00.36.35:218][  0]LogHMD: Failed to initialize OpenVR with code 105
-[2018.01.16-00.36.36:480][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.01.16-00.36.36:480][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.01.16-00.36.36:867][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.01.16-00.36.36:898][  0]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.01.16-00.36.36:921][  0]LogInit: FAudioDevice initialized.
-[2018.01.16-00.36.37:076][  0]LogDerivedDataCache: Saved boot cache 0.16s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.01.16-00.36.37:106][  0]LogInit: Texture streaming: Enabled
-[2018.01.16-00.36.37:318][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.01.16-00.36.37:679][  0]LogInit: Transaction tracking system initialized
-[2018.01.16-00.36.38:523][  0]BlueprintLog: New page: Editor Load
-[2018.01.16-00.36.43:433][  0]LocalizationService: Localization service is disabled
-[2018.01.16-00.36.49:197][  0]LogConsoleResponse: Display: 
-[2018.01.16-00.36.53:039][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.01.16-00.36.53:039][  0]LogCook: Display: Mobile HDR setting 1
-[2018.01.16-00.36.53:039][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.01.16-00.36.53:498][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/' took 0.02s
-[2018.01.16-00.37.00:497][  0]SourceControl: Source control is disabled
-[2018.01.16-00.37.00:497][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.01.16-00.37.00:499][  0]LightingResults: New page: Lighting Build
-[2018.01.16-00.37.01:512][  0]MapCheck: New page: Map Check
-[2018.01.16-00.37.01:512][  0]LightingResults: New page: Lighting Build
-[2018.01.16-00.37.12:685][  0]LogAIModule: Creating AISystem for world Level_0
-[2018.01.16-00.37.13:957][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.01.16-00.37.14:437][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.01.16-00.37.14:620][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 141.202ms to complete.
-[2018.01.16-00.37.14:648][  0]LogFileHelpers: Loading map 'Level_0' took 14.151
-[2018.01.16-00.37.24:705][  0]LogCollectionManager: Loaded 0 collections in 0.032236 seconds
-[2018.01.16-00.37.26:458][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Saved/Collections/' took 0.01s
-[2018.01.16-00.37.26:458][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/Developers/Mrgds2/Collections/' took 0.01s
-[2018.01.16-00.37.26:458][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/Collections/' took 0.01s
-[2018.01.16-00.37.26:458][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.01.16-00.37.26:664][  0]LogContentBrowser: Native class hierarchy populated in 0.1173 seconds. Added 2368 classes and 523 folders.
-[2018.01.16-00.37.27:118][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
-[2018.01.16-00.37.29:600][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
-[2018.01.16-00.37.30:479][  0]LogSlate: Took 0.015414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.01.16-00.37.30:708][  0]LogSlate: Took 0.089674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.01.16-00.37.30:872][  0]LogSlate: Took 0.126475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.01.16-00.37.30:898][  0]LogSlate: Took 0.024638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
-[2018.01.16-00.37.33:044][  0]LogRenderer: Reallocating scene render targets to support 1200x688 Format 10 NumSamples 1 (Frame:1).
-[2018.01.16-00.37.36:107][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0019 seconds. Added 1 classes and 2 folders.
-[2018.01.16-00.37.36:108][  0]LogLoad: (Engine Initialization) Total time: 171.42 seconds
-[2018.01.16-00.37.36:108][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.01.16-00.37.36:129][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2018.01.16-00.37.36:129][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2018.01.16-00.37.36:851][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.01.16-00.37.38:286][  4]LogAssetRegistry: Asset discovery search completed in 107.5257 seconds
-[2018.01.16-00.37.38:308][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.01.16-00.37.38:308][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000250 seconds (updated 0 objects)
-[2018.01.16-00.51.23:649][477]LogSlate: Took 0.022121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.01.16-00.51.55:871][ 42]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.01.16-00.51.56:794][ 42]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 116 classes and 0 folders.
-[2018.01.16-00.51.59:001][ 42]LogSlate: Took 0.017699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.01.16-00.52.55:233][614]BlueprintLog: New page: Compile DefaultPawn_BP
-[2018.01.16-00.52.56:581][616]BlueprintLog: New page: Compile DefaultPawn_BP
-[2018.01.16-00.53.01:117][855]LogSlate: Took 0.014672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.01.16-00.53.32:755][955]BlueprintLog: New page: Compile DefaultPawn_BP
-[2018.01.16-00.53.53:293][581]LogTemp: Repeating last play command: Selected Viewport
-[2018.01.16-00.53.53:542][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.01.16-00.53.53:614][581]PIE: New page: PIE session: Level_0 (Jan 15, 2018, 2:53:53 PM)
-[2018.01.16-00.53.53:623][581]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
-[2018.01.16-00.53.53:637][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013654s)
-[2018.01.16-00.53.53:638][581]LogAIModule: Creating AISystem for world Level_0
-[2018.01.16-00.53.53:639][581]LogPlayLevel: PIE: World Init took: (0.001250s)
-[2018.01.16-00.53.53:639][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.015818s)
-[2018.01.16-00.53.53:737][581]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.01.16-00.53.53:744][581]LogInit: FAudioDevice initialized.
-[2018.01.16-00.53.53:840][581]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
-[2018.01.16-00.53.53:889][581]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.15-19.53.53
-[2018.01.16-00.53.53:910][581]LogWorld: Bringing up level for play took: 0.021970
-[2018.01.16-00.53.54:106][581]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
-[2018.01.16-00.53.54:145][581]LogTemp: Warning: Input component found 
-[2018.01.16-00.53.54:145][581]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
-[2018.01.16-00.53.54:146][581]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 1.131
-[2018.01.16-00.54.22:215][334]LogTemp: Warning: Your looking at the: SM_Chair4_14 
-[2018.01.16-00.54.22:215][334]LogTemp: Warning: Your looking at the: SM_Chair4_14 
-[2018.01.16-00.54.25:468][712]LogTemp: Warning: Your looking at the: SM_Chair4_14 
-[2018.01.16-00.54.25:468][712]LogTemp: Warning: Your looking at the: SM_Chair4_14 
-[2018.01.16-00.54.26:984][890]LogTemp: Warning: Your looking at the: SM_Chair4_14 
-[2018.01.16-00.54.26:984][890]LogTemp: Warning: Your looking at the: SM_Chair4_14 
-[2018.01.16-00.54.31:531][421]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-00.54.31:531][421]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-00.54.34:631][780]LogTemp: Warning: Your looking at the: SM_Chair2_8 
-[2018.01.16-00.54.34:632][780]LogTemp: Warning: Your looking at the: SM_Chair2_8 
-[2018.01.16-00.54.45:610][ 60]LogTemp: Warning: Your looking at the: SM_TableRound_5 
-[2018.01.16-00.54.45:611][ 60]LogTemp: Warning: Your looking at the: SM_TableRound_5 
-[2018.01.16-00.54.49:496][513]LogTemp: Warning: Your looking at the: SM_Chair_2 
-[2018.01.16-00.54.49:496][513]LogTemp: Warning: Your looking at the: SM_Chair_2 
-[2018.01.16-00.54.52:428][853]LogTemp: Warning: Your looking at the: SM_TableRound_5 
-[2018.01.16-00.54.52:429][853]LogTemp: Warning: Your looking at the: SM_TableRound_5 
-[2018.01.16-00.55.00:121][734]LogTemp: Warning: Your looking at the: SM_Chair_2 
-[2018.01.16-00.55.00:121][734]LogTemp: Warning: Your looking at the: SM_Chair_2 
-[2018.01.16-00.55.29:338][967]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.01.16-00.55.37:165][ 82]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.029
-[2018.01.16-00.55.37:190][ 82]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DefaultPawn_BP] ([1] browsable assets)...
-[2018.01.16-00.55.37:212][ 82]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DefaultPawn_BP.DefaultPawn_BP]
-[2018.01.16-00.55.37:213][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/DefaultPawn_BP]
-[2018.01.16-00.55.37:213][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultPawn_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/DefaultPawn_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
-[2018.01.16-00.55.37:614][ 82]LogSavePackage: Save=95.32ms
-[2018.01.16-00.55.37:614][ 82]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/DefaultPawn_BP_Auto17B99C2CC4148CCED38EE45842ADCCA51.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/DefaultPawn_BP_Auto1.uasset'
-[2018.01.16-00.55.37:636][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/DefaultPawn_BP_Auto1.uasset
-[2018.01.16-00.55.37:636][ 82]LogFileHelpers: Auto-saving content packages took 0.470
-[2018.01.16-00.56.05:792][  3]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.57.45:259][295]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.58.23:740][411]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.58.29:451][428]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.58.36:758][450]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.58.37:073][451]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.58.38:077][454]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.58.38:746][456]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.58.42:437][467]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.58.42:755][468]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.58.43:101][469]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.47:405][662]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.47:737][663]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.48:071][664]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.48:404][665]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.48:738][666]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.49:071][667]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.49:404][668]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.49:738][669]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.50:072][670]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.50:403][671]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.50:737][672]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.51:071][673]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-00.59.51:404][674]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-01.00.39:406][818]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
-[2018.01.16-01.00.50:072][850]LogWindows: LaunchFileInExternalEditor E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/DoorRotation.h 
-[2018.01.16-01.00.50:595][850]LogWindows: Launch application code for E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/DoorRotation.h : 42
-[2018.01.16-01.00.50:595][850]LogWindows: LaunchFileInExternalEditor E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/DoorRotation.cpp 
-[2018.01.16-01.00.50:723][850]LogWindows: Launch application code for E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/DoorRotation.cpp : 42
-[2018.01.16-01.00.50:723][850]LogVSAccessor: Warning: Couldn't access Visual Studio
-[2018.01.16-01.00.50:730][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:731][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:731][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:731][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:731][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:731][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:732][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:732][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:732][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:732][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:732][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:733][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:733][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:733][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:733][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:733][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:734][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:734][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:734][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:734][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:734][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:735][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:735][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:735][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:736][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:736][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:737][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:737][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:737][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:738][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:738][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:738][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:739][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:739][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:739][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:739][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:740][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:740][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:740][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:740][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:740][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:740][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:741][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:741][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:741][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:741][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:742][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:742][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:742][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:742][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:742][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:743][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:743][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:743][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:743][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:743][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:744][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:744][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:744][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:744][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:744][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:745][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:745][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:745][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:746][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:746][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:746][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:746][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:746][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:747][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:747][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:747][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:747][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:748][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:748][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:748][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:748][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:748][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:749][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:749][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:749][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:749][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:749][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:750][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:750][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:750][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:750][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:750][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:751][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:755][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:755][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:756][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:756][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:756][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:756][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:798][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:825][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:826][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:828][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:828][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:828][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:828][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:830][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:840][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:840][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:840][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:858][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:871][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:872][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.00.50:891][850]LogVSAccessor: Warning: Couldn't access module table
-[2018.01.16-01.49.36:751][922]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
-[2018.01.16-02.50.32:085][594]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
-[2018.01.16-03.11.12:067][284]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
-[2018.01.16-03.11.13:114][288]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
-[2018.01.16-03.21.21:821][173]LogVSAccessor: Warning: Couldn't access Visual Studio
-[2018.01.16-03.21.21:932][173]Candidate modules for hot reload:
-[2018.01.16-03.21.21:932][173]  FITA_0
-[2018.01.16-03.21.21:949][173]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 5045 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
-[2018.01.16-03.21.22:075][173]Warning: Starting HotReload took  0.3s.
-[2018.01.16-03.22.34:736][417]CompilerResultsLog: New page: Compilation - Jan 15, 2018, 5:22:34 PM
-[2018.01.16-03.22.34:752][417]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
-[2018.01.16-03.22.34:753][417]CompilerResultsLog: Creating makefile for hot reloading FITA_0 (game project files are newer)
-[2018.01.16-03.22.34:753][417]CompilerResultsLog: Compiling game modules for hot reload
-[2018.01.16-03.22.34:753][417]CompilerResultsLog: Parsing headers for FITA_0Editor
-[2018.01.16-03.22.34:753][417]CompilerResultsLog:   Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\Development\FITA_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-[2018.01.16-03.22.34:755][417]CompilerResultsLog: Error: E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/DoorRotation.h(44)  : Error: Missing ';' in 'variable declaration'
-[2018.01.16-03.22.34:755][417]CompilerResultsLog: Error: UnrealHeaderTool failed for target 'FITA_0Editor' (platform: Win64, module info: E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\Development\FITA_0Editor.uhtmanifest, exit code: OtherCompilationError (5)).
-[2018.01.16-03.22.34:756][417]LogMainFrame: MainFrame: Module compiling took 72.930 seconds
-[2018.01.16-03.22.34:756][417]Warning: HotReload failed, recompile failed
-[2018.01.16-03.25.27:421][901]LogVSAccessor: Warning: Couldn't access Visual Studio
-[2018.01.16-03.25.27:484][901]Candidate modules for hot reload:
-[2018.01.16-03.25.27:484][901]  FITA_0
-[2018.01.16-03.25.27:485][901]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 2438 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
-[2018.01.16-03.25.27:606][901]Warning: Starting HotReload took  0.2s.
-[2018.01.16-03.27.08:377][217]CompilerResultsLog: New page: Compilation - Jan 15, 2018, 5:27:08 PM
-[2018.01.16-03.27.08:377][217]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
-[2018.01.16-03.27.08:377][217]CompilerResultsLog: Creating makefile for hot reloading FITA_0 (game project files are newer)
-[2018.01.16-03.27.08:378][217]CompilerResultsLog: Compiling game modules for hot reload
-[2018.01.16-03.27.08:378][217]CompilerResultsLog: Parsing headers for FITA_0Editor
-[2018.01.16-03.27.08:378][217]CompilerResultsLog:   Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\Development\FITA_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-[2018.01.16-03.27.08:379][217]CompilerResultsLog: Reflection code generated for FITA_0Editor in 12.0457567 seconds
-[2018.01.16-03.27.08:379][217]CompilerResultsLog: Performing 4 actions (3 in parallel)
-[2018.01.16-03.27.08:379][217]CompilerResultsLog: DoorRotation.gen.cpp
-[2018.01.16-03.27.08:380][217]CompilerResultsLog: DoorRotation.cpp
-[2018.01.16-03.27.08:380][217]CompilerResultsLog: [3/4] Link UE4Editor-FITA_0-2438.dll
-[2018.01.16-03.27.08:380][217]CompilerResultsLog: [4/4] Link UE4Editor-FITA_0-2438.lib
-[2018.01.16-03.27.08:380][217]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-2438.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-2438.exp
-[2018.01.16-03.27.08:381][217]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-2438.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-2438.suppressed.exp
-[2018.01.16-03.27.08:381][217]CompilerResultsLog: Total build time: 100.41 seconds (Local executor: 79.40 seconds)
-[2018.01.16-03.27.08:381][217]LogMainFrame: MainFrame: Module compiling took 100.959 seconds
-[2018.01.16-03.27.08:671][217]LogContentBrowser: Native class hierarchy updated for 'FITA_0' in 0.0029 seconds. Added 4 classes and 2 folders.
-[2018.01.16-03.27.08:675][217]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
-[2018.01.16-03.27.09:365][217]LogContentBrowser: Native class hierarchy populated in 0.0181 seconds. Added 2369 classes and 525 folders.
-[2018.01.16-03.27.09:405][217]Display: HotReload took 102.0s.
-[2018.01.16-03.27.15:754][237]LogTemp: Repeating last play command: Selected Viewport
-[2018.01.16-03.27.15:790][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.01.16-03.27.15:791][237]PIE: New page: PIE session: Level_0 (Jan 15, 2018, 5:27:15 PM)
-[2018.01.16-03.27.15:791][237]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
-[2018.01.16-03.27.15:808][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016297s)
-[2018.01.16-03.27.15:811][237]LogAIModule: Creating AISystem for world Level_0
-[2018.01.16-03.27.15:812][237]LogPlayLevel: PIE: World Init took: (0.004082s)
-[2018.01.16-03.27.15:813][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.021474s)
-[2018.01.16-03.27.15:997][237]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.01.16-03.27.16:004][237]LogInit: FAudioDevice initialized.
-[2018.01.16-03.27.16:041][237]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
-[2018.01.16-03.27.16:046][237]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.15-22.27.16
-[2018.01.16-03.27.16:046][237]LogWorld: Bringing up level for play took: 0.002974
-[2018.01.16-03.27.16:049][237]LogTemp: Warning: Input component found 
-[2018.01.16-03.27.16:049][237]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
-[2018.01.16-03.27.16:049][237]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 1.135
-[2018.01.16-03.27.37:495][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2018.01.16-03.27.53:739][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
-[2018.01.16-03.28.51:471][953]LogTemp: Repeating last play command: Selected Viewport
-[2018.01.16-03.28.51:497][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.01.16-03.28.51:497][953]PIE: New page: PIE session: Level_0 (Jan 15, 2018, 5:28:51 PM)
-[2018.01.16-03.28.51:498][953]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
-[2018.01.16-03.28.51:508][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010621s)
-[2018.01.16-03.28.51:510][953]LogAIModule: Creating AISystem for world Level_0
-[2018.01.16-03.28.51:510][953]LogPlayLevel: PIE: World Init took: (0.001435s)
-[2018.01.16-03.28.51:511][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.013029s)
-[2018.01.16-03.28.51:586][953]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.01.16-03.28.51:593][953]LogInit: FAudioDevice initialized.
-[2018.01.16-03.28.51:630][953]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
-[2018.01.16-03.28.51:633][953]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.15-22.28.51
-[2018.01.16-03.28.51:633][953]LogWorld: Bringing up level for play took: 0.001920
-[2018.01.16-03.28.51:635][953]LogTemp: Warning: Input component found 
-[2018.01.16-03.28.51:635][953]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
-[2018.01.16-03.28.51:635][953]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.721
-[2018.01.16-03.29.25:346][326]LogVSAccessor: Warning: Couldn't access Visual Studio
-[2018.01.16-03.29.25:409][326]Candidate modules for hot reload:
-[2018.01.16-03.29.25:409][326]  FITA_0
-[2018.01.16-03.29.25:409][326]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 9059 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
-[2018.01.16-03.29.25:533][326]Warning: Starting HotReload took  0.2s.
-[2018.01.16-03.29.29:002][371]CompilerResultsLog: New page: Compilation - Jan 15, 2018, 5:29:29 PM
-[2018.01.16-03.29.29:002][371]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
-[2018.01.16-03.29.29:002][371]CompilerResultsLog: Compiling game modules for hot reload
-[2018.01.16-03.29.29:003][371]CompilerResultsLog: Performing 3 actions (3 in parallel)
-[2018.01.16-03.29.29:003][371]CompilerResultsLog: DoorRotation.cpp
-[2018.01.16-03.29.29:003][371]CompilerResultsLog: [2/3] Link UE4Editor-FITA_0-9059.dll
-[2018.01.16-03.29.29:003][371]CompilerResultsLog: [3/3] Link UE4Editor-FITA_0-9059.lib
-[2018.01.16-03.29.29:003][371]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-9059.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-9059.exp
-[2018.01.16-03.29.29:004][371]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-9059.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-9059.suppressed.exp
-[2018.01.16-03.29.29:004][371]CompilerResultsLog: Total build time: 3.17 seconds (Local executor: 1.73 seconds)
-[2018.01.16-03.29.29:004][371]LogMainFrame: MainFrame: Module compiling took 3.658 seconds
-[2018.01.16-03.29.29:139][371]LogContentBrowser: Native class hierarchy updated for 'FITA_0' in 0.0012 seconds. Added 4 classes and 2 folders.
-[2018.01.16-03.29.29:142][371]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
-[2018.01.16-03.29.29:617][371]LogContentBrowser: Native class hierarchy populated in 0.0145 seconds. Added 2369 classes and 525 folders.
-[2018.01.16-03.29.29:618][371]Display: HotReload took  4.3s.
-[2018.01.16-03.29.41:432][190]LogTemp: Repeating last play command: Selected Viewport
-[2018.01.16-03.29.41:456][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.01.16-03.29.41:457][190]PIE: New page: PIE session: Level_0 (Jan 15, 2018, 5:29:41 PM)
-[2018.01.16-03.29.41:457][190]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
-[2018.01.16-03.29.41:465][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007878s)
-[2018.01.16-03.29.41:466][190]LogAIModule: Creating AISystem for world Level_0
-[2018.01.16-03.29.41:467][190]LogPlayLevel: PIE: World Init took: (0.001739s)
-[2018.01.16-03.29.41:468][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.010548s)
-[2018.01.16-03.29.41:591][190]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.01.16-03.29.41:597][190]LogInit: FAudioDevice initialized.
-[2018.01.16-03.29.41:635][190]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
-[2018.01.16-03.29.41:638][190]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.15-22.29.41
-[2018.01.16-03.29.41:638][190]LogWorld: Bringing up level for play took: 0.002136
-[2018.01.16-03.29.41:640][190]LogTemp: Warning: Input component found 
-[2018.01.16-03.29.41:640][190]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
-[2018.01.16-03.29.41:640][190]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.725
-[2018.01.16-04.49.18:114][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair4)
-[2018.01.16-04.49.28:891][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair3)
-[2018.01.16-04.49.35:600][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair2)
-[2018.01.16-04.49.39:881][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
-[2018.01.16-04.49.44:395][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
-[2018.01.16-04.49.53:935][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair3)
-[2018.01.16-04.50.14:233][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
-[2018.01.16-04.50.18:483][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair4)
-[2018.01.16-04.50.22:116][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair2)
-[2018.01.16-04.50.25:081][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x402)
-[2018.01.16-04.50.26:811][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
-[2018.01.16-04.50.29:656][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2018.01.16-04.50.30:982][716]LogVSAccessor: Warning: Couldn't access Visual Studio
-[2018.01.16-04.50.30:999][716]Candidate modules for hot reload:
-[2018.01.16-04.50.30:999][716]  FITA_0
-[2018.01.16-04.50.30:999][716]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 740 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
-[2018.01.16-04.50.31:143][716]Warning: Starting HotReload took  0.2s.
-[2018.01.16-04.50.44:851][270]CompilerResultsLog: New page: Compilation - Jan 15, 2018, 6:50:44 PM
-[2018.01.16-04.50.44:851][270]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
-[2018.01.16-04.50.44:852][270]CompilerResultsLog: Compiling game modules for hot reload
-[2018.01.16-04.50.44:852][270]CompilerResultsLog: Performing 3 actions (3 in parallel)
-[2018.01.16-04.50.44:852][270]CompilerResultsLog: DoorRotation.cpp
-[2018.01.16-04.50.44:852][270]CompilerResultsLog: [2/3] Link UE4Editor-FITA_0-740.dll
-[2018.01.16-04.50.44:852][270]CompilerResultsLog: [3/3] Link UE4Editor-FITA_0-740.lib
-[2018.01.16-04.50.44:852][270]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-740.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-740.exp
-[2018.01.16-04.50.44:853][270]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-740.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-740.suppressed.exp
-[2018.01.16-04.50.44:853][270]CompilerResultsLog: Total build time: 13.32 seconds (Local executor: 11.80 seconds)
-[2018.01.16-04.50.44:854][270]LogMainFrame: MainFrame: Module compiling took 13.871 seconds
-[2018.01.16-04.50.45:117][270]LogContentBrowser: Native class hierarchy updated for 'FITA_0' in 0.0016 seconds. Added 4 classes and 2 folders.
-[2018.01.16-04.50.45:121][270]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
-[2018.01.16-04.50.45:727][270]LogContentBrowser: Native class hierarchy populated in 0.0183 seconds. Added 2369 classes and 525 folders.
-[2018.01.16-04.50.45:727][270]Display: HotReload took 14.8s.
-[2018.01.16-04.50.48:441][390]LogTemp: Repeating last play command: Selected Viewport
-[2018.01.16-04.50.48:471][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.01.16-04.50.48:471][390]PIE: New page: PIE session: Level_0 (Jan 15, 2018, 6:50:48 PM)
-[2018.01.16-04.50.48:472][390]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
-[2018.01.16-04.50.48:489][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016779s)
-[2018.01.16-04.50.48:493][390]LogAIModule: Creating AISystem for world Level_0
-[2018.01.16-04.50.48:493][390]LogPlayLevel: PIE: World Init took: (0.004134s)
-[2018.01.16-04.50.48:494][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.022028s)
-[2018.01.16-04.50.48:625][390]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.01.16-04.50.48:633][390]LogInit: FAudioDevice initialized.
-[2018.01.16-04.50.48:675][390]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
-[2018.01.16-04.50.48:679][390]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.15-23.50.48
-[2018.01.16-04.50.48:679][390]LogWorld: Bringing up level for play took: 0.002518
-[2018.01.16-04.50.48:681][390]LogTemp: Warning: Input component found 
-[2018.01.16-04.50.48:681][390]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
-[2018.01.16-04.50.48:682][390]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.233
-[2018.01.16-04.52.12:345][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
-[2018.01.16-04.52.12:742][ 74]LogSavePackage: Save=248.98ms
-[2018.01.16-04.52.12:742][ 74]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto28D1B1A4D450941CD358FD3AE5541492E.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto2.umap'
-[2018.01.16-04.52.12:745][ 74]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto2.umap
-[2018.01.16-04.52.12:838][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.647
-[2018.01.16-04.52.12:838][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.647
-[2018.01.16-04.52.34:322][141]LogTemp: Repeating last play command: Selected Viewport
-[2018.01.16-04.52.34:350][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.01.16-04.52.34:350][141]PIE: New page: PIE session: Level_0 (Jan 15, 2018, 6:52:34 PM)
-[2018.01.16-04.52.34:350][141]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
-[2018.01.16-04.52.34:359][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009001s)
-[2018.01.16-04.52.34:361][141]LogAIModule: Creating AISystem for world Level_0
-[2018.01.16-04.52.34:361][141]LogPlayLevel: PIE: World Init took: (0.001480s)
-[2018.01.16-04.52.34:362][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.011496s)
-[2018.01.16-04.52.34:416][141]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.01.16-04.52.34:423][141]LogInit: FAudioDevice initialized.
-[2018.01.16-04.52.34:462][141]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
-[2018.01.16-04.52.34:465][141]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.15-23.52.34
-[2018.01.16-04.52.34:465][141]LogWorld: Bringing up level for play took: 0.002189
-[2018.01.16-04.52.34:466][141]LogTemp: Warning: Input component found 
-[2018.01.16-04.52.34:467][141]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
-[2018.01.16-04.52.34:467][141]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.448
-[2018.01.16-04.52.38:493][607]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-04.52.38:493][607]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-04.52.42:761][106]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-04.52.42:761][106]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-04.52.49:524][916]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-04.52.49:525][916]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-04.52.58:679][  5]LogTemp: Warning: Your looking at the: SM_Chair4_14 
-[2018.01.16-04.52.58:679][  5]LogTemp: Warning: Your looking at the: SM_Chair4_14 
-[2018.01.16-04.53.05:233][788]LogTemp: Warning: Your looking at the: SM_Chair2_8 
-[2018.01.16-04.53.05:233][788]LogTemp: Warning: Your looking at the: SM_Chair2_8 
-[2018.01.16-04.53.10:355][401]LogTemp: Warning: Your looking at the: SM_TableRound_5 
-[2018.01.16-04.53.10:355][401]LogTemp: Warning: Your looking at the: SM_TableRound_5 
-[2018.01.16-04.55.06:007][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2018.01.16-04.55.12:435][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.01.16-04.55.12:627][307]LogSavePackage: Save=128.52ms
-[2018.01.16-04.55.12:628][307]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0A510079944672355EB5C3592E81253B6.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap'
-[2018.01.16-04.55.12:638][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap
-[2018.01.16-04.55.12:924][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0_BuiltData" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset" SILENT=true
-[2018.01.16-04.55.13:398][307]LogSavePackage: Save=409.91ms
-[2018.01.16-04.55.13:398][307]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_BuiltDataB111E5C64DBB548A7752B7A52EC5CBD1.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset'
-[2018.01.16-04.55.13:405][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset
-[2018.01.16-05.05.48:362][803]LogVSAccessor: Warning: Couldn't access Visual Studio
-[2018.01.16-05.05.48:389][803]Candidate modules for hot reload:
-[2018.01.16-05.05.48:389][803]  FITA_0
-[2018.01.16-05.05.48:389][803]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 1111 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
-[2018.01.16-05.05.48:519][803]Warning: Starting HotReload took  0.2s.
-[2018.01.16-05.06.50:265][  8]CompilerResultsLog: New page: Compilation - Jan 15, 2018, 7:06:50 PM
-[2018.01.16-05.06.50:265][  8]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
-[2018.01.16-05.06.50:265][  8]CompilerResultsLog: Compiling game modules for hot reload
-[2018.01.16-05.06.50:265][  8]CompilerResultsLog: Parsing headers for FITA_0Editor
-[2018.01.16-05.06.50:265][  8]CompilerResultsLog:   Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\Development\FITA_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-[2018.01.16-05.06.50:266][  8]CompilerResultsLog: Reflection code generated for FITA_0Editor in 42.2453824 seconds
-[2018.01.16-05.06.50:266][  8]CompilerResultsLog: Performing 5 actions (3 in parallel)
-[2018.01.16-05.06.50:266][  8]CompilerResultsLog: FITA_0.init.gen.cpp
-[2018.01.16-05.06.50:266][  8]CompilerResultsLog: DoorRotation.gen.cpp
-[2018.01.16-05.06.50:266][  8]CompilerResultsLog: DoorRotation.cpp
-[2018.01.16-05.06.50:266][  8]CompilerResultsLog: [4/5] Link UE4Editor-FITA_0-1111.dll
-[2018.01.16-05.06.50:266][  8]CompilerResultsLog: [5/5] Link UE4Editor-FITA_0-1111.lib
-[2018.01.16-05.06.50:267][  8]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-1111.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-1111.exp
-[2018.01.16-05.06.50:267][  8]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-1111.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-1111.suppressed.exp
-[2018.01.16-05.06.50:268][  8]CompilerResultsLog: Total build time: 61.24 seconds (Local executor: 16.30 seconds)
-[2018.01.16-05.06.50:268][  8]LogMainFrame: MainFrame: Module compiling took 61.906 seconds
-[2018.01.16-05.06.50:457][  8]LogClass: Could not find existing class DoorRotation in package /Script/FITA_0 for HotReload, assuming new class
-[2018.01.16-05.06.50:538][  8]LogHotReload: Re-instancing DoorRotation after hot-reload.
-[2018.01.16-05.06.50:831][  8]LogContentBrowser: Native class hierarchy updated for 'FITA_0' in 0.0020 seconds. Added 4 classes and 2 folders.
-[2018.01.16-05.06.50:838][  8]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
-[2018.01.16-05.06.51:359][  8]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 2369 classes and 525 folders.
-[2018.01.16-05.06.51:359][  8]Display: HotReload took 63.0s.
-[2018.01.16-05.07.41:439][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
-[2018.01.16-05.07.57:973][165]LogVSAccessor: Warning: Couldn't access Visual Studio
-[2018.01.16-05.07.57:985][165]Candidate modules for hot reload:
-[2018.01.16-05.07.57:986][165]  FITA_0
-[2018.01.16-05.07.57:986][165]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 1248 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
-[2018.01.16-05.07.58:128][165]Warning: Starting HotReload took  0.2s.
-[2018.01.16-05.08.00:242][226]CompilerResultsLog: New page: Compilation - Jan 15, 2018, 7:08:00 PM
-[2018.01.16-05.08.00:243][226]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
-[2018.01.16-05.08.00:243][226]CompilerResultsLog: Compiling game modules for hot reload
-[2018.01.16-05.08.00:243][226]CompilerResultsLog: Target is up to date
-[2018.01.16-05.08.00:243][226]CompilerResultsLog: Total build time: 1.63 seconds (NoActionsToExecute executor: 0.00 seconds)
-[2018.01.16-05.08.00:244][226]LogMainFrame: MainFrame: Module compiling took 2.271 seconds
-[2018.01.16-05.08.00:683][226]LogContentBrowser: Native class hierarchy populated in 0.0147 seconds. Added 2369 classes and 525 folders.
-[2018.01.16-05.08.00:683][226]Display: HotReload took  2.7s.
-[2018.01.16-05.08.02:355][296]LogTemp: Repeating last play command: Selected Viewport
-[2018.01.16-05.08.02:384][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.01.16-05.08.02:384][296]PIE: New page: PIE session: Level_0 (Jan 15, 2018, 7:08:02 PM)
-[2018.01.16-05.08.02:384][296]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
-[2018.01.16-05.08.02:392][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007881s)
-[2018.01.16-05.08.02:393][296]LogAIModule: Creating AISystem for world Level_0
-[2018.01.16-05.08.02:394][296]LogPlayLevel: PIE: World Init took: (0.001216s)
-[2018.01.16-05.08.02:394][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.009942s)
-[2018.01.16-05.08.02:509][296]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.01.16-05.08.02:515][296]LogInit: FAudioDevice initialized.
-[2018.01.16-05.08.02:554][296]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
-[2018.01.16-05.08.02:556][296]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.16-00.08.02
-[2018.01.16-05.08.02:556][296]LogWorld: Bringing up level for play took: 0.001847
-[2018.01.16-05.08.02:558][296]LogTemp: Warning: Input component found 
-[2018.01.16-05.08.02:558][296]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
-[2018.01.16-05.08.02:559][296]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.356
-[2018.01.16-05.08.07:940][621]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-05.08.07:940][621]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-05.08.14:872][421]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-05.08.14:872][421]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-05.08.22:166][289]LogTemp: Warning: Your looking at the: SM_TableRound_5 
-[2018.01.16-05.08.22:166][289]LogTemp: Warning: Your looking at the: SM_TableRound_5 
-[2018.01.16-05.08.40:279][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
-[2018.01.16-05.08.46:562][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
-[2018.01.16-05.08.56:977][142]LogVSAccessor: Warning: Couldn't access Visual Studio
-[2018.01.16-05.08.56:990][142]Candidate modules for hot reload:
-[2018.01.16-05.08.56:990][142]  FITA_0
-[2018.01.16-05.08.56:991][142]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 4362 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
-[2018.01.16-05.08.57:090][142]Warning: Starting HotReload took  0.1s.
-[2018.01.16-05.08.59:209][236]CompilerResultsLog: New page: Compilation - Jan 15, 2018, 7:08:59 PM
-[2018.01.16-05.08.59:210][236]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
-[2018.01.16-05.08.59:210][236]CompilerResultsLog: Compiling game modules for hot reload
-[2018.01.16-05.08.59:210][236]CompilerResultsLog: Target is up to date
-[2018.01.16-05.08.59:210][236]CompilerResultsLog: Total build time: 1.70 seconds (NoActionsToExecute executor: 0.01 seconds)
-[2018.01.16-05.08.59:210][236]LogMainFrame: MainFrame: Module compiling took 2.233 seconds
-[2018.01.16-05.08.59:605][236]LogContentBrowser: Native class hierarchy populated in 0.0159 seconds. Added 2369 classes and 525 folders.
-[2018.01.16-05.08.59:605][236]Display: HotReload took  2.6s.
-[2018.01.16-05.09.01:008][309]LogTemp: Repeating last play command: Selected Viewport
-[2018.01.16-05.09.01:032][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.01.16-05.09.01:033][309]PIE: New page: PIE session: Level_0 (Jan 15, 2018, 7:09:01 PM)
-[2018.01.16-05.09.01:033][309]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
-[2018.01.16-05.09.01:041][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007350s)
-[2018.01.16-05.09.01:042][309]LogAIModule: Creating AISystem for world Level_0
-[2018.01.16-05.09.01:042][309]LogPlayLevel: PIE: World Init took: (0.001157s)
-[2018.01.16-05.09.01:042][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.009227s)
-[2018.01.16-05.09.01:139][309]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.01.16-05.09.01:145][309]LogInit: FAudioDevice initialized.
-[2018.01.16-05.09.01:183][309]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
-[2018.01.16-05.09.01:185][309]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.16-00.09.01
-[2018.01.16-05.09.01:185][309]LogWorld: Bringing up level for play took: 0.001858
-[2018.01.16-05.09.01:187][309]LogTemp: Warning: Input component found 
-[2018.01.16-05.09.01:187][309]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
-[2018.01.16-05.09.01:187][309]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.273
-[2018.01.16-05.09.05:562][535]LogTemp: Warning: Your looking at the: SM_TableRound_5 
-[2018.01.16-05.09.05:562][535]LogTemp: Warning: Your looking at the: SM_TableRound_5 
-[2018.01.16-05.09.24:060][661]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-05.09.24:060][661]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-05.09.36:668][163]LogTemp: Warning: Your looking at the: SM_Chair4_14 
-[2018.01.16-05.09.36:669][163]LogTemp: Warning: Your looking at the: SM_Chair4_14 
-[2018.01.16-05.09.44:507][ 94]LogTemp: Warning: Your looking at the: SM_Chair2_8 
-[2018.01.16-05.09.44:507][ 94]LogTemp: Warning: Your looking at the: SM_Chair2_8 
-[2018.01.16-05.09.55:600][406]LogTemp: Warning: Your looking at the: SM_Chair_2 
-[2018.01.16-05.09.55:600][406]LogTemp: Warning: Your looking at the: SM_Chair_2 
-[2018.01.16-05.09.59:585][877]LogTemp: Warning: Your looking at the: SM_Chair_2 
-[2018.01.16-05.09.59:585][877]LogTemp: Warning: Your looking at the: SM_Chair_2 
-[2018.01.16-05.10.44:683][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
-[2018.01.16-05.10.44:813][177]LogSavePackage: Save=104.02ms
-[2018.01.16-05.10.44:813][177]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto3FF670105485FA7BAA60925A2B0C78292.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto3.umap'
-[2018.01.16-05.10.44:815][177]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto3.umap
-[2018.01.16-05.10.44:821][177]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.167
-[2018.01.16-05.10.44:822][177]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.167
-[2018.01.16-05.13.07:523][ 72]BlueprintLog: New page: Compile DefaultPawn_BP
-[2018.01.16-05.13.39:775][614]LogVSAccessor: Warning: Couldn't access Visual Studio
-[2018.01.16-05.13.39:788][614]Candidate modules for hot reload:
-[2018.01.16-05.13.39:788][614]  FITA_0
-[2018.01.16-05.13.39:788][614]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 260 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
-[2018.01.16-05.13.39:928][614]Warning: Starting HotReload took  0.2s.
-[2018.01.16-05.13.42:207][720]CompilerResultsLog: New page: Compilation - Jan 15, 2018, 7:13:42 PM
-[2018.01.16-05.13.42:207][720]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
-[2018.01.16-05.13.42:208][720]CompilerResultsLog: Compiling game modules for hot reload
-[2018.01.16-05.13.42:208][720]CompilerResultsLog: Target is up to date
-[2018.01.16-05.13.42:208][720]CompilerResultsLog: Total build time: 1.73 seconds (NoActionsToExecute executor: 0.01 seconds)
-[2018.01.16-05.13.42:208][720]LogMainFrame: MainFrame: Module compiling took 2.433 seconds
-[2018.01.16-05.13.42:612][720]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 2369 classes and 525 folders.
-[2018.01.16-05.13.42:612][720]Display: HotReload took  2.8s.
-[2018.01.16-05.13.44:302][792]LogTemp: Repeating last play command: Selected Viewport
-[2018.01.16-05.13.44:327][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.01.16-05.13.44:328][792]PIE: New page: PIE session: Level_0 (Jan 15, 2018, 7:13:44 PM)
-[2018.01.16-05.13.44:328][792]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
-[2018.01.16-05.13.44:335][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007049s)
-[2018.01.16-05.13.44:336][792]LogAIModule: Creating AISystem for world Level_0
-[2018.01.16-05.13.44:337][792]LogPlayLevel: PIE: World Init took: (0.000975s)
-[2018.01.16-05.13.44:337][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.008765s)
-[2018.01.16-05.13.44:435][792]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.01.16-05.13.44:441][792]LogInit: FAudioDevice initialized.
-[2018.01.16-05.13.44:480][792]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
-[2018.01.16-05.13.44:483][792]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.16-00.13.44
-[2018.01.16-05.13.44:483][792]LogWorld: Bringing up level for play took: 0.001899
-[2018.01.16-05.13.44:485][792]LogTemp: Warning: Input component found 
-[2018.01.16-05.13.44:485][792]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
-[2018.01.16-05.13.44:485][792]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.43
-[2018.01.16-05.13.59:891][490]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn_BP_C (DefaultPawn_BP)
-[2018.01.16-05.14.32:153][439]BlueprintLog: New page: Compile DefaultPawn_BP
-[2018.01.16-05.14.41:569][997]LogTemp: Repeating last play command: Selected Viewport
-[2018.01.16-05.14.41:597][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.01.16-05.14.41:597][997]PIE: New page: PIE session: Level_0 (Jan 15, 2018, 7:14:41 PM)
-[2018.01.16-05.14.41:598][997]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
-[2018.01.16-05.14.41:607][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008914s)
-[2018.01.16-05.14.41:689][997]LogAIModule: Creating AISystem for world Level_0
-[2018.01.16-05.14.41:690][997]LogPlayLevel: PIE: World Init took: (0.082357s)
-[2018.01.16-05.14.41:690][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.092252s)
-[2018.01.16-05.14.41:748][997]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.01.16-05.14.41:754][997]LogInit: FAudioDevice initialized.
-[2018.01.16-05.14.41:793][997]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
-[2018.01.16-05.14.41:795][997]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.16-00.14.41
-[2018.01.16-05.14.41:796][997]LogWorld: Bringing up level for play took: 0.001929
-[2018.01.16-05.14.41:797][997]LogTemp: Warning: Input component found 
-[2018.01.16-05.14.41:798][997]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
-[2018.01.16-05.14.41:798][997]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.883
-[2018.01.16-05.14.47:161][610]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-05.14.47:161][610]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-05.14.50:072][950]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-05.14.50:072][950]LogTemp: Warning: Your looking at the: SM_Chair3_11 
-[2018.01.16-05.14.54:692][480]LogTemp: Warning: Your looking at the: SM_TableRound_5 
-[2018.01.16-05.14.54:693][480]LogTemp: Warning: Your looking at the: SM_TableRound_5 
-[2018.01.16-05.14.59:683][ 49]LogTemp: Warning: Your looking at the: SM_Chair4_14 
-[2018.01.16-05.14.59:683][ 49]LogTemp: Warning: Your looking at the: SM_Chair4_14 
-[2018.01.16-05.15.03:073][436]LogTemp: Warning: Your looking at the: SM_Chair2_8 
-[2018.01.16-05.15.03:073][436]LogTemp: Warning: Your looking at the: SM_Chair2_8 
-[2018.01.16-05.15.10:129][243]LogTemp: Warning: Your looking at the: SM_Chair_2 
-[2018.01.16-05.15.10:130][243]LogTemp: Warning: Your looking at the: SM_Chair_2 
-[2018.01.16-05.15.11:038][348]LogTemp: Warning: Your looking at the: SM_Chair_2 
-[2018.01.16-05.15.11:038][348]LogTemp: Warning: Your looking at the: SM_Chair_2 
-[2018.01.16-05.15.18:582][195]LogTemp: Warning: Your looking at the: SM_Chair2_8 
-[2018.01.16-05.15.18:582][195]LogTemp: Warning: Your looking at the: SM_Chair2_8 
-[2018.01.16-05.15.24:433][819]LogTemp: Warning: Your looking at the: SM_Chair2_8 
-[2018.01.16-05.15.24:434][819]LogTemp: Warning: Your looking at the: SM_Chair2_8 
-[2018.01.16-05.15.35:461][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.01.16-05.15.35:621][ 71]LogSavePackage: Save=98.38ms
-[2018.01.16-05.15.35:621][ 71]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0BF1ADFBE4CFEC6DAACB1C880F3FEAAC3.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap'
-[2018.01.16-05.15.35:629][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap
-[2018.01.16-05.15.35:678][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0_BuiltData" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset" SILENT=true
-[2018.01.16-05.15.35:829][ 71]LogSavePackage: Save=132.00ms
-[2018.01.16-05.15.35:830][ 71]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_BuiltData67D8377A49B3687C020F39962C315271.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset'
-[2018.01.16-05.15.35:832][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset
-[2018.01.16-05.15.40:246][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultPawn_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/DefaultPawn_BP.uasset" SILENT=true
-[2018.01.16-05.15.40:501][376]LogSavePackage: Save=198.62ms
-[2018.01.16-05.15.40:501][376]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/DefaultPawn_BP9C12D5A3465905BE6ACF7F82C70146F9.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/DefaultPawn_BP.uasset'
-[2018.01.16-05.15.40:508][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/DefaultPawn_BP.uasset
-[2018.01.16-05.15.40:778][376]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.01.16-05.15.41:337][377]Cmd: QUIT_EDITOR
-[2018.01.16-05.15.42:473][377]LogExit: Preparing to exit.
-[2018.01.16-05.15.43:693][377]LogDirectoryWatcher: A directory notification failed for 'E:/Documents/GitHub/FITA/FITA_0/Content/', and we were unable to create a new request.
-[2018.01.16-05.15.44:315][377]LogExit: Editor shut down
-[2018.01.16-05.15.44:371][377]LogExit: Transaction tracking system shut down
+[2018.01.21-06.15.21:584][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.21-06.15.21:584][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.21-06.15.21:642][  0]LogInit: Computer: PEARL
+[2018.01.21-06.15.21:642][  0]LogInit: User: Mrgds2
+[2018.01.21-06.15.21:642][  0]LogInit: CPU Page size=4096, Cores=3
+[2018.01.21-06.15.21:642][  0]LogInit: High frequency timer resolution =3.429437 MHz
+[2018.01.21-06.15.21:642][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.21-06.15.21:642][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-06.15.21:642][  0]LogMemory: Process Physical Memory: 271.82 MB used, 271.82 MB peak
+[2018.01.21-06.15.21:642][  0]LogMemory: Process Virtual Memory: 269.71 MB used, 269.71 MB peak
+[2018.01.21-06.15.21:642][  0]LogMemory: Physical Memory: 5341.45 MB used,  2751.41 MB free, 8092.87 MB total
+[2018.01.21-06.15.21:642][  0]LogMemory: Virtual Memory: 680.64 MB used,  2751.41 MB free, 134217728.00 MB total
+[2018.01.21-06.15.22:095][  0]LogInit: Using OS detected language (en-US).
+[2018.01.21-06.15.22:095][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.21-06.15.22:122][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.21-06.15.23:186][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.21-06.15.27:864][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.21-06.15.27:938][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.01.21-06.15.27:938][  0]LogD3D11RHI:       4058/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.21-06.15.27:943][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.21-06.15.27:943][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.21-06.15.27:943][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.21-06.15.27:954][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.21-06.15.27:954][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.21-06.15.27:954][  0]LogWindows: EnumDisplayDevices:
+[2018.01.21-06.15.27:954][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.01.21-06.15.27:954][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.01.21-06.15.27:954][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.21-06.15.27:955][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.21-06.15.27:955][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.21-06.15.27:955][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.01.21-06.15.27:955][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.21-06.15.27:955][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.21-06.15.27:955][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.01.21-06.15.28:004][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.21-06.15.28:142][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.21-06.15.28:242][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../../Documents/GitHub/FITA/FITA_0/Intermediate/Shaders/WorkingDirectory/544/).
+[2018.01.21-06.15.28:242][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mrgds/AppData/Local/Temp/UnrealShaderWorkingDir/44BF38294052930981F0A5AF37B2B8D3/'.
+[2018.01.21-06.15.28:242][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.21-06.15.32:793][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.21-06.15.32:888][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.21-06.15.32:979][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.21-06.15.33:077][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.21-06.15.33:202][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.21-06.15.33:304][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.21-06.15.33:403][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.21-06.15.33:496][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.21-06.15.33:578][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.21-06.15.33:678][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.21-06.15.33:778][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.21-06.15.33:882][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.21-06.15.33:983][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.21-06.15.34:089][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.21-06.15.34:304][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.21-06.15.34:305][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.21-06.15.34:429][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.21-06.15.34:515][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.21-06.15.34:740][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.21-06.15.34:793][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.21-06.15.34:882][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.21-06.15.34:985][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.21-06.15.35:090][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.21-06.15.35:216][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.21-06.15.35:216][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.21-06.15.36:479][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.21-06.15.36:945][  0]LogDerivedDataCache: Loaded boot cache 0.46s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.21-06.15.36:945][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.21-06.15.36:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/GitHub/FITA/FITA_0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.21-06.15.36:945][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.21-06.15.36:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/GitHub/FITA/FITA_0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.21-06.15.36:945][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.21-06.15.36:968][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.21-06.15.36:981][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mrgds/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.21-06.15.37:000][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.21-06.15.37:001][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.21-06.15.37:002][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.21-06.15.37:002][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.21-06.15.41:188][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.21-06.15.41:914][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.21-06.15.42:001][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.21-06.15.42:001][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.21-06.15.42:001][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.21-06.15.42:001][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.21-06.15.42:001][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.21-06.15.42:057][  0]LogNetVersion: FITA_0 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2661453100)
+[2018.01.21-06.15.42:305][  0]LogAssetRegistry: FAssetRegistry took 0.0288 seconds to start up
+[2018.01.21-06.15.43:139][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.119270 seconds
+[2018.01.21-06.15.43:145][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.21-06.15.43:145][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.01.21-06.15.43:145][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.21-06.15.43:270][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.21-06.16.12:692][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.21-06.16.12:772][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.21-06.16.14:633][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.21-06.16.15:470][  0]SourceControl: Source control is disabled
+[2018.01.21-06.16.15:470][  0]SourceControl: Source control is disabled
+[2018.01.21-06.16.15:590][  0]SourceControl: Source control is disabled
+[2018.01.21-06.16.15:726][  0]SourceControl: Source control is disabled
+[2018.01.21-06.16.17:631][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.21-06.16.18:190][  0]LogOcInput: OculusInput pre-init called
+[2018.01.21-06.16.18:771][  0]LogEngine: Initializing Engine...
+[2018.01.21-06.16.18:881][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.01.21-06.16.19:200][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.21-06.16.19:200][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.21-06.16.19:473][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.21-06.16.19:498][  0]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-06.16.19:512][  0]LogInit: FAudioDevice initialized.
+[2018.01.21-06.16.19:636][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.21-06.16.19:664][  0]LogInit: Texture streaming: Enabled
+[2018.01.21-06.16.19:891][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.21-06.16.19:891][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={1B524691-48F7-C3BC-EA75-DF91845C068D}
+[2018.01.21-06.16.20:165][  0]LogInit: Transaction tracking system initialized
+[2018.01.21-06.16.20:836][  0]BlueprintLog: New page: Editor Load
+[2018.01.21-06.16.22:845][  0]LocalizationService: Localization service is disabled
+[2018.01.21-06.16.24:572][  0]LogConsoleResponse: Display: 
+[2018.01.21-06.16.25:437][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.21-06.16.25:437][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.21-06.16.25:437][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.21-06.16.26:230][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/' took 0.02s
+[2018.01.21-06.16.28:595][  0]SourceControl: Source control is disabled
+[2018.01.21-06.16.28:595][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.21-06.16.28:596][  0]LightingResults: New page: Lighting Build
+[2018.01.21-06.16.28:670][  0]MapCheck: New page: Map Check
+[2018.01.21-06.16.28:670][  0]LightingResults: New page: Lighting Build
+[2018.01.21-06.16.30:138][  0]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-06.16.30:150][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.21-06.16.30:176][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.21-06.16.30:271][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.208ms to complete.
+[2018.01.21-06.16.30:271][  0]LogFileHelpers: Loading map 'Level_0' took 1.676
+[2018.01.21-06.16.30:768][  0]LogCollectionManager: Loaded 0 collections in 0.002777 seconds
+[2018.01.21-06.16.30:894][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Saved/Collections/' took 0.01s
+[2018.01.21-06.16.30:894][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/Developers/Mrgds2/Collections/' took 0.01s
+[2018.01.21-06.16.30:894][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/Collections/' took 0.01s
+[2018.01.21-06.16.30:894][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.21-06.16.30:911][  0]LogContentBrowser: Native class hierarchy populated in 0.0165 seconds. Added 2368 classes and 523 folders.
+[2018.01.21-06.16.31:038][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.01.21-06.16.33:170][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.01.21-06.16.33:245][  0]LogSlate: Took 0.000514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.21-06.16.33:251][  0]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.21-06.16.33:270][  0]LogSlate: Took 0.015618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.21-06.16.33:447][  0]LogRenderer: Reallocating scene render targets to support 1200x688 Format 10 NumSamples 1 (Frame:1).
+[2018.01.21-06.16.33:547][  0]LogSlate: Took 0.019647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-06.16.33:814][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.01.21-06.16.33:815][  0]LogLoad: (Engine Initialization) Total time: 89.39 seconds
+[2018.01.21-06.16.33:815][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.21-06.16.33:815][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.21-06.16.33:815][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.21-06.16.34:178][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.21-06.16.34:507][  1]LogAssetRegistry: Asset discovery search completed in 52.2239 seconds
+[2018.01.21-06.16.34:509][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.21-06.16.34:509][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2018.01.21-06.16.41:152][ 21]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP)
+[2018.01.21-06.16.42:943][112]LogSlate: Took 0.019142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.21-06.24.08:889][ 54]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-06.24.08:903][ 54]Candidate modules for hot reload:
+[2018.01.21-06.24.08:903][ 54]  FITA_0
+[2018.01.21-06.24.08:903][ 54]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 3842 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-06.24.09:057][ 54]Warning: Starting HotReload took  0.2s.
+[2018.01.21-06.24.10:375][ 86]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP2)
+[2018.01.21-06.25.26:091][190]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 8:25:25 PM
+[2018.01.21-06.25.26:186][190]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-06.25.26:186][190]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-06.25.26:186][190]CompilerResultsLog: Parsing headers for FITA_0Editor
+[2018.01.21-06.25.26:186][190]CompilerResultsLog:   Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\Development\FITA_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.01.21-06.25.26:186][190]CompilerResultsLog: Reflection code generated for FITA_0Editor in 34.7994221 seconds
+[2018.01.21-06.25.26:186][190]CompilerResultsLog: Performing 4 actions (3 in parallel)
+[2018.01.21-06.25.26:186][190]CompilerResultsLog: DoorRotation.gen.cpp
+[2018.01.21-06.25.26:186][190]CompilerResultsLog: DoorRotation.cpp
+[2018.01.21-06.25.26:186][190]CompilerResultsLog: Error: E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\DoorRotation.cpp(29) : error C2059: syntax error: '}'
+[2018.01.21-06.25.26:186][190]CompilerResultsLog: Error: E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\DoorRotation.cpp(29) : error C2143: syntax error: missing ';' before '}'
+[2018.01.21-06.25.26:186][190]CompilerResultsLog: Error: E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\DoorRotation.cpp(32) : error C2143: syntax error: missing ';' before '{'
+[2018.01.21-06.25.26:186][190]CompilerResultsLog: Error: E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\DoorRotation.cpp(32) : error C2447: '{': missing function header (old-style formal list?)
+[2018.01.21-06.25.26:186][190]CompilerResultsLog: Error: E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\DoorRotation.cpp(72) : error C2561: 'UDoorRotation::GetMassOnPlate': function must return a value
+[2018.01.21-06.25.26:187][190]CompilerResultsLog: Error: E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\DoorRotation.cpp(67) : note: see declaration of 'UDoorRotation::GetMassOnPlate'
+[2018.01.21-06.25.26:221][190]LogMainFrame: MainFrame: Module compiling took 77.332 seconds
+[2018.01.21-06.25.26:277][190]Warning: HotReload failed, recompile failed
+[2018.01.21-06.25.57:335][867]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.21-06.26.07:847][868]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.21-06.26.17:650][ 28]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-06.26.17:681][ 28]Candidate modules for hot reload:
+[2018.01.21-06.26.17:681][ 28]  FITA_0
+[2018.01.21-06.26.17:681][ 28]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 4407 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-06.26.18:924][ 28]Warning: Starting HotReload took  1.3s.
+[2018.01.21-06.26.59:660][151]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 8:26:59 PM
+[2018.01.21-06.26.59:660][151]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-06.26.59:660][151]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-06.26.59:660][151]CompilerResultsLog: Performing full C++ include scan (no include cache file)
+[2018.01.21-06.26.59:660][151]CompilerResultsLog: Performing 4 actions (3 in parallel)
+[2018.01.21-06.26.59:660][151]CompilerResultsLog: DoorRotation.cpp
+[2018.01.21-06.26.59:661][151]CompilerResultsLog: Error: E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\DoorRotation.cpp(29) : error C2059: syntax error: '}'
+[2018.01.21-06.26.59:662][151]CompilerResultsLog: Error: E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\DoorRotation.cpp(29) : error C2143: syntax error: missing ';' before '}'
+[2018.01.21-06.26.59:662][151]CompilerResultsLog: Error: E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\DoorRotation.cpp(32) : error C2143: syntax error: missing ';' before '{'
+[2018.01.21-06.26.59:662][151]CompilerResultsLog: Error: E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\DoorRotation.cpp(32) : error C2447: '{': missing function header (old-style formal list?)
+[2018.01.21-06.26.59:662][151]CompilerResultsLog: DoorRotation.gen.cpp
+[2018.01.21-06.26.59:662][151]CompilerResultsLog: E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Inc\FITA_0\DoorRotation.gen.cpp : fatal error C1083: Cannot open compiler generated file: 'E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\FITA_0\DoorRotation.gen.cpp.obj': Permission denied
+[2018.01.21-06.26.59:662][151]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\UE4Editor-FITA_0-4407.dll
+[2018.01.21-06.26.59:662][151]CompilerResultsLog: Total build time: 39.60 seconds (Local executor: 0.00 seconds)
+[2018.01.21-06.26.59:662][151]LogMainFrame: MainFrame: Module compiling took 42.012 seconds
+[2018.01.21-06.26.59:662][151]Warning: HotReload failed, recompile failed
+[2018.01.21-06.27.49:481][360]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-06.27.49:574][360]Candidate modules for hot reload:
+[2018.01.21-06.27.49:574][360]  FITA_0
+[2018.01.21-06.27.49:574][360]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 3966 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-06.27.49:706][360]Warning: Starting HotReload took  0.2s.
+[2018.01.21-06.27.56:737][391]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 8:27:56 PM
+[2018.01.21-06.27.56:737][391]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-06.27.56:737][391]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-06.27.56:737][391]CompilerResultsLog: Performing 3 actions (3 in parallel)
+[2018.01.21-06.27.56:737][391]CompilerResultsLog: DoorRotation.cpp
+[2018.01.21-06.27.56:737][391]CompilerResultsLog: [2/3] Link UE4Editor-FITA_0-3966.dll
+[2018.01.21-06.27.56:737][391]CompilerResultsLog: [3/3] Link UE4Editor-FITA_0-3966.lib
+[2018.01.21-06.27.56:737][391]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-3966.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-3966.exp
+[2018.01.21-06.27.56:737][391]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-3966.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-3966.suppressed.exp
+[2018.01.21-06.27.56:737][391]CompilerResultsLog: Total build time: 6.63 seconds (Local executor: 4.86 seconds)
+[2018.01.21-06.27.56:737][391]LogMainFrame: MainFrame: Module compiling took 7.256 seconds
+[2018.01.21-06.27.58:392][391]LogContentBrowser: Native class hierarchy updated for 'FITA_0' in 0.0011 seconds. Added 4 classes and 2 folders.
+[2018.01.21-06.27.58:395][391]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.01.21-06.27.58:865][391]LogContentBrowser: Native class hierarchy populated in 0.0153 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-06.27.58:919][391]Display: HotReload took  9.4s.
+[2018.01.21-06.28.02:186][403]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-06.28.02:424][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-06.28.02:469][403]PIE: New page: PIE session: Level_0 (Jan 20, 2018, 8:28:02 PM)
+[2018.01.21-06.28.02:483][403]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-06.28.02:540][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056485s)
+[2018.01.21-06.28.02:541][403]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-06.28.02:561][403]LogPlayLevel: PIE: World Init took: (0.021156s)
+[2018.01.21-06.28.02:575][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.092318s)
+[2018.01.21-06.28.02:626][403]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-06.28.02:632][403]LogInit: FAudioDevice initialized.
+[2018.01.21-06.28.02:873][403]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-06.28.02:994][403]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-01.28.02
+[2018.01.21-06.28.03:070][403]LogWorld: Bringing up level for play took: 0.078164
+[2018.01.21-06.28.03:644][403]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2018.01.21-06.28.03:868][403]LogTemp: Warning: Input component found 
+[2018.01.21-06.28.03:868][403]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-06.28.03:868][403]LogTemp: Error: Open_door_BP_156 has no Trigger volume component on it
+[2018.01.21-06.28.03:868][403]LogTemp: Error: Open_door_BP2_311 has no Trigger volume component on it
+[2018.01.21-06.28.03:891][403]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 1.876
+[2018.01.21-06.28.13:530][533]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-06.28.13:530][533]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-06.28.49:861][ 46]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-06.28.49:861][ 46]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-06.28.57:799][432]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-06.28.57:799][432]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-06.29.00:431][533]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-06.29.00:431][533]LogTemp: Warning: Your looking at the: SM_Chair3_11 
+[2018.01.21-06.29.05:597][741]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.21-06.29.05:597][741]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.21-06.29.11:086][857]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.21-06.29.11:086][857]LogTemp: Warning: Your looking at the: SM_TableRound_5 
+[2018.01.21-06.30.53:212][496]LogWindows: LaunchFileInExternalEditor E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\DoorRotation.cpp 
+[2018.01.21-06.30.53:622][496]LogWindows: Launch application code for E:\Documents\GitHub\FITA\FITA_0\Source\FITA_0\DoorRotation.cpp : 42
+[2018.01.21-06.30.53:623][496]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-06.30.53:645][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:646][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:646][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:646][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:646][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:646][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:646][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:647][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:647][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:647][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:647][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:647][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:647][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:647][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:647][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:648][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:648][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:648][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:648][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:648][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:648][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:648][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:648][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:649][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:649][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:649][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:649][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:649][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:649][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:649][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:649][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:650][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:650][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:650][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:650][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:650][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:650][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:650][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:650][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:651][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:651][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:651][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:651][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:651][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:651][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:651][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:652][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:652][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:652][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:652][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:652][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:652][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:652][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:653][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:653][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:653][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:653][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:653][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:653][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:653][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:654][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:654][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:654][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:654][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:654][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:654][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:654][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:655][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:655][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:655][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:655][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:655][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:655][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:655][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:656][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:656][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:656][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:656][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:656][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:656][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:656][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:657][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:657][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:657][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:657][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:657][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:657][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:657][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:657][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:658][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:663][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:663][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:664][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:664][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:664][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:664][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:705][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:719][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:725][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:729][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:729][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:729][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:730][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:747][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:748][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:748][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:748][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:785][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:785][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:785][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:786][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.30.53:788][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-06.32.52:903][630]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP)
+[2018.01.21-06.33.27:295][553]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP)
+[2018.01.21-06.33.33:054][814]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP)
+[2018.01.21-06.34.45:234][114]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP2)
+[2018.01.21-06.34.53:031][559]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-06.34.53:046][559]Candidate modules for hot reload:
+[2018.01.21-06.34.53:046][559]  FITA_0
+[2018.01.21-06.34.53:046][559]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 4390 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-06.34.53:197][559]Warning: Starting HotReload took  0.2s.
+[2018.01.21-06.34.59:488][862]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 8:34:59 PM
+[2018.01.21-06.34.59:488][862]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-06.34.59:488][862]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-06.34.59:488][862]CompilerResultsLog: Target is up to date
+[2018.01.21-06.34.59:488][862]CompilerResultsLog: Total build time: 5.10 seconds (NoActionsToExecute executor: 0.01 seconds)
+[2018.01.21-06.34.59:488][862]LogMainFrame: MainFrame: Module compiling took 6.457 seconds
+[2018.01.21-06.34.59:534][862]LogContentBrowser: Native class hierarchy populated in 0.0184 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-06.34.59:534][862]Display: HotReload took  6.5s.
+[2018.01.21-06.35.00:788][923]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-06.35.00:814][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-06.35.00:815][923]PIE: New page: PIE session: Level_0 (Jan 20, 2018, 8:35:00 PM)
+[2018.01.21-06.35.00:815][923]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-06.35.00:826][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011432s)
+[2018.01.21-06.35.00:827][923]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-06.35.00:828][923]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2018.01.21-06.35.00:828][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.013097s)
+[2018.01.21-06.35.00:871][923]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-06.35.00:877][923]LogInit: FAudioDevice initialized.
+[2018.01.21-06.35.00:922][923]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-06.35.00:926][923]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-01.35.00
+[2018.01.21-06.35.00:926][923]LogWorld: Bringing up level for play took: 0.003166
+[2018.01.21-06.35.00:928][923]LogTemp: Warning: Input component found 
+[2018.01.21-06.35.00:928][923]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-06.35.00:928][923]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.913
+[2018.01.21-06.35.12:183][846]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.21-06.35.12:184][846]LogTemp: Warning: Your looking at the: SM_Chair4_14 
+[2018.01.21-06.35.53:438][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-06.36.07:466][820]Cmd: TRANSACTION UNDO
+[2018.01.21-06.36.07:466][820]LogEditorTransaction: Undo Move Actors
+[2018.01.21-06.36.07:520][820]LogSlate: Took 0.011878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-06.36.48:317][564]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.21-06.36.53:603][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-06.37.02:375][707]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.21-06.37.09:817][279]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-06.37.09:835][279]Candidate modules for hot reload:
+[2018.01.21-06.37.09:835][279]  FITA_0
+[2018.01.21-06.37.09:835][279]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 4307 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-06.37.10:006][279]Warning: Starting HotReload took  0.2s.
+[2018.01.21-06.37.12:745][406]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 8:37:12 PM
+[2018.01.21-06.37.12:745][406]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-06.37.12:745][406]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-06.37.12:746][406]CompilerResultsLog: Target is up to date
+[2018.01.21-06.37.12:746][406]CompilerResultsLog: Total build time: 2.26 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.21-06.37.12:746][406]LogMainFrame: MainFrame: Module compiling took 2.929 seconds
+[2018.01.21-06.37.12:790][406]LogContentBrowser: Native class hierarchy populated in 0.0180 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-06.37.12:791][406]Display: HotReload took  3.0s.
+[2018.01.21-06.37.14:047][465]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-06.37.14:075][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-06.37.14:075][465]PIE: New page: PIE session: Level_0 (Jan 20, 2018, 8:37:14 PM)
+[2018.01.21-06.37.14:076][465]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-06.37.14:085][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009197s)
+[2018.01.21-06.37.14:086][465]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-06.37.14:086][465]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2018.01.21-06.37.14:086][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.010692s)
+[2018.01.21-06.37.14:123][465]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-06.37.14:129][465]LogInit: FAudioDevice initialized.
+[2018.01.21-06.37.14:166][465]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-06.37.14:169][465]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-01.37.14
+[2018.01.21-06.37.14:169][465]LogWorld: Bringing up level for play took: 0.002767
+[2018.01.21-06.37.14:171][465]LogTemp: Warning: Input component found 
+[2018.01.21-06.37.14:171][465]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-06.37.14:171][465]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.156
+[2018.01.21-06.37.49:883][936]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-06.37.50:009][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.21-06.37.50:584][936]LogSavePackage: Save=218.25ms
+[2018.01.21-06.37.50:584][936]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_010D6A7AD4BC2B847B2461287A4547DFD.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap'
+[2018.01.21-06.37.50:626][936]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap
+[2018.01.21-06.37.50:686][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0_BuiltData" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset" SILENT=true
+[2018.01.21-06.37.51:049][936]LogSavePackage: Save=284.26ms
+[2018.01.21-06.37.51:049][936]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_BuiltDataC0FD34354632DBDD2C5D88A07BD2C572.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset'
+[2018.01.21-06.37.51:052][936]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset
+[2018.01.21-06.41.34:851][927]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-06.41.34:927][927]Candidate modules for hot reload:
+[2018.01.21-06.41.34:927][927]  FITA_0
+[2018.01.21-06.41.34:927][927]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 366 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-06.41.35:068][927]Warning: Starting HotReload took  0.2s.
+[2018.01.21-06.44.13:079][526]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 8:44:13 PM
+[2018.01.21-06.44.13:079][526]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-06.44.13:079][526]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-06.44.13:079][526]CompilerResultsLog: Parsing headers for FITA_0Editor
+[2018.01.21-06.44.13:079][526]CompilerResultsLog:   Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\Development\FITA_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.01.21-06.44.13:079][526]CompilerResultsLog: Reflection code generated for FITA_0Editor in 43.4756801 seconds
+[2018.01.21-06.44.13:079][526]CompilerResultsLog: Performing 5 actions (3 in parallel)
+[2018.01.21-06.44.13:079][526]CompilerResultsLog: DoorRotation.gen.cpp
+[2018.01.21-06.44.13:079][526]CompilerResultsLog: FITA_0.init.gen.cpp
+[2018.01.21-06.44.13:079][526]CompilerResultsLog: DoorRotation.cpp
+[2018.01.21-06.44.13:079][526]CompilerResultsLog: [4/5] Link UE4Editor-FITA_0-366.dll
+[2018.01.21-06.44.13:079][526]CompilerResultsLog: [5/5] Link UE4Editor-FITA_0-366.lib
+[2018.01.21-06.44.13:079][526]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-366.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-366.exp
+[2018.01.21-06.44.13:079][526]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-366.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-366.suppressed.exp
+[2018.01.21-06.44.13:079][526]CompilerResultsLog: Total build time: 157.53 seconds (Local executor: 111.49 seconds)
+[2018.01.21-06.44.13:079][526]LogMainFrame: MainFrame: Module compiling took 158.228 seconds
+[2018.01.21-06.44.14:695][526]LogContentBrowser: Native class hierarchy updated for 'FITA_0' in 0.0018 seconds. Added 4 classes and 2 folders.
+[2018.01.21-06.44.14:698][526]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.01.21-06.44.14:792][526]LogContentBrowser: Native class hierarchy populated in 0.0155 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-06.44.14:792][526]Display: HotReload took 159.9s.
+[2018.01.21-06.53.33:476][529]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP)
+[2018.01.21-06.53.48:680][112]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.21-06.53.50:841][177]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.21-06.53.58:539][389]LogSlate: Took 0.015822 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.21-06.53.59:170][389]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 116 classes and 0 folders.
+[2018.01.21-06.54.01:638][389]LogSlate: Took 0.061451 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.21-06.55.50:555][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-06.55.50:809][879]LogSavePackage: Save=63.31ms
+[2018.01.21-06.55.50:809][879]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BP03FEF70E4B80E9FAA4AE3DB3CB7C54F4.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-06.55.50:847][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-06.55.51:760][915]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-06.55.51:793][915]Candidate modules for hot reload:
+[2018.01.21-06.55.51:793][915]  FITA_0
+[2018.01.21-06.55.51:793][915]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 664 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-06.55.51:943][915]Warning: Starting HotReload took  0.2s.
+[2018.01.21-06.56.19:750][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.21-06.56.20:128][806]LogSavePackage: Save=176.03ms
+[2018.01.21-06.56.20:128][806]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto14745F11E47155F27BD20EF8C3AABF093.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto1.umap'
+[2018.01.21-06.56.20:154][806]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto1.umap
+[2018.01.21-06.56.20:160][806]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.585
+[2018.01.21-06.56.20:160][806]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.585
+[2018.01.21-06.58.55:553][778]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 8:58:55 PM
+[2018.01.21-06.58.55:553][778]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-06.58.55:553][778]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-06.58.55:553][778]CompilerResultsLog: Parsing headers for FITA_0Editor
+[2018.01.21-06.58.55:553][778]CompilerResultsLog:   Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\Development\FITA_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.01.21-06.58.55:554][778]CompilerResultsLog: Reflection code generated for FITA_0Editor in 43.4002901 seconds
+[2018.01.21-06.58.55:554][778]CompilerResultsLog: Performing 5 actions (3 in parallel)
+[2018.01.21-06.58.55:554][778]CompilerResultsLog: DoorRotation.cpp
+[2018.01.21-06.58.55:554][778]CompilerResultsLog: FITA_0.init.gen.cpp
+[2018.01.21-06.58.55:554][778]CompilerResultsLog: DoorRotation.gen.cpp
+[2018.01.21-06.58.55:554][778]CompilerResultsLog: [4/5] Link UE4Editor-FITA_0-664.dll
+[2018.01.21-06.58.55:554][778]CompilerResultsLog: [5/5] Link UE4Editor-FITA_0-664.lib
+[2018.01.21-06.58.55:554][778]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-664.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-664.exp
+[2018.01.21-06.58.55:554][778]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-664.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-664.suppressed.exp
+[2018.01.21-06.58.55:554][778]CompilerResultsLog: Total build time: 182.20 seconds (Local executor: 132.67 seconds)
+[2018.01.21-06.58.55:554][778]LogMainFrame: MainFrame: Module compiling took 183.794 seconds
+[2018.01.21-06.58.57:179][778]LogClass: Could not find existing class DoorRotation in package /Script/FITA_0 for HotReload, assuming new class
+[2018.01.21-06.58.57:201][778]LogHotReload: Re-instancing DoorRotation after hot-reload.
+[2018.01.21-06.58.57:353][778]LogContentBrowser: Native class hierarchy updated for 'FITA_0' in 0.0011 seconds. Added 4 classes and 2 folders.
+[2018.01.21-06.58.57:356][778]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.01.21-06.58.57:807][778]LogContentBrowser: Native class hierarchy populated in 0.0150 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-06.58.57:807][778]Display: HotReload took 186.1s.
+[2018.01.21-07.00.56:896][960]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-07.01.42:467][573]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-07.01.54:373][995]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-07.01.54:390][995]Candidate modules for hot reload:
+[2018.01.21-07.01.54:390][995]  FITA_0
+[2018.01.21-07.01.54:390][995]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 5861 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-07.01.54:583][995]Warning: Starting HotReload took  0.2s.
+[2018.01.21-07.02.39:316][499]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 9:02:39 PM
+[2018.01.21-07.02.39:317][499]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-07.02.39:317][499]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-07.02.39:317][499]CompilerResultsLog: Performing 3 actions (3 in parallel)
+[2018.01.21-07.02.39:317][499]CompilerResultsLog: DoorRotation.cpp
+[2018.01.21-07.02.39:317][499]CompilerResultsLog: [2/3] Link UE4Editor-FITA_0-5861.dll
+[2018.01.21-07.02.39:317][499]CompilerResultsLog: [3/3] Link UE4Editor-FITA_0-5861.lib
+[2018.01.21-07.02.39:317][499]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-5861.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-5861.exp
+[2018.01.21-07.02.39:317][499]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-5861.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-5861.suppressed.exp
+[2018.01.21-07.02.39:317][499]CompilerResultsLog: Total build time: 43.36 seconds (Local executor: 40.88 seconds)
+[2018.01.21-07.02.39:317][499]LogMainFrame: MainFrame: Module compiling took 44.945 seconds
+[2018.01.21-07.02.40:976][499]LogContentBrowser: Native class hierarchy updated for 'FITA_0' in 0.0020 seconds. Added 4 classes and 2 folders.
+[2018.01.21-07.02.40:981][499]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.01.21-07.02.41:535][499]LogContentBrowser: Native class hierarchy populated in 0.0171 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-07.02.41:535][499]Display: HotReload took 47.2s.
+[2018.01.21-07.03.06:861][684]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-07.03.06:879][684]Candidate modules for hot reload:
+[2018.01.21-07.03.06:879][684]  FITA_0
+[2018.01.21-07.03.06:879][684]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 1597 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-07.03.07:036][684]Warning: Starting HotReload took  0.2s.
+[2018.01.21-07.03.09:721][781]CompilerResultsLog: New page: Compilation - Jan 20, 2018, 9:03:09 PM
+[2018.01.21-07.03.09:721][781]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-07.03.09:721][781]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-07.03.09:721][781]CompilerResultsLog: Target is up to date
+[2018.01.21-07.03.09:721][781]CompilerResultsLog: Total build time: 2.32 seconds (NoActionsToExecute executor: 0.01 seconds)
+[2018.01.21-07.03.09:721][781]LogMainFrame: MainFrame: Module compiling took 2.861 seconds
+[2018.01.21-07.03.10:195][781]LogContentBrowser: Native class hierarchy populated in 0.0158 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-07.03.10:195][781]Display: HotReload took  3.3s.
+[2018.01.21-07.03.11:506][827]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-07.03.11:540][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-07.03.11:540][827]PIE: New page: PIE session: Level_0 (Jan 20, 2018, 9:03:11 PM)
+[2018.01.21-07.03.11:541][827]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-07.03.11:569][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028726s)
+[2018.01.21-07.03.11:570][827]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-07.03.11:571][827]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2018.01.21-07.03.11:571][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.030474s)
+[2018.01.21-07.03.11:697][827]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-07.03.11:704][827]LogInit: FAudioDevice initialized.
+[2018.01.21-07.03.11:744][827]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-07.03.11:748][827]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-02.03.11
+[2018.01.21-07.03.11:748][827]LogWorld: Bringing up level for play took: 0.003513
+[2018.01.21-07.03.11:750][827]LogTemp: Warning: Input component found 
+[2018.01.21-07.03.11:750][827]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-07.03.11:750][827]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.265
+[2018.01.21-07.03.29:681][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.21-07.03.30:149][285]LogSavePackage: Save=157.50ms
+[2018.01.21-07.03.30:149][285]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0DA31A1DC4CFE94DE998B95B1DA77FF58.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap'
+[2018.01.21-07.03.30:156][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap
+[2018.01.21-07.03.30:204][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0_BuiltData" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset" SILENT=true
+[2018.01.21-07.03.30:563][285]LogSavePackage: Save=225.79ms
+[2018.01.21-07.03.30:564][285]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_BuiltData4E813D464FC697129DA2048C94E6070D.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset'
+[2018.01.21-07.03.30:566][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset
+[2018.01.21-07.03.37:007][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-07.03.37:154][569]LogSavePackage: Save=49.02ms
+[2018.01.21-07.03.37:154][569]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BP1F9E8FCA443E72EFAF9F55968B84A23E.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-07.03.37:158][569]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-07.03.37:384][569]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.21-07.03.37:867][570]Cmd: QUIT_EDITOR
+[2018.01.21-07.03.38:909][570]LogExit: Preparing to exit.
+[2018.01.21-07.03.40:462][570]LogDirectoryWatcher: A directory notification for 'E:/Documents/GitHub/FITA/FITA_0/Content/' was aborted.
+[2018.01.21-07.03.40:648][570]LogExit: Editor shut down
+[2018.01.21-07.03.40:702][570]LogExit: Transaction tracking system shut down
+[2018.01.21-07.03.41:103][570]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.21-07.03.41:103][570]LogDirectoryWatcher: A directory notification for '../../../../../../Documents/GitHub/FITA/FITA_0/Content/' was aborted.
+[2018.01.21-07.03.41:103][570]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.21-07.03.41:104][570]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.21-07.03.41:104][570]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.21-07.03.41:104][570]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.21-07.03.41:104][570]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.21-07.03.42:610][570]LogExit: Object subsystem successfully closed.
+[2018.01.21-07.03.42:807][570]LogD3D11RHI: Shutdown
+[2018.01.21-07.03.42:819][570]LogD3D11RHI: CleanupD3DDevice
+[2018.01.21-07.03.42:866][570]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.21-07.03.43:795][570]LogModuleManager: Shutting down and abandoning module FITA_0 (558)
+[2018.01.21-07.03.43:795][570]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2018.01.21-07.03.43:795][570]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (553)
+[2018.01.21-07.03.43:795][570]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.01.21-07.03.43:795][570]LogModuleManager: Shutting down and abandoning module DesktopPlatform (548)
+[2018.01.21-07.03.43:802][570]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.01.21-07.03.43:816][570]LogDirectoryWatcher: A directory notification for 'E:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.21-07.03.43:835][570]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.01.21-07.03.43:836][570]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.01.21-07.03.43:836][570]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.01.21-07.03.43:871][570]LogDirectoryWatcher: A directory notification for 'E:/Documents/GitHub/FITA/FITA_0/Content/Collections/' was aborted.
+[2018.01.21-07.03.43:871][570]LogDirectoryWatcher: A directory notification for 'E:/Documents/GitHub/FITA/FITA_0/Content/Developers/Mrgds2/Collections/' was aborted.
+[2018.01.21-07.03.43:871][570]LogDirectoryWatcher: A directory notification for 'E:/Documents/GitHub/FITA/FITA_0/Saved/Collections/' was aborted.
+[2018.01.21-07.03.43:871][570]LogModuleManager: Shutting down and abandoning module SceneOutliner (538)
+[2018.01.21-07.03.43:871][570]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.21-07.03.43:899][570]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.21-07.03.43:900][570]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.21-07.03.43:907][570]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.21-07.03.43:923][570]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.21-07.03.43:923][570]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.21-07.03.43:923][570]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.21-07.03.43:923][570]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.21-07.03.43:923][570]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.21-07.03.43:923][570]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.21-07.03.43:923][570]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.21-07.03.43:923][570]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.21-07.03.43:933][570]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.21-07.03.43:948][570]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.21-07.03.43:957][570]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.21-07.03.44:000][570]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.21-07.03.44:000][570]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.21-07.03.44:000][570]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.21-07.03.44:000][570]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.21-07.03.44:000][570]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.21-07.03.44:000][570]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.21-07.03.44:000][570]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.21-07.03.44:000][570]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.21-07.03.44:000][570]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.21-07.03.44:000][570]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.21-07.03.44:000][570]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.21-07.03.44:000][570]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.21-07.03.44:009][570]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.21-07.03.44:031][570]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.21-07.03.44:031][570]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.21-07.03.44:031][570]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.21-07.03.44:031][570]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.21-07.03.44:031][570]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.21-07.03.44:054][570]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.21-07.03.44:100][570]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.21-07.03.44:101][570]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.21-07.03.44:140][570]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.21-07.03.44:153][570]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.21-07.03.44:153][570]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.21-07.03.44:153][570]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.21-07.03.44:153][570]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.21-07.03.44:980][570]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.21-07.03.44:981][570]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.21-07.03.44:981][570]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.21-07.03.44:981][570]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.21-07.03.44:990][570]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.21-07.03.45:016][570]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.21-07.03.45:017][570]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.21-07.03.45:052][570]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.21-07.03.45:052][570]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.21-07.03.45:063][570]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.21-07.03.45:074][570]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.21-07.03.45:074][570]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.21-07.03.45:074][570]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.21-07.03.45:074][570]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.21-07.03.45:093][570]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.21-07.03.45:093][570]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.21-07.03.45:093][570]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.21-07.03.45:093][570]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.21-07.03.45:094][570]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.21-07.03.45:094][570]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.21-07.03.45:106][570]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.21-07.03.45:124][570]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.21-07.03.45:140][570]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.21-07.03.45:154][570]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.21-07.03.45:207][570]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.21-07.03.45:233][570]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.21-07.03.45:255][570]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.21-07.03.45:277][570]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.21-07.03.45:277][570]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.21-07.03.45:300][570]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.21-07.03.45:301][570]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.21-07.03.45:339][570]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.21-07.03.45:339][570]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.21-07.03.45:339][570]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.21-07.03.45:366][570]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.21-07.03.45:366][570]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.21-07.03.45:366][570]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.21-07.03.45:381][570]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.21-07.03.45:414][570]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.21-07.03.45:414][570]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.21-07.03.45:422][570]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.21-07.03.45:422][570]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.21-07.03.45:422][570]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.21-07.03.45:422][570]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.21-07.03.45:422][570]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.21-07.03.45:422][570]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.21-07.03.45:422][570]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.21-07.03.45:422][570]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.21-07.03.45:422][570]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.21-07.03.45:422][570]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.21-07.03.45:423][570]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.21-07.03.45:423][570]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.21-07.03.45:433][570]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.01.21-07.03.45:673][570]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.01.21-07.03.45:684][570]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.01.21-07.03.45:684][570]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.01.21-07.03.45:684][570]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.01.21-07.03.45:692][570]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.01.21-07.03.45:707][570]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.01.21-07.03.45:707][570]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.01.21-07.03.45:707][570]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.01.21-07.03.45:722][570]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.01.21-07.03.45:722][570]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.01.21-07.03.45:722][570]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.01.21-07.03.45:722][570]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.01.21-07.03.45:744][570]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.01.21-07.03.45:744][570]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.01.21-07.03.45:744][570]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.01.21-07.03.45:744][570]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.01.21-07.03.45:757][570]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.01.21-07.03.45:757][570]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.01.21-07.03.45:769][570]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.01.21-07.03.45:769][570]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.01.21-07.03.45:770][570]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.01.21-07.03.45:796][570]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.01.21-07.03.45:821][570]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.01.21-07.03.45:821][570]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.01.21-07.03.45:821][570]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.01.21-07.03.45:821][570]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.01.21-07.03.45:842][570]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.01.21-07.03.45:862][570]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.01.21-07.03.45:886][570]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.01.21-07.03.45:918][570]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.01.21-07.03.45:918][570]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.01.21-07.03.45:918][570]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.01.21-07.03.45:918][570]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.01.21-07.03.45:939][570]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.01.21-07.03.45:953][570]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.01.21-07.03.45:965][570]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.01.21-07.03.45:970][570]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.01.21-07.03.45:970][570]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.01.21-07.03.45:970][570]LogDirectoryWatcher: A directory notification for 'E:/Documents/GitHub/FITA/FITA_0/Binaries/Win64' was aborted.
+[2018.01.21-07.03.45:998][570]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.21-07.03.45:998][570]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.21-07.03.45:998][570]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.21-07.03.45:998][570]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.21-07.03.45:998][570]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.21-07.03.45:998][570]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.21-07.03.45:998][570]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.21-07.03.46:013][570]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.21-07.03.46:123][570]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.21-07.03.46:229][570]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.21-07.03.46:273][570]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.21-07.03.46:273][570]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.21-07.03.46:273][570]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.21-07.03.46:298][570]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.21-07.03.46:298][570]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.21-07.03.46:300][570]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.21-07.03.46:300][570]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.21-07.03.46:300][570]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.21-07.03.46:309][570]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.21-07.03.46:328][570]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.21-07.03.46:328][570]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.21-07.03.46:328][570]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.21-07.03.46:328][570]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.21-07.03.46:356][570]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.21-07.03.46:356][570]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.21-07.03.46:363][570]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.21-07.03.46:363][570]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.21-07.03.46:363][570]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.21-07.03.46:411][570]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.21-07.03.46:424][570]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.21-07.03.46:424][570]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.21-07.03.46:453][570]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.21-07.03.46:465][570]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.21-07.03.46:483][570]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.21-07.03.46:483][570]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.21-07.03.46:490][570]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.21-07.03.46:514][570]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.21-07.03.46:531][570]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.21-07.03.46:531][570]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.21-07.03.46:555][570]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.21-07.03.46:555][570]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.21-07.03.46:570][570]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.21-07.03.46:570][570]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.21-07.03.46:570][570]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.21-07.03.46:570][570]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.21-07.03.46:570][570]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.21-07.03.46:570][570]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.21-07.03.46:570][570]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.21-07.03.46:579][570]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.21-07.03.46:590][570]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.21-07.03.46:590][570]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.21-07.03.46:619][570]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.21-07.03.46:634][570]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.21-07.03.46:634][570]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.21-07.03.46:647][570]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.21-07.03.46:647][570]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.21-07.03.46:661][570]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.21-07.03.46:672][570]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.21-07.03.46:797][570]LogDerivedDataCache: Shutdown
+[2018.01.21-07.03.46:797][570]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.21-07.03.46:797][570]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.21-07.03.46:807][570]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.21-07.03.46:815][570]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.21-07.03.46:822][570]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.21-07.03.46:833][570]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.21-07.03.46:850][570]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.21-07.03.46:850][570]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.21-07.03.46:850][570]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.21-07.03.46:854][570]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.21-07.03.46:861][570]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.21-07.03.46:862][570]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.21-07.03.46:878][570]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.21-07.03.46:878][570]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.21-07.03.46:878][570]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.21-07.03.46:878][570]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.21-07.03.46:878][570]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.21-07.03.46:905][570]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.21-07.03.46:927][570]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.21-07.03.46:927][570]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.21-07.03.46:942][570]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B847D34A4-4F6F-EF77-33CE-8898B53A8B9E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=f9dbcee846651c3a225fce8ac4323ecf%7C07face00fc92496e89cc018656e266dc%7C7b1b610e-aa61-4dbb-aa05-d832d376c77f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.21-07.03.46:945][570]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.21-07.03.46:953][570]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.21-07.03.46:963][570]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.21-07.03.46:964][570]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.21-07.03.46:987][570]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.21-07.03.47:027][570]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.21-07.03.47:028][570]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.21-07.03.47:028][570]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.21-07.03.47:054][570]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.21-07.03.47:070][570]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.21-07.03.47:070][570]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.21-07.03.47:094][570]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.21-07.03.47:094][570]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.21-07.03.47:111][570]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.21-07.03.47:111][570]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.21-07.03.47:121][570]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.21-07.03.47:121][570]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.21-07.03.47:128][570]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.21-07.03.47:133][570]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.21-07.03.47:151][570]LogExit: Exiting.
+[2018.01.21-07.03.47:177][570]Log file closed, 01/21/18 02:03:47

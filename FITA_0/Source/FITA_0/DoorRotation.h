@@ -8,6 +8,7 @@
 #include "Engine/TriggerVolume.h"
 #include "DoorRotation.generated.h"
 
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnOpenRequest);
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class FITA_0_API UDoorRotation : public UActorComponent
@@ -35,7 +36,7 @@ public:
 		float OpenAngle;
 
 	UPROPERTY(EditAnywhere)
-		ATriggerVolume* PressurePoint;
+		ATriggerVolume* PressurePoint=nullptr;
 
 	UPROPERTY(EditAnywhere)
 		float DoorCloseDelay = 1.0f;
@@ -43,12 +44,15 @@ public:
 	UPROPERTY(EditAnywhere)
 		float TotalMassAllowedToOpen;
 
+	UPROPERTY(BlueprintAssignable)
+		FOnOpenRequest OnOpenRequest;
+
 		float GetMassOnPlate(); 
 	//gets mass for plate
 
 	   float DoorLastOpened;
 		AActor* OpensDoorActor; //pawn is inherted from actor
-	
-		AActor* Owner; //the owning door
+	//the owning door
+		AActor* Owner=nullptr; 
 		
 };

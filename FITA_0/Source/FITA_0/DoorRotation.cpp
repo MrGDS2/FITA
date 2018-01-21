@@ -21,7 +21,12 @@ void UDoorRotation::BeginPlay()
 	Owner = GetOwner();//finds the owner and the actor it opens
 	OpensDoorActor= GetWorld()->GetFirstPlayerController()->GetPawn();
 	//CloseDoor();
+	if(!PressurePoint)
+	{
+		UE_LOG(LogTemp, Error, TEXT("%s has no Trigger volume component on it"), *GetOwner()->GetName())
+	}
 }
+
 
 void UDoorRotation::OpenDoor()
 {
@@ -29,7 +34,9 @@ void UDoorRotation::OpenDoor()
 
 	//create a rotator
 	//set the door rotation
-	Owner->SetActorRotation(FRotator(0.0f, OpenAngle, 0.0f));
+	//Owner->SetActorRotation(FRotator(0.0f, OpenAngle, 0.0f)); rotation code 1/21/18
+
+	OnOpenRequest.Broadcast(); //built for blueprint instead of c++ coding
 }
 void UDoorRotation::CloseDoor()
 {
@@ -48,8 +55,8 @@ void UDoorRotation::TickComponent(float DeltaTime, ELevelTick TickType, FActorCo
 	//if the actor that opens is in the volume
 	if (GetMassOnPlate() > TotalMassAllowedToOpen) {
 		OpenDoor();
-
-		DoorLastOpened=GetWorld()->GetTimeSeconds(); //open time for the door
+        //open time for the door
+		DoorLastOpened=GetWorld()->GetTimeSeconds(); 
 	}
 	//check close time
 	if (GetWorld()->GetTimeSeconds() - DoorLastOpened > DoorCloseDelay)
@@ -64,6 +71,7 @@ float UDoorRotation::GetMassOnPlate()
 	float TotalMass = 0.0f;
 	//find overlapping actors 
 	TArray<AActor*> OverlappingActors;
+	if (!PressurePoint) { return TotalMass;} //pointer replacing
 	PressurePoint->GetOverlappingActors(OUT OverlappingActors);
 	//Interate through them and add their mass
 	for (auto* Actor : OverlappingActors)
