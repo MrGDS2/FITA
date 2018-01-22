@@ -1,0 +1,1089 @@
+﻿Log file open, 01/21/18 17:23:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: ../../../../../../Documents/GitHub/FITA/FITA_0/FITA_0.uproject
+LogInit: Display: RandInit(1020426722) SRandInit(1020426723).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.514504
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Warning: Module file ../../../../../../Documents/GitHub/FITA/FITA_0/Binaries/Win64/UE4Editor-FITA_0-1597.dll is missing. This is likely a stale module that must be recompiled.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Warning: Incompatible or missing module: UE4Editor-FITA_0.dll
+Running E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 Development Win64 -project="E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build.
+@progress push 5%
+@progress pop
+Deleting old hot reload file: "E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\UE4Editor-FITA_0-2222.dll".
+Deleting old hot reload file: "E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\UE4Editor-FITA_0-2222.pdb".
+Deleting old hot reload file: "E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\UE4Editor-FITA_0-366.dll".
+Deleting old hot reload file: "E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\UE4Editor-FITA_0-366.pdb".
+Deleting old hot reload file: "E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\UE4Editor-FITA_0-3966.dll".
+Deleting old hot reload file: "E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\UE4Editor-FITA_0-3966.pdb".
+Deleting old hot reload file: "E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\UE4Editor-FITA_0-5861.dll".
+Deleting old hot reload file: "E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\UE4Editor-FITA_0-5861.pdb".
+Deleting old hot reload file: "E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\UE4Editor-FITA_0-664.dll".
+Deleting old hot reload file: "E:\Documents\GitHub\FITA\FITA_0\Binaries\Win64\UE4Editor-FITA_0-664.pdb".
+Performing 1 actions (3 in parallel)
+[1/1] Link UE4Editor-FITA_0.dll
+   Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0.suppressed.exp
+Total build time: 10.74 seconds (Local executor: 1.83 seconds)
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Documents/GitHub/FITA/FITA_0/Binaries/Win64/UE4Editor-FITA_0.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.21-22.24.25:654][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.21-22.24.25:654][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.21-22.24.25:732][  0]LogInit: Computer: PEARL
+[2018.01.21-22.24.25:732][  0]LogInit: User: Mrgds2
+[2018.01.21-22.24.25:732][  0]LogInit: CPU Page size=4096, Cores=3
+[2018.01.21-22.24.25:732][  0]LogInit: High frequency timer resolution =3.429439 MHz
+[2018.01.21-22.24.25:732][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.21-22.24.25:732][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-22.24.25:732][  0]LogMemory: Process Physical Memory: 276.08 MB used, 276.08 MB peak
+[2018.01.21-22.24.25:732][  0]LogMemory: Process Virtual Memory: 270.16 MB used, 270.16 MB peak
+[2018.01.21-22.24.25:732][  0]LogMemory: Physical Memory: 4000.93 MB used,  4091.94 MB free, 8092.87 MB total
+[2018.01.21-22.24.25:732][  0]LogMemory: Virtual Memory: 738.49 MB used,  4091.94 MB free, 134217728.00 MB total
+[2018.01.21-22.24.26:780][  0]LogInit: Using OS detected language (en-US).
+[2018.01.21-22.24.26:780][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.21-22.24.27:161][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.21-22.24.28:136][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.21-22.24.32:777][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.21-22.24.32:854][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.01.21-22.24.32:854][  0]LogD3D11RHI:       4058/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.21-22.24.32:857][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.21-22.24.32:857][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.21-22.24.32:857][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.21-22.24.32:867][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.21-22.24.32:867][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.21-22.24.32:867][  0]LogWindows: EnumDisplayDevices:
+[2018.01.21-22.24.32:867][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.01.21-22.24.32:867][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.01.21-22.24.32:867][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.21-22.24.32:868][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.21-22.24.32:868][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.21-22.24.32:868][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.01.21-22.24.32:868][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.21-22.24.32:868][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.21-22.24.32:868][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.01.21-22.24.32:920][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.21-22.24.33:055][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.21-22.24.33:155][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Documents/GitHub/FITA/FITA_0/Intermediate/Shaders/WorkingDirectory/11184/).
+[2018.01.21-22.24.33:156][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mrgds/AppData/Local/Temp/UnrealShaderWorkingDir/45FDF14140EACB387B060FBE35F2D62C/'.
+[2018.01.21-22.24.33:156][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.21-22.24.37:374][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.21-22.24.37:475][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.21-22.24.37:621][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.21-22.24.37:812][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.21-22.24.37:951][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.21-22.24.38:046][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.21-22.24.38:138][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.21-22.24.38:231][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.21-22.24.38:308][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.21-22.24.38:397][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.21-22.24.38:485][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.21-22.24.38:573][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.21-22.24.38:668][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.21-22.24.38:756][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.21-22.24.38:942][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.21-22.24.38:942][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.21-22.24.39:064][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.21-22.24.39:136][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.21-22.24.39:380][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.21-22.24.39:436][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.21-22.24.39:525][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.21-22.24.39:613][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.21-22.24.39:701][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.21-22.24.39:807][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.21-22.24.39:807][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.21-22.24.41:774][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.21-22.24.42:278][  0]LogDerivedDataCache: Loaded boot cache 0.50s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.21-22.24.42:278][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.21-22.24.42:278][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/GitHub/FITA/FITA_0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.21-22.24.42:278][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.21-22.24.42:278][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/GitHub/FITA/FITA_0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.21-22.24.42:278][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.21-22.24.42:483][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.21-22.24.42:496][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mrgds/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.21-22.24.42:516][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.21-22.24.42:516][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.21-22.24.42:668][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.21-22.24.42:668][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.21-22.24.49:972][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.21-22.24.51:423][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.21-22.24.51:523][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.21-22.24.51:523][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.21-22.24.51:523][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.21-22.24.51:523][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.21-22.24.51:523][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.21-22.24.51:716][  0]LogNetVersion: FITA_0 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2661453100)
+[2018.01.21-22.24.53:079][  0]LogAssetRegistry: FAssetRegistry took 0.0288 seconds to start up
+[2018.01.21-22.25.03:393][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.218460 seconds
+[2018.01.21-22.25.03:401][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.21-22.25.03:401][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.01.21-22.25.03:401][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.21-22.25.03:500][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.21-22.25.31:322][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.21-22.25.31:395][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.21-22.25.33:358][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.21-22.25.34:480][  0]SourceControl: Source control is disabled
+[2018.01.21-22.25.34:480][  0]SourceControl: Source control is disabled
+[2018.01.21-22.25.34:576][  0]SourceControl: Source control is disabled
+[2018.01.21-22.25.34:669][  0]SourceControl: Source control is disabled
+[2018.01.21-22.25.36:463][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.21-22.25.36:947][  0]LogOcInput: OculusInput pre-init called
+[2018.01.21-22.25.37:624][  0]LogEngine: Initializing Engine...
+[2018.01.21-22.25.37:820][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.01.21-22.25.38:998][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.21-22.25.38:999][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.21-22.25.39:717][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.21-22.25.39:913][  0]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-22.25.39:926][  0]LogInit: FAudioDevice initialized.
+[2018.01.21-22.25.40:060][  0]LogDerivedDataCache: Saved boot cache 0.13s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.21-22.25.40:092][  0]LogInit: Texture streaming: Enabled
+[2018.01.21-22.25.40:365][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.21-22.25.42:523][  0]LogInit: Transaction tracking system initialized
+[2018.01.21-22.25.43:900][  0]BlueprintLog: New page: Editor Load
+[2018.01.21-22.25.48:805][  0]LocalizationService: Localization service is disabled
+[2018.01.21-22.25.54:821][  0]LogConsoleResponse: Display: 
+[2018.01.21-22.26.00:802][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/' took 0.17s
+[2018.01.21-22.26.00:802][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.21-22.26.00:973][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.21-22.26.01:119][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.21-22.26.12:377][  0]SourceControl: Source control is disabled
+[2018.01.21-22.26.12:754][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.21-22.26.12:908][  0]LightingResults: New page: Lighting Build
+[2018.01.21-22.26.15:319][  0]MapCheck: New page: Map Check
+[2018.01.21-22.26.15:319][  0]LightingResults: New page: Lighting Build
+[2018.01.21-22.26.27:973][  0]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-22.26.28:862][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.21-22.26.29:097][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.21-22.26.29:195][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91.61ms to complete.
+[2018.01.21-22.26.29:195][  0]LogFileHelpers: Loading map 'Level_0' took 16.607
+[2018.01.21-22.26.32:425][  0]LogCollectionManager: Loaded 0 collections in 0.003388 seconds
+[2018.01.21-22.26.32:635][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Saved/Collections/' took 0.01s
+[2018.01.21-22.26.32:635][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/Developers/Mrgds2/Collections/' took 0.01s
+[2018.01.21-22.26.32:635][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/FITA/FITA_0/Content/Collections/' took 0.01s
+[2018.01.21-22.26.32:635][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.21-22.26.32:686][  0]LogContentBrowser: Native class hierarchy populated in 0.0492 seconds. Added 2368 classes and 523 folders.
+[2018.01.21-22.26.32:988][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.01.21-22.26.35:581][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.01.21-22.26.36:570][  0]LogSlate: Took 0.018028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.21-22.26.36:681][  0]LogSlate: Took 0.004883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.21-22.26.36:743][  0]LogSlate: Took 0.028082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.21-22.26.37:657][  0]LogRenderer: Reallocating scene render targets to support 1200x688 Format 10 NumSamples 1 (Frame:1).
+[2018.01.21-22.26.38:681][  0]LogSlate: Took 0.017194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-22.26.39:423][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.01.21-22.26.39:423][  0]LogLoad: (Engine Initialization) Total time: 209.90 seconds
+[2018.01.21-22.26.39:423][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.21-22.26.39:438][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.21-22.26.39:438][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.21-22.26.39:587][  0]Cmd: ACTOR HIDE SELECTED
+[2018.01.21-22.26.39:918][  0]Cmd: ACTOR HIDE SELECTED
+[2018.01.21-22.26.40:137][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-22.26.41:616][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.21-22.26.43:079][  6]LogAssetRegistry: Asset discovery search completed in 110.0228 seconds
+[2018.01.21-22.26.43:098][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.21-22.26.43:098][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.014838 seconds (updated 0 objects)
+[2018.01.21-22.27.23:390][803]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-22.27.24:239][803]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.21-22.27.24:490][803]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0054 seconds. Added 116 classes and 0 folders.
+[2018.01.21-22.27.26:978][803]LogSlate: Took 0.028311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.21-22.27.27:531][804]LogSlate: Took 0.014713 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.21-22.30.50:841][525]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-22.36.31:112][927]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-22.36.40:230][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.21-22.36.40:765][954]LogSavePackage: Save=205.49ms
+[2018.01.21-22.36.40:766][954]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto183FFE4464952C588310F57AE71810056.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto1.umap'
+[2018.01.21-22.36.40:770][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto1.umap
+[2018.01.21-22.36.40:810][954]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.687
+[2018.01.21-22.36.40:810][954]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.687
+[2018.01.21-22.36.40:826][954]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Open_door_BP] ([1] browsable assets)...
+[2018.01.21-22.36.40:860][954]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Open_door_BP.Open_door_BP]
+[2018.01.21-22.36.40:860][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/Open_door_BP]
+[2018.01.21-22.36.40:860][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Open_door_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.01.21-22.36.40:944][954]LogSavePackage: Save=60.95ms
+[2018.01.21-22.36.40:944][954]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BP_Auto1CDC37B4644E00DD601D715A8298C301A.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Open_door_BP_Auto1.uasset'
+[2018.01.21-22.36.40:945][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Open_door_BP_Auto1.uasset
+[2018.01.21-22.36.40:945][954]LogFileHelpers: Auto-saving content packages took 0.119
+[2018.01.21-22.37.12:735][ 53]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-22.37.15:888][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2018.01.21-22.37.19:556][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-22.37.19:602][367]LogSavePackage: Save=32.68ms
+[2018.01.21-22.37.19:602][367]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BP7352F67849BF33148F5C2CB6DC02B819.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-22.37.19:608][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-22.37.22:399][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-22.37.22:435][611]LogSavePackage: Save=21.80ms
+[2018.01.21-22.37.22:435][611]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BPBDAD04A6436C157D219446A6EE4F4991.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-22.37.22:436][611]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-22.37.24:840][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-22.37.25:446][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.21-22.37.25:635][860]LogSavePackage: Save=142.26ms
+[2018.01.21-22.37.25:635][860]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_06DACFB26413A97CB1F984E9E01B2B1A1.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap'
+[2018.01.21-22.37.25:640][860]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap
+[2018.01.21-22.37.25:687][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0_BuiltData" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset" SILENT=true
+[2018.01.21-22.37.26:075][860]LogSavePackage: Save=309.03ms
+[2018.01.21-22.37.26:075][860]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_BuiltData5509D11841B7DAAC106DAE91369C6E37.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset'
+[2018.01.21-22.37.26:076][860]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset
+[2018.01.21-22.40.59:566][ 99]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-22.42.30:154][126]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-22.42.30:381][126]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.21-22.42.30:387][126]LogPlayLevel: [PlayLevel] Compiling Open_door_BP before play...
+[2018.01.21-22.42.31:078][126]LogPlayLevel: PlayLevel: Blueprint regeneration took 697 ms (1 blueprints)
+[2018.01.21-22.42.31:231][126]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 12:42:31 PM)
+[2018.01.21-22.42.31:240][126]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-22.42.31:288][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048078s)
+[2018.01.21-22.42.31:290][126]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-22.42.31:307][126]LogPlayLevel: PIE: World Init took: (0.018408s)
+[2018.01.21-22.42.31:307][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.067108s)
+[2018.01.21-22.42.31:392][126]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-22.42.31:399][126]LogInit: FAudioDevice initialized.
+[2018.01.21-22.42.31:490][126]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-22.42.31:608][126]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-17.42.31
+[2018.01.21-22.42.31:638][126]LogWorld: Bringing up level for play took: 0.033243
+[2018.01.21-22.42.31:916][126]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0024 seconds. Added 11 classes and 0 folders.
+[2018.01.21-22.42.31:975][126]LogTemp: Warning: Input component found 
+[2018.01.21-22.42.31:975][126]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-22.42.31:975][126]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.958
+[2018.01.21-22.43.14:891][630]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-22.43.14:939][630]Candidate modules for hot reload:
+[2018.01.21-22.43.14:939][630]  FITA_0
+[2018.01.21-22.43.14:939][630]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 8165 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-22.43.15:100][630]Warning: Starting HotReload took  0.3s.
+[2018.01.21-22.43.22:448][692]CompilerResultsLog: New page: Compilation - Jan 21, 2018, 12:43:22 PM
+[2018.01.21-22.43.22:448][692]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-22.43.22:448][692]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-22.43.22:449][692]CompilerResultsLog: Target is up to date
+[2018.01.21-22.43.22:449][692]CompilerResultsLog: Total build time: 5.54 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.21-22.43.22:460][692]LogMainFrame: MainFrame: Module compiling took 7.555 seconds
+[2018.01.21-22.43.22:941][692]LogContentBrowser: Native class hierarchy populated in 0.0164 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-22.43.22:974][692]Display: HotReload took  8.1s.
+[2018.01.21-22.43.31:682][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-22.43.31:743][732]LogSavePackage: Save=34.16ms
+[2018.01.21-22.43.31:743][732]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BPF5AA9F164AEF755ED9781E846B441481.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-22.43.31:746][732]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-22.43.33:132][748]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-22.43.59:350][108]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-22.44.01:617][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-22.44.01:665][161]LogSavePackage: Save=34.20ms
+[2018.01.21-22.44.01:665][161]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BP130946DF48326AC95ADBC98BAB02CD7F.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-22.44.01:668][161]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-22.44.06:099][445]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-22.44.06:128][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-22.44.06:128][445]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 12:44:06 PM)
+[2018.01.21-22.44.06:129][445]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-22.44.06:139][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009958s)
+[2018.01.21-22.44.06:140][445]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-22.44.06:140][445]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2018.01.21-22.44.06:140][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.011610s)
+[2018.01.21-22.44.06:194][445]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-22.44.06:201][445]LogInit: FAudioDevice initialized.
+[2018.01.21-22.44.06:238][445]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-22.44.06:242][445]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-17.44.06
+[2018.01.21-22.44.06:242][445]LogWorld: Bringing up level for play took: 0.002947
+[2018.01.21-22.44.06:243][445]LogTemp: Warning: Input component found 
+[2018.01.21-22.44.06:243][445]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-22.44.06:244][445]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.773
+[2018.01.21-22.44.37:657][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-22.44.37:681][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-22.44.37:681][ 51]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 12:44:37 PM)
+[2018.01.21-22.44.37:681][ 51]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-22.44.37:691][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009409s)
+[2018.01.21-22.44.37:692][ 51]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-22.44.37:692][ 51]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2018.01.21-22.44.37:692][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.010889s)
+[2018.01.21-22.44.37:745][ 51]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-22.44.37:750][ 51]LogInit: FAudioDevice initialized.
+[2018.01.21-22.44.37:784][ 51]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-22.44.37:787][ 51]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-17.44.37
+[2018.01.21-22.44.37:787][ 51]LogWorld: Bringing up level for play took: 0.002770
+[2018.01.21-22.44.37:789][ 51]LogTemp: Warning: Input component found 
+[2018.01.21-22.44.37:789][ 51]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-22.44.37:789][ 51]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.772
+[2018.01.21-22.45.18:852][888]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP)
+[2018.01.21-22.46.25:059][148]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-22.47.13:129][691]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-22.47.15:089][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-22.47.15:157][724]LogSavePackage: Save=48.56ms
+[2018.01.21-22.47.15:157][724]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BPFDD77BA344B0B928CB00C29434B01342.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-22.47.15:161][724]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-22.47.20:949][946]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-22.47.20:979][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-22.47.20:980][946]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 12:47:20 PM)
+[2018.01.21-22.47.20:980][946]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-22.47.20:989][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009540s)
+[2018.01.21-22.47.20:990][946]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-22.47.20:990][946]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2018.01.21-22.47.20:991][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.011129s)
+[2018.01.21-22.47.21:075][946]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-22.47.21:081][946]LogInit: FAudioDevice initialized.
+[2018.01.21-22.47.21:120][946]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-22.47.21:123][946]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-17.47.21
+[2018.01.21-22.47.21:124][946]LogWorld: Bringing up level for play took: 0.002814
+[2018.01.21-22.47.21:125][946]LogTemp: Warning: Input component found 
+[2018.01.21-22.47.21:125][946]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-22.47.21:125][946]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.109
+[2018.01.21-22.48.08:997][314]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-22.48.09:023][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-22.48.09:023][314]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 12:48:09 PM)
+[2018.01.21-22.48.09:023][314]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-22.48.09:033][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009552s)
+[2018.01.21-22.48.09:034][314]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-22.48.09:034][314]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2018.01.21-22.48.09:034][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.011246s)
+[2018.01.21-22.48.09:082][314]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-22.48.09:087][314]LogInit: FAudioDevice initialized.
+[2018.01.21-22.48.09:125][314]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-22.48.09:129][314]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-17.48.09
+[2018.01.21-22.48.09:129][314]LogWorld: Bringing up level for play took: 0.003410
+[2018.01.21-22.48.09:131][314]LogTemp: Warning: Input component found 
+[2018.01.21-22.48.09:131][314]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-22.48.09:131][314]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.114
+[2018.01.21-22.48.53:181][195]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-22.48.55:345][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-22.48.55:402][248]LogSavePackage: Save=35.91ms
+[2018.01.21-22.48.55:402][248]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BP77C87E004E87B49CC9B4AEA6A2A67A41.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-22.48.55:405][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-22.48.57:907][386]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-22.48.57:937][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-22.48.57:937][386]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 12:48:57 PM)
+[2018.01.21-22.48.57:937][386]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-22.48.57:946][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009266s)
+[2018.01.21-22.48.57:947][386]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-22.48.57:947][386]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2018.01.21-22.48.57:948][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.010651s)
+[2018.01.21-22.48.57:999][386]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-22.48.58:005][386]LogInit: FAudioDevice initialized.
+[2018.01.21-22.48.58:044][386]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-22.48.58:047][386]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-17.48.58
+[2018.01.21-22.48.58:048][386]LogWorld: Bringing up level for play took: 0.002681
+[2018.01.21-22.48.58:049][386]LogTemp: Warning: Input component found 
+[2018.01.21-22.48.58:049][386]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-22.48.58:049][386]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 1.032
+[2018.01.21-22.49.37:312][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof3)
+[2018.01.21-22.49.37:462][812]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.21-22.49.40:368][ 69]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.21-22.49.40:456][ 74]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Roof3)
+[2018.01.21-22.49.43:332][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof3)
+[2018.01.21-22.49.43:441][335]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.21-22.49.58:481][586]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.21-22.50.00:932][705]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.21-22.50.22:880][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof5)
+[2018.01.21-22.50.40:907][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-22.50.46:869][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.21-22.50.47:561][549]LogSavePackage: Save=633.42ms
+[2018.01.21-22.50.47:561][549]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_060046112442CAD3C6B0F078C630D072D.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap'
+[2018.01.21-22.50.47:568][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap
+[2018.01.21-22.50.47:614][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0_BuiltData" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset" SILENT=true
+[2018.01.21-22.50.47:857][549]LogSavePackage: Save=217.83ms
+[2018.01.21-22.50.47:857][549]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_BuiltDataB4026B774ED9F596DCFF459B698361EC.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset'
+[2018.01.21-22.50.47:859][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset
+[2018.01.21-22.51.18:588][824]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.21-22.51.22:915][834]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.21-22.51.36:240][874]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.21-22.53.19:927][185]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.21-22.56.03:548][676]LogWindows: LaunchFileInExternalEditor E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/DoorRotation.h 
+[2018.01.21-22.56.03:753][676]LogWindows: Launch application code for E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/DoorRotation.h : 42
+[2018.01.21-22.56.03:753][676]LogWindows: LaunchFileInExternalEditor E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/DoorRotation.cpp 
+[2018.01.21-22.56.03:897][676]LogWindows: Launch application code for E:/Documents/GitHub/FITA/FITA_0/Source/FITA_0/DoorRotation.cpp : 42
+[2018.01.21-22.56.03:897][676]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-22.56.03:917][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:917][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:918][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:918][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:918][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:918][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:918][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:918][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:919][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:919][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:919][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:919][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:920][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:920][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:920][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:920][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:920][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:920][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:920][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:921][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:921][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:921][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:921][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:921][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:921][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:922][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:922][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:922][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:922][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:922][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:922][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:923][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:923][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:923][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:923][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:923][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:923][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:923][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:923][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:924][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:924][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:924][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:924][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:924][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:924][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:924][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:925][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:925][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:925][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:925][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:925][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:925][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:926][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:926][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:926][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:926][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:926][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:926][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:927][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:927][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:927][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:927][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:927][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:927][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:927][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:928][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:928][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:928][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:928][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:928][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:928][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:929][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:929][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:929][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:929][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:929][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:929][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:929][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:930][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:930][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:930][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:930][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:930][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:930][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:930][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:931][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:931][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:931][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:931][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:935][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:936][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:936][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:936][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:936][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:937][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:937][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:938][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:938][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:940][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:940][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:941][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:941][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:941][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:947][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:950][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:951][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:951][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.03:951][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.04:028][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.04:050][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.56.04:079][676]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.21-22.58.34:868][203]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-22.58.34:893][203]Candidate modules for hot reload:
+[2018.01.21-22.58.34:893][203]  FITA_0
+[2018.01.21-22.58.34:894][203]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 8821 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-22.58.35:058][203]Warning: Starting HotReload took  0.2s.
+[2018.01.21-23.00.42:282][734]CompilerResultsLog: New page: Compilation - Jan 21, 2018, 1:00:42 PM
+[2018.01.21-23.00.42:307][734]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-23.00.42:307][734]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-23.00.42:308][734]CompilerResultsLog: Parsing headers for FITA_0Editor
+[2018.01.21-23.00.42:308][734]CompilerResultsLog:   Running UnrealHeaderTool "E:\Documents\GitHub\FITA\FITA_0\FITA_0.uproject" "E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\FITA_0Editor\Development\FITA_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.01.21-23.00.42:308][734]CompilerResultsLog: Reflection code generated for FITA_0Editor in 41.2883439 seconds
+[2018.01.21-23.00.42:308][734]CompilerResultsLog: Performing 5 actions (3 in parallel)
+[2018.01.21-23.00.42:308][734]CompilerResultsLog: DoorRotation.cpp
+[2018.01.21-23.00.42:308][734]CompilerResultsLog: DoorRotation.gen.cpp
+[2018.01.21-23.00.42:308][734]CompilerResultsLog: FITA_0.init.gen.cpp
+[2018.01.21-23.00.42:308][734]CompilerResultsLog: [4/5] Link UE4Editor-FITA_0-8821.dll
+[2018.01.21-23.00.42:308][734]CompilerResultsLog: [5/5] Link UE4Editor-FITA_0-8821.lib
+[2018.01.21-23.00.42:308][734]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-8821.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-8821.exp
+[2018.01.21-23.00.42:308][734]CompilerResultsLog:    Creating library E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-8821.suppressed.lib and object E:\Documents\GitHub\FITA\FITA_0\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FITA_0-8821.suppressed.exp
+[2018.01.21-23.00.42:308][734]CompilerResultsLog: Total build time: 125.80 seconds (Local executor: 81.63 seconds)
+[2018.01.21-23.00.42:334][734]LogMainFrame: MainFrame: Module compiling took 127.466 seconds
+[2018.01.21-23.00.44:446][734]LogClass: Could not find existing class DoorRotation in package /Script/FITA_0 for HotReload, assuming new class
+[2018.01.21-23.00.44:646][734]LogHotReload: Re-instancing DoorRotation after hot-reload.
+[2018.01.21-23.00.46:543][734]LogContentBrowser: Native class hierarchy updated for 'FITA_0' in 0.0204 seconds. Added 4 classes and 2 folders.
+[2018.01.21-23.00.46:572][734]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.01.21-23.00.47:619][734]LogContentBrowser: Native class hierarchy populated in 0.0317 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-23.00.47:660][734]Display: HotReload took 132.8s.
+[2018.01.21-23.09.59:070][894]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-23.10.07:457][229]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-23.10.07:580][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-23.10.07:639][229]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 1:10:07 PM)
+[2018.01.21-23.10.07:646][229]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-23.10.07:989][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.343216s)
+[2018.01.21-23.10.08:060][229]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-23.10.08:117][229]LogPlayLevel: PIE: World Init took: (0.128377s)
+[2018.01.21-23.10.08:132][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.492641s)
+[2018.01.21-23.10.08:510][229]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-23.10.08:547][229]LogInit: FAudioDevice initialized.
+[2018.01.21-23.10.08:720][229]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-23.10.08:834][229]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-18.10.08
+[2018.01.21-23.10.08:876][229]LogWorld: Bringing up level for play took: 0.083030
+[2018.01.21-23.10.09:166][229]LogTemp: Warning: Input component found 
+[2018.01.21-23.10.09:166][229]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-23.10.09:202][229]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 2.174
+[2018.01.21-23.10.30:414][587]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-23.10.30:443][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-23.10.30:443][587]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 1:10:30 PM)
+[2018.01.21-23.10.30:444][587]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-23.10.30:454][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010549s)
+[2018.01.21-23.10.30:455][587]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-23.10.30:456][587]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2018.01.21-23.10.30:456][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.012497s)
+[2018.01.21-23.10.30:510][587]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-23.10.30:516][587]LogInit: FAudioDevice initialized.
+[2018.01.21-23.10.30:557][587]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-23.10.30:561][587]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-18.10.30
+[2018.01.21-23.10.30:561][587]LogWorld: Bringing up level for play took: 0.003264
+[2018.01.21-23.10.30:563][587]LogTemp: Warning: Input component found 
+[2018.01.21-23.10.30:563][587]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-23.10.30:563][587]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.454
+[2018.01.21-23.11.15:903][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MatPreviewMesh_02)
+[2018.01.21-23.11.20:028][139]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-23.11.20:042][139]Candidate modules for hot reload:
+[2018.01.21-23.11.20:042][139]  FITA_0
+[2018.01.21-23.11.20:042][139]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 1499 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-23.11.20:216][139]Warning: Starting HotReload took  0.2s.
+[2018.01.21-23.11.22:353][247]CompilerResultsLog: New page: Compilation - Jan 21, 2018, 1:11:22 PM
+[2018.01.21-23.11.22:353][247]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-23.11.22:353][247]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-23.11.22:354][247]CompilerResultsLog: Target is up to date
+[2018.01.21-23.11.22:354][247]CompilerResultsLog: Total build time: 1.72 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.21-23.11.22:354][247]LogMainFrame: MainFrame: Module compiling took 2.325 seconds
+[2018.01.21-23.11.22:753][247]LogContentBrowser: Native class hierarchy populated in 0.0194 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-23.11.22:753][247]Display: HotReload took  2.7s.
+[2018.01.21-23.11.23:903][309]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-23.11.23:931][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-23.11.23:931][309]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 1:11:23 PM)
+[2018.01.21-23.11.23:932][309]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-23.11.23:941][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009367s)
+[2018.01.21-23.11.23:942][309]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-23.11.23:942][309]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2018.01.21-23.11.23:943][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.011017s)
+[2018.01.21-23.11.24:050][309]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-23.11.24:056][309]LogInit: FAudioDevice initialized.
+[2018.01.21-23.11.24:092][309]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-23.11.24:095][309]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-18.11.24
+[2018.01.21-23.11.24:096][309]LogWorld: Bringing up level for play took: 0.002665
+[2018.01.21-23.11.24:097][309]LogTemp: Warning: Input component found 
+[2018.01.21-23.11.24:097][309]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-23.11.24:097][309]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 1.081
+[2018.01.21-23.11.59:292][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MatPreviewMesh_02)
+[2018.01.21-23.12.14:133][119]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-23.12.14:147][119]Candidate modules for hot reload:
+[2018.01.21-23.12.14:147][119]  FITA_0
+[2018.01.21-23.12.14:148][119]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 8583 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-23.12.14:287][119]Warning: Starting HotReload took  0.2s.
+[2018.01.21-23.12.16:257][225]CompilerResultsLog: New page: Compilation - Jan 21, 2018, 1:12:16 PM
+[2018.01.21-23.12.16:257][225]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-23.12.16:257][225]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-23.12.16:257][225]CompilerResultsLog: Target is up to date
+[2018.01.21-23.12.16:257][225]CompilerResultsLog: Total build time: 1.64 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.21-23.12.16:257][225]LogMainFrame: MainFrame: Module compiling took 2.124 seconds
+[2018.01.21-23.12.16:648][225]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-23.12.16:649][225]Display: HotReload took  2.5s.
+[2018.01.21-23.12.22:285][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair4)
+[2018.01.21-23.12.24:626][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x401)
+[2018.01.21-23.12.26:701][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2018.01.21-23.12.30:921][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MatPreviewMesh_02)
+[2018.01.21-23.13.05:016][730]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-23.13.05:041][730]Candidate modules for hot reload:
+[2018.01.21-23.13.05:041][730]  FITA_0
+[2018.01.21-23.13.05:041][730]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 4057 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-23.13.05:187][730]Warning: Starting HotReload took  0.2s.
+[2018.01.21-23.13.07:082][788]CompilerResultsLog: New page: Compilation - Jan 21, 2018, 1:13:07 PM
+[2018.01.21-23.13.07:082][788]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-23.13.07:082][788]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-23.13.07:082][788]CompilerResultsLog: Target is up to date
+[2018.01.21-23.13.07:082][788]CompilerResultsLog: Total build time: 1.61 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.21-23.13.07:082][788]LogMainFrame: MainFrame: Module compiling took 2.067 seconds
+[2018.01.21-23.13.07:535][788]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-23.13.07:535][788]Display: HotReload took  2.5s.
+[2018.01.21-23.13.08:325][819]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-23.13.08:351][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-23.13.08:351][819]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 1:13:08 PM)
+[2018.01.21-23.13.08:351][819]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-23.13.08:360][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009125s)
+[2018.01.21-23.13.08:361][819]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-23.13.08:361][819]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2018.01.21-23.13.08:362][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.010610s)
+[2018.01.21-23.13.08:481][819]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-23.13.08:487][819]LogInit: FAudioDevice initialized.
+[2018.01.21-23.13.08:525][819]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-23.13.08:528][819]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-18.13.08
+[2018.01.21-23.13.08:528][819]LogWorld: Bringing up level for play took: 0.002604
+[2018.01.21-23.13.08:530][819]LogTemp: Warning: Input component found 
+[2018.01.21-23.13.08:530][819]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-23.13.08:530][819]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.487
+[2018.01.21-23.13.14:997][212]LogTemp: Warning: Your looking at the: SM_MatPreviewMesh_02_14 
+[2018.01.21-23.13.14:997][212]LogTemp: Warning: Your looking at the: SM_MatPreviewMesh_02_14 
+[2018.01.21-23.13.21:343][933]LogTemp: Warning: Your looking at the: SM_MatPreviewMesh_02_14 
+[2018.01.21-23.13.21:343][933]LogTemp: Warning: Your looking at the: SM_MatPreviewMesh_02_14 
+[2018.01.21-23.13.23:128][145]LogTemp: Warning: Your looking at the: SM_MatPreviewMesh_02_14 
+[2018.01.21-23.13.23:128][145]LogTemp: Warning: Your looking at the: SM_MatPreviewMesh_02_14 
+[2018.01.21-23.13.41:750][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2018.01.21-23.13.42:381][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.01.21-23.14.04:389][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2018.01.21-23.14.04:747][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.21-23.14.05:331][599]LogSavePackage: Save=136.60ms
+[2018.01.21-23.14.05:332][599]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_06E72824D4F147CA87D71F09C80551144.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap'
+[2018.01.21-23.14.05:339][599]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap
+[2018.01.21-23.14.05:385][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0_BuiltData" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset" SILENT=true
+[2018.01.21-23.14.05:620][599]LogSavePackage: Save=211.53ms
+[2018.01.21-23.14.05:620][599]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_BuiltData39DB79814F76E6737AC991B78AD83CFB.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset'
+[2018.01.21-23.14.05:622][599]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset
+[2018.01.21-23.14.13:490][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.21-23.14.13:691][289]LogSavePackage: Save=154.56ms
+[2018.01.21-23.14.13:692][289]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_030D53FD04D5CA3AE91996DB301C8738A.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap'
+[2018.01.21-23.14.13:693][289]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap
+[2018.01.21-23.14.13:733][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0_BuiltData" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset" SILENT=true
+[2018.01.21-23.14.13:947][289]LogSavePackage: Save=200.75ms
+[2018.01.21-23.14.13:947][289]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_BuiltDataD56790CB480D92EC1AC518A156B3FDF4.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset'
+[2018.01.21-23.14.13:949][289]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset
+[2018.01.21-23.24.03:526][323]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-23.24.13:346][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-23.24.13:635][617]LogSavePackage: Save=259.21ms
+[2018.01.21-23.24.13:635][617]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BP61B7AC4C474CE05846B31C8F62201D86.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-23.24.13:642][617]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-23.24.16:208][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-23.24.17:026][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.21-23.24.17:250][900]LogSavePackage: Save=162.23ms
+[2018.01.21-23.24.17:251][900]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_086B02A254DD92FAA68C1BDAA75FE2718.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap'
+[2018.01.21-23.24.17:254][900]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0.umap
+[2018.01.21-23.24.17:296][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0_BuiltData" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset" SILENT=true
+[2018.01.21-23.24.17:531][900]LogSavePackage: Save=210.13ms
+[2018.01.21-23.24.17:531][900]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_BuiltData8D2765DC471770F2485B2B841D8EB057.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset'
+[2018.01.21-23.24.17:533][900]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Level_0_BuiltData.uasset
+[2018.01.21-23.25.38:683][306]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-23.26.06:398][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-23.26.06:468][754]LogSavePackage: Save=54.27ms
+[2018.01.21-23.26.06:469][754]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BPDA8C920346E908EA0C09D09490544674.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-23.26.06:472][754]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-23.26.39:007][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.21-23.26.40:022][631]LogEditorViewport: Clicking on Actor (LMB): Open_door_BP_C (Open_door_BP)
+[2018.01.21-23.28.25:887][590]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-23.28.27:398][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-23.28.27:471][609]LogSavePackage: Save=56.41ms
+[2018.01.21-23.28.27:471][609]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BP304D21CF44D89480E4CCAEA88D889DCF.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-23.28.27:475][609]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-23.29.32:160][554]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-23.29.33:725][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-23.29.33:803][577]LogSavePackage: Save=53.68ms
+[2018.01.21-23.29.33:803][577]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BP08A98F5F4675D1553F0EFB85F4B1EECB.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-23.29.33:807][577]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-23.29.38:034][786]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-23.29.38:140][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-23.29.38:140][786]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 1:29:38 PM)
+[2018.01.21-23.29.38:141][786]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-23.29.38:164][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023353s)
+[2018.01.21-23.29.38:165][786]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-23.29.38:166][786]LogPlayLevel: PIE: World Init took: (0.001735s)
+[2018.01.21-23.29.38:166][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.025621s)
+[2018.01.21-23.29.38:221][786]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-23.29.38:229][786]LogInit: FAudioDevice initialized.
+[2018.01.21-23.29.38:268][786]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-23.29.38:272][786]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-18.29.38
+[2018.01.21-23.29.38:273][786]LogWorld: Bringing up level for play took: 0.003140
+[2018.01.21-23.29.38:275][786]LogTemp: Warning: Input component found 
+[2018.01.21-23.29.38:275][786]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-23.29.38:275][786]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.742
+[2018.01.21-23.30.17:742][698]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Documents\MAGIX\Music Maker\My Record\PuzzleSolved.wav)
+[2018.01.21-23.30.17:800][698]LogAudioDerivedData: Display: Building compressed audio format OGG wave PuzzleSolved...
+[2018.01.21-23.30.17:947][698]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/PuzzleSolved.PuzzleSolved.
+[2018.01.21-23.30.38:103][217]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-23.30.42:021][408]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-23.30.42:046][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-23.30.42:047][408]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 1:30:42 PM)
+[2018.01.21-23.30.42:047][408]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-23.30.42:056][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009079s)
+[2018.01.21-23.30.42:057][408]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-23.30.42:057][408]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2018.01.21-23.30.42:057][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.010417s)
+[2018.01.21-23.30.42:106][408]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-23.30.42:112][408]LogInit: FAudioDevice initialized.
+[2018.01.21-23.30.42:147][408]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-23.30.42:150][408]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-18.30.42
+[2018.01.21-23.30.42:150][408]LogWorld: Bringing up level for play took: 0.002903
+[2018.01.21-23.30.42:152][408]LogTemp: Warning: Input component found 
+[2018.01.21-23.30.42:152][408]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-23.30.42:152][408]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 -0.865
+[2018.01.21-23.31.34:538][ 43]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-23.34.07:676][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-23.34.07:755][454]LogSavePackage: Save=58.12ms
+[2018.01.21-23.34.07:755][454]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BPA0BC0E2743E1DE1F7C3BBAAC0B457BDB.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-23.34.07:758][454]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-23.34.59:488][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.21-23.34.59:666][  5]LogSavePackage: Save=148.90ms
+[2018.01.21-23.34.59:666][  5]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto22D08285A437E3FF226D58194F2E98FC7.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto2.umap'
+[2018.01.21-23.34.59:668][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto2.umap
+[2018.01.21-23.34.59:681][  5]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.262
+[2018.01.21-23.34.59:681][  5]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.262
+[2018.01.21-23.34.59:743][  5]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/PuzzleSolved] ([1] browsable assets)...
+[2018.01.21-23.34.59:776][  5]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/PuzzleSolved.PuzzleSolved]
+[2018.01.21-23.34.59:776][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/PuzzleSolved]
+[2018.01.21-23.34.59:776][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/PuzzleSolved" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Audio/PuzzleSolved_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.21-23.34.59:802][  5]LogSavePackage: Save=23.09ms
+[2018.01.21-23.34.59:802][  5]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/PuzzleSolved_Auto2D12300AC460C6C21EA5367A43810C77B.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Audio/PuzzleSolved_Auto2.uasset'
+[2018.01.21-23.34.59:803][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Audio/PuzzleSolved_Auto2.uasset
+[2018.01.21-23.34.59:804][  5]LogFileHelpers: Auto-saving content packages took 0.078
+[2018.01.21-23.36.33:567][976]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-23.36.35:140][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset" SILENT=true
+[2018.01.21-23.36.35:230][ 10]LogSavePackage: Save=63.40ms
+[2018.01.21-23.36.35:230][ 10]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BPDC04F08B4776430B957DCAB04A92B0AE.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset'
+[2018.01.21-23.36.35:234][ 10]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Content/Open_door_BP.uasset
+[2018.01.21-23.36.37:560][122]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-23.36.37:585][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-23.36.37:585][122]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 1:36:37 PM)
+[2018.01.21-23.36.37:585][122]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-23.36.37:595][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010451s)
+[2018.01.21-23.36.37:596][122]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-23.36.37:597][122]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2018.01.21-23.36.37:597][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.012381s)
+[2018.01.21-23.36.37:653][122]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-23.36.37:659][122]LogInit: FAudioDevice initialized.
+[2018.01.21-23.36.37:697][122]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-23.36.37:701][122]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-18.36.37
+[2018.01.21-23.36.37:702][122]LogWorld: Bringing up level for play took: 0.003318
+[2018.01.21-23.36.37:703][122]LogTemp: Warning: Input component found 
+[2018.01.21-23.36.37:703][122]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-23.36.37:704][122]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.687
+[2018.01.21-23.41.12:855][816]BlueprintLog: New page: Compile Open_door_BP
+[2018.01.21-23.41.19:059][211]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.01.21-23.42.04:697][830]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.21-23.42.04:758][830]Candidate modules for hot reload:
+[2018.01.21-23.42.04:759][830]  FITA_0
+[2018.01.21-23.42.04:759][830]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FITA_0 -ModuleWithSuffix FITA_0 1144 Win64 Development -editorrecompile -canskiplink "E:/Documents/GitHub/FITA/FITA_0/FITA_0.uproject" ]
+[2018.01.21-23.42.05:409][830]Warning: Starting HotReload took  0.7s.
+[2018.01.21-23.42.08:021][859]CompilerResultsLog: New page: Compilation - Jan 21, 2018, 1:42:08 PM
+[2018.01.21-23.42.08:021][859]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.21-23.42.08:021][859]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.21-23.42.08:021][859]CompilerResultsLog: Target is up to date
+[2018.01.21-23.42.08:021][859]CompilerResultsLog: Total build time: 1.97 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.01.21-23.42.08:021][859]LogMainFrame: MainFrame: Module compiling took 3.324 seconds
+[2018.01.21-23.42.08:540][859]LogContentBrowser: Native class hierarchy populated in 0.0210 seconds. Added 2369 classes and 525 folders.
+[2018.01.21-23.42.08:540][859]Display: HotReload took  3.8s.
+[2018.01.21-23.42.11:379][895]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-23.42.11:406][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-23.42.11:406][895]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 1:42:11 PM)
+[2018.01.21-23.42.11:406][895]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-23.42.11:418][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011903s)
+[2018.01.21-23.42.11:419][895]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-23.42.11:419][895]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2018.01.21-23.42.11:420][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.013509s)
+[2018.01.21-23.42.11:567][895]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-23.42.11:573][895]LogInit: FAudioDevice initialized.
+[2018.01.21-23.42.11:610][895]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-23.42.11:613][895]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-18.42.11
+[2018.01.21-23.42.11:614][895]LogWorld: Bringing up level for play took: 0.002728
+[2018.01.21-23.42.11:615][895]LogTemp: Warning: Input component found 
+[2018.01.21-23.42.11:615][895]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-23.42.11:615][895]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.598
+[2018.01.21-23.42.25:653][  8]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.21-23.42.25:682][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-23.42.25:682][  8]PIE: New page: PIE session: Level_0 (Jan 21, 2018, 1:42:25 PM)
+[2018.01.21-23.42.25:682][  8]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_0
+[2018.01.21-23.42.25:695][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012150s)
+[2018.01.21-23.42.25:695][  8]LogAIModule: Creating AISystem for world Level_0
+[2018.01.21-23.42.25:696][  8]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2018.01.21-23.42.25:696][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0.Level_0 to /Game/UEDPIE_0_Level_0.Level_0 (0.013435s)
+[2018.01.21-23.42.25:744][  8]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.01.21-23.42.25:752][  8]LogInit: FAudioDevice initialized.
+[2018.01.21-23.42.25:785][  8]LogLoad: Game class is 'MyFITA_0GameModeBase_BP_C'
+[2018.01.21-23.42.25:789][  8]LogWorld: Bringing World /Game/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 0) at 2018.01.21-18.42.25
+[2018.01.21-23.42.25:789][  8]LogWorld: Bringing up level for play took: 0.003064
+[2018.01.21-23.42.25:791][  8]LogTemp: Warning: Input component found 
+[2018.01.21-23.42.25:791][  8]LogTemp: Warning: SM_Chair2_8 is at X=-220.000 Y=380.000 Z=20.000 
+[2018.01.21-23.42.25:791][  8]PIE: Play in editor start time for /Game/UEDPIE_0_Level_0 0.774
+[2018.01.21-23.42.30:670][543]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.01.21-23.42.33:192][747]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (PuzzleSolved)
+[2018.01.21-23.47.02:569][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.21-23.47.02:764][916]LogSavePackage: Save=158.53ms
+[2018.01.21-23.47.02:764][916]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Level_0_Auto3271A2E8940A53BB3B79179AE59B7578B.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto3.umap'
+[2018.01.21-23.47.02:765][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Level_0_Auto3.umap
+[2018.01.21-23.47.02:771][916]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_0' took 0.243
+[2018.01.21-23.47.02:771][916]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.243
+[2018.01.21-23.47.02:859][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Open_door_BP] ([1] browsable assets)...
+[2018.01.21-23.47.02:964][916]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Open_door_BP.Open_door_BP]
+[2018.01.21-23.47.02:964][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/Open_door_BP]
+[2018.01.21-23.47.02:964][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Open_door_BP" FILE="../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Open_door_BP_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.01.21-23.47.03:046][916]LogSavePackage: Save=59.24ms
+[2018.01.21-23.47.03:046][916]LogSavePackage: Moving '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Open_door_BP_Auto310836956446E6CBD82DD39B3FEE4B2BE.tmp' to '../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Open_door_BP_Auto3.uasset'
+[2018.01.21-23.47.03:047][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/FITA/FITA_0/Saved/Autosaves/Game/Open_door_BP_Auto3.uasset
+[2018.01.21-23.47.03:047][916]LogFileHelpers: Auto-saving content packages took 0.189

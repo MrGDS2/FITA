@@ -86,7 +86,7 @@ void UGrabber::FindPhysicsHandlerComponent()
 void UGrabber::Grab()
 {
 
-
+	
 		//Trace line and see if we reach any actors with a physics body collision channel set
 		GetFirstPhysicBodyReach();
 
@@ -97,6 +97,8 @@ void UGrabber::Grab()
 	//Check to see if an actor was hit
 	if (!PH) { return; }
 	if (ActorHit) {
+		//grabsound
+		OnGrab.Broadcast();
 		PH->GrabComponent(
 			ComponentToGrab,
 			NAME_None,
@@ -106,8 +108,9 @@ void UGrabber::Grab()
 
 }
 void UGrabber::Release()
-{
-		PH->ReleaseComponent();
+{//drop sound
+	OnDrop.Broadcast();
+	PH->ReleaseComponent();
 }
 
 /// Called every frame

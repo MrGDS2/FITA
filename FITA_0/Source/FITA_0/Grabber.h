@@ -9,6 +9,7 @@
 #include "Components/InputComponent.h"
 #include "Grabber.generated.h"
 
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FGrabEvent);
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class FITA_0_API UGrabber : public UActorComponent
@@ -45,6 +46,12 @@ private:
 
 	//Set up Input component on actor
 	void SetInputComponent();
+
+	UPROPERTY(BlueprintAssignable)
+		FGrabEvent OnGrab;
+
+	UPROPERTY(BlueprintAssignable)
+		FGrabEvent OnDrop;
 
 	const FHitResult GetFirstPhysicBodyReach();
 	
