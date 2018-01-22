@@ -14,9 +14,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FITA_0_DoorRotation_generated_h
 
 #define FITA_0_Source_FITA_0_DoorRotation_h_11_DELEGATE \
-static inline void FOnOpenRequest_DelegateWrapper(const FMulticastScriptDelegate& OnOpenRequest) \
+static inline void FDoorEvent_DelegateWrapper(const FMulticastScriptDelegate& DoorEvent) \
 { \
-	OnOpenRequest.ProcessMulticastDelegate<UObject>(NULL); \
+	DoorEvent.ProcessMulticastDelegate<UObject>(NULL); \
 }
 
 
@@ -71,7 +71,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDoorRotation); \
 	FORCEINLINE static uint32 __PPO__PressurePoint() { return STRUCT_OFFSET(UDoorRotation, PressurePoint); } \
 	FORCEINLINE static uint32 __PPO__DoorCloseDelay() { return STRUCT_OFFSET(UDoorRotation, DoorCloseDelay); } \
 	FORCEINLINE static uint32 __PPO__TotalMassAllowedToOpen() { return STRUCT_OFFSET(UDoorRotation, TotalMassAllowedToOpen); } \
-	FORCEINLINE static uint32 __PPO__OnOpenRequest() { return STRUCT_OFFSET(UDoorRotation, OnOpenRequest); }
+	FORCEINLINE static uint32 __PPO__OnOpen() { return STRUCT_OFFSET(UDoorRotation, OnOpen); } \
+	FORCEINLINE static uint32 __PPO__OnClose() { return STRUCT_OFFSET(UDoorRotation, OnClose); }
 
 
 #define FITA_0_Source_FITA_0_DoorRotation_h_13_PROLOG

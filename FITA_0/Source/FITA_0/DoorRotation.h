@@ -8,7 +8,7 @@
 #include "Engine/TriggerVolume.h"
 #include "DoorRotation.generated.h"
 
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnOpenRequest);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FDoorEvent);
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class FITA_0_API UDoorRotation : public UActorComponent
@@ -45,7 +45,10 @@ public:
 		float TotalMassAllowedToOpen;
 
 	UPROPERTY(BlueprintAssignable)
-		FOnOpenRequest OnOpenRequest;
+		FDoorEvent OnOpen;
+
+	UPROPERTY(BlueprintAssignable)
+		FDoorEvent OnClose;
 
 		float GetMassOnPlate(); 
 	//gets mass for plate

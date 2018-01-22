@@ -28,7 +28,7 @@ void UDoorRotation::BeginPlay()
 }
 
 
-void UDoorRotation::OpenDoor()
+/**void UDoorRotation::OpenDoor()
 {
 
 
@@ -36,7 +36,7 @@ void UDoorRotation::OpenDoor()
 	//set the door rotation
 	//Owner->SetActorRotation(FRotator(0.0f, OpenAngle, 0.0f)); rotation code 1/21/18
 
-	OnOpenRequest.Broadcast(); //built for blueprint instead of c++ coding
+	
 }
 void UDoorRotation::CloseDoor()
 {
@@ -45,6 +45,7 @@ void UDoorRotation::CloseDoor()
 
 	Owner->SetActorRotation(FRotator(0.0f, 0.0f, 0.0f)); //my doors are lefthanded doors 
 }
+1/21/18**/
 
 // Called every frame
 void UDoorRotation::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
@@ -54,15 +55,17 @@ void UDoorRotation::TickComponent(float DeltaTime, ELevelTick TickType, FActorCo
 	//poll the trigger volume
 	//if the actor that opens is in the volume
 	if (GetMassOnPlate() > TotalMassAllowedToOpen) {
-		OpenDoor();
+		//OpenDoor();
+		OnOpen.Broadcast(); //built for blueprint instead of c++ coding
         //open time for the door
-		DoorLastOpened=GetWorld()->GetTimeSeconds(); 
+		//DoorLastOpened=GetWorld()->GetTimeSeconds(); 
 	}
 	//check close time
-	if (GetWorld()->GetTimeSeconds() - DoorLastOpened > DoorCloseDelay)
+	//if (GetWorld()->GetTimeSeconds() - DoorLastOpened > DoorCloseDelay) 1/21/18
+	else
 	{
-
-		CloseDoor();
+		OnClose.Broadcast();
+		//CloseDoor();
 	}
 }
 
